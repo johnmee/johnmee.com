@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>{{ title|default('John Mee—Python Programmer—Sydney') }}</title>
+    <meta name="description" content="{{ description }}">
+    <meta name="author" content="John Mee">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:400,300,600" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"
+          type="text/css">
+    <link rel="stylesheet" href="{{ url_for("static", filename="css/normalize.css") }}" type="text/css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/skeleton.css') }}" type="text/css">
+    <link rel="stylesheet" href="{{ url_for('pygments_css') }}" type="text/css">
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/favicon.png') }}">
+</head>
+<body>
+<div class="container">
+    {% block container %}
+    {% endblock %}
+</div>
+
+{% if debug %}
+    <div>DEBUG mode skips analytics.</div>
+{% else %}
+    {% include 'ga.html' %}
+{% endif %}
+
+</body>
+</html>
