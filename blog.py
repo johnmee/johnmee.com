@@ -1,10 +1,10 @@
+import markdown
+import datetime
+
 from flask import Flask
 from flask import render_template
 from flask import render_template_string
 from flask import send_from_directory
-
-import markdown
-import datetime
 
 from flask_flatpages import FlatPages
 from flask_flatpages import pygments_style_defs
