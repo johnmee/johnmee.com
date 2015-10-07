@@ -10,11 +10,12 @@ disqus: http://sydneyboy.com.au/2008/10/aeron-or-leap-chair-review/
 A chair is an underrated essential item for a programmer; consider how much time is spent in it.
 
 Things came to a head when I moved recently. Whilst lugging around all those boxes and furniture 
-my back insisted on telling me it is in poor health.  Most probably I arrived at this situation 
-by sitting a large, very impressive, leather executive chair which my cousin lent me whilst he 
-is overseas.  It really looks and feels great to other people who saw me in it; but was terrible 
-for me to actually sit in over time - being quite a short fella perhaps didn't help.  I was 
-adopting such a curved slouch that I was even putting a cushion in behind me to fill some of the 
+my back insisted on telling me it is in poor health.  I arrived at this situation 
+by sitting in a large, very impressive, leather executive chair which my cousin lent me whilst he 
+is overseas.  It really looks and feels great to project that successful-man-with-CEO-chair aura when 
+ people walk in the room; but was terrible 
+to actually sit in over time - being quite a short fella perhaps didn't help.  I was 
+adopting such a curved slouch that I was even slotting a cushion in behind me to fill some of the 
 gap.
 
 Anyway I decided it was time to get a proper "task" chair to alleviate the situation.
@@ -23,14 +24,16 @@ Now everybody (in the internet world) is well aware of the famous
 <a href="http://en.wikipedia.org/wiki/Aeron_chair">Herman-Miller "Aeron"</a>.  Needs no 
 introduction really.  The price tag does need some recovery time... say AU$1300 as a guide.  But 
 in researching reviews from the USA I saw quite a few favourable mentions of the Steelcase "Leap".  
+
 They're an unknown in Australia.
 
 ## Steelcase Leap
 
-<img src="http://cdn.www.steelcase.com/images/dyn/a9cb085ddfaad6018a9574c70269f481.jpg" alt="The Steelcase Leap task chair"/>
+![The Steelcase Leap task chair](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Leap-Chair.png/800px-Leap-Chair.png)
+
 It seems Steelcase aren't using the usual retail channel to flog individual chairs. None of the 
-retail stores stock them.  I'm not spending a thousand dollars on a chair without sitting in it, 
-but rather fortunately they have a showroom/office in Sydney so I went to check them out.  "How 
+retail stores stock them and I'm not spending a thousand dollars on a chair without sitting in it first. 
+But rather fortunately they have a showroom/office in Sydney so I went to check them out.  "How 
 many would you like?", "Well just one.", "oh".  The sales rep took me to her own desk and invited 
 me to sit in her own chair - which was a little unexpected.
 
@@ -41,9 +44,12 @@ abused muscles getting their wake up call.  They don't stock these things and su
 and 12 week wait.  I can't wait that long!
 
 ## The Aeron and Mirra
-<img src="http://upload.wikimedia.org/wikipedia/en/e/ec/Aeron_chair_JN.jpg" alt="The Herman-Miller Aeron task chair"/>
+
+![The Herman-Miller Aeron task chair](http://upload.wikimedia.org/wikipedia/en/e/ec/Aeron_chair_JN.jpg)
+
 I found an Herman-Miller retailer around the corner, so ran to check out the Aeron and Mirra. 
-Yeah, nice chair, but didn't immediately impress me as being all that worthy of the price tag.  
+Yeah, nice chair, but didn't immediately impress me as being all that worthy of the price tag. 
+
 Generally the age of the design was quite evident.  To raise/lower the arms I had to get off the 
 chair, walk around the back and wrestle them in to place.  To adjust the tension of spring in the 
 backrest required a <i>lot</i> of turning the knob with very little feedback - am I turning it the 
