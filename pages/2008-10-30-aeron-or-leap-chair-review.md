@@ -7,7 +7,8 @@ disqus: http://sydneyboy.com.au/2008/10/aeron-or-leap-chair-review/
 
 # Geek Chairs Review: Aeron, Mirra, or Leap?
 
-A chair is an underrated essential item for a programmer; consider how much time is spent in it.  
+A chair is an underrated essential item for a programmer; consider how much time is spent in it.
+
 Things came to a head when I moved recently. Whilst lugging around all those boxes and furniture 
 my back insisted on telling me it is in poor health.  Most probably I arrived at this situation 
 by sitting a large, very impressive, leather executive chair which my cousin lent me whilst he 
