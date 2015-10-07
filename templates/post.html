@@ -1,18 +1,18 @@
 {% extends 'base.html' %}
 
 {% block container %}
-<p>
-    <a href="/"><i class="fa fa-home"></i></a>
-    <span class="pull-right">John Mee</span>
-</p>
+    <p>
+        <a href="/"><i class="fa fa-home"></i></a>
+        <span class="pull-right">John Mee &copy;<br/>{{ page.published.strftime('%d-%b-%Y') }}</span>
+    </p>
     <hr />
-<div>
-    {{ page }}
-</div>
 
-{# Comments powered by disqus.com #}
-{% if page.disqus %}
-    {% include 'disqus.html' %}
-{% endif %}
+    <div>
+        {{ page }}
+    </div>
 
+    {# Comments powered by disqus.com #}
+    {% if page.disqus %}
+        {% include 'disqus.html' %}
+    {% endif %}
 {% endblock %}
