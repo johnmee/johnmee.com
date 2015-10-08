@@ -1,6 +1,7 @@
 title: Travel Letters from 1993
 published: 1992-10-15
 tag: personal
+disqus: http://johnmee.com/1992-travel-letters
 
 
 > With a one-way ticket and a surfboard underarm my first overseas trip strove to experience the world.  Over two 
@@ -567,7 +568,7 @@ task if you don't catch anything)!
 
 Anyway the swells building still - one more day then Hawaii.
 
-![The warungs at Uluwatu in 1992](/static/images/travel1992/uluwatu_warungs.jpg)
+![The warungs at Uluwatu in 1992](/static/images/travel1992/uluwatu_warungs_1992.jpg)
 
 
 ### November 15, 1992
@@ -643,6 +644,8 @@ for lunch, plain rice for dinner. 75% infant mortality rate and a 35 year old is
 
 ## North Shore, Oahu, Hawaii
 ### December 30, 1992
+
+![Fifteen foot swell at Waimea Bay](/static/images/travel1992/hawaii-waimea.jpg)
 
 Hi Guys,
 
@@ -721,7 +724,8 @@ My favourite spots would be:
    3. Velzyland - supposedly a heavy local spot, but there were always plenty of "haoles" around, and it 
    was always pretty obvious who to avoid.
 
-
+![The staff at Mark Foo's Backpackers on the North Shore of Oahu. Christmas 1992](/static/images/travel1992/hawaii-staff.jpg)
+![The fun crowd in Hawaii](/static/images/travel1992/hawaii-crew.jpg)
 
 ### January 7, 1993
 
@@ -785,6 +789,8 @@ Africans, Americans and a german but we all got on reasonably well.
 
 That's enough on Hawaii - I'm getting lazy but too bad.
 
+!['Small' Off-The-Wall (next peak up west from Pipeline)](/static/images/travel1992/hawaii-off-the-wall.jpg)
+
 
 ### January 15, 1993
 
@@ -795,6 +801,8 @@ Hawaii the couple of days before I left and it got down to about 17C. Of course 
 0C. Its always below freezing at night and it not at all uncommon to find patches of snow lying around.I arrived 
 having no idea what Seattle was like. I only knew Michael was here, so I've been very surprised to find how 
 spectacular it is.
+
+![A VW Golf in the snow.  I don't know why I like this photo, but I do.](/static/images/travel1992/seattle-golf.jpg)
 
 The city doesn't usually have snow itself but is surrounded all around by snow-capped mountains. It looks 
 unreal! Especially since we've had such good weather since I arrived. Its only been overcast two days, the 
@@ -810,15 +818,18 @@ particularly daring or fast. It was good though going through the snow covered f
 runs there were no jumps or variations to keep me entertained. Whatsmore there is no-one around so I tended 
 to ski rather conservatively. There's no chance of meeting people on the lifts.
 
+
 Another couple of days we went cross-country skiing, which I had never done before. I've decided that its 
 really just a way to go jogging when there's snow around. Something to give you some exercise but its only 
-the scenery that keeps me from getting bored.On another day we hiked up a trail to one of the snow covered 
+the scenery that keeps me from getting bored. On another day we hiked up a trail to one of the snow covered 
 peaks around here. We never made it to the top since we have yet to come to grips with the fact that the sun 
 sets at about 4:30pm! But nonetheless got some incredible views. I slipped and bumped all the way down since 
 the track was a bit icy.Speaking of ice, in Australia they have this big thing when you go skiing about chains 
 and putting them on when there's even the slightest hint of snow on the road. Here, I haven't seen anyone with 
 chains whilst the road is covered by an inch of snow over an inch of ice. Everyone just drives right over it 
 without even slowing down!
+
+![Cross-country skiiing turned out to be simply the thing that joggers do because they can't jog in snow](/static/images/travel1992/seattle-jogging.jpg)
 
 Seattle city strikes me as a rather wealthy place to live (although Michael does live in the North Shore type 
 area). Haven't found any slums yet and everyone is well-dressed and appear pretty affluent. The shops in the 
@@ -834,6 +845,8 @@ which makes for a very happy household when Microsoft shares go up. Work conditi
 Everyone gets their own office equipped with the best money can buy. The buildings are quite plush - 
 fields and walks all over "campus". Free drinks (anything!) and nice kitchen. Free membership to the most 
 exclusive gym I've ever seen plus medical insurance, shares and God knows what other perks.
+
+![We did a little bit of hiking around Seattle, and discovered it gets dark quite early in winter](/static/images/travel1992/seattle-hike.jpg)
 
 When I arrived there was only Michael here. There rest of the household had all been flown somewhere on 
 a business trip! There's two other guys and a girl. Nerandra is an Indian with a very australian humour 
@@ -862,6 +875,8 @@ The Next Generation" episodes. I bought ski's and gear, a "North Face" shell (ja
 waterproof boots. Not to mention buying Michael an MX-5 (with his money). I went skiing with Michael's 
 friends while he went to work.
 
+![And I bought my brother a Miata so he could get around whilst I drove off into the sunrise with his car.](/static/images/travel1992/seattle-michael-miata.jpg)
+
 He was enourmously generous which was greatly appreciated, except that I think I'll feel guilty for the 
 rest of my life - probably an excellent investment from his point of view. The car, as Michael will probably 
 have told you, is great to drive. You can go into any corner at almost any unreasonable speed and it will just 
@@ -875,10 +890,12 @@ might try something a little further afield.
 ### April 1, 1993
 
 First up I went to Red Mountain. The poor ski legends paradise - complete with quadruple black diamond runs 
-(over 80o slope). Skied some hell runs then moved up to Kelowna to try my luck at the more commercial Big 
+(over 80&deg; slope). Skied some hell runs then moved up to Kelowna to try my luck at the more commercial Big 
 White. After waiting a week downtown at a sordid excuse for a backpackers - full of unemployed Canadians who 
 just sat around and smoked all day in front of the T.V. - all the windows shut because its 10 below outside. 
 I managed to hound the poor receptionist enough to get work as a cook (read burger and fries man).
+
+![Bottom of the chair at Big White Ski resort](/static/images/travel1992/bigwhite-bullet-lift.jpg)
 
 During that week I went up to another resort nearby, called Silver Star, and skiied a couple of days. Since 
 there were no hostels around I figured I'd find out what sleeping in the car was like. First night was fine. 
@@ -913,7 +930,8 @@ soup and sandwiches. So opening meant heating soups and making sandwiches. Closi
 dishwashing. Serving means making hamburgers, fries, and sausages as fast as possible. Luckily I got a 
 few days up in the kitchen, and under the chef learnt how to use a knife and do prep-work (and dishwashing) 
 so now I'm passing myself off as a prep-cook.
-Top of the Bullet chair at Big White
+
+![Top of the Bullet chair at Big White](/static/images/travel1992/bigwhite-lifttop.jpg)
 
 Needless to say my skiing has improved. I'm still having a lot of trouble on the steep, heavy powder 
 tree runs, and the big moguls - but if I can just get those jump turns mastered and mybe some bigger 
@@ -924,10 +942,16 @@ The people. I moved into staff accom and shared a tiny box with a local guy. A w
 were all snowboarders - complete with skatehead attitudes, of which he was a leader. He'd had the 
 room all to himself all season, so wasn't overjoyed to have me arrive. So whilst he certainly wasn't 
 hostile, I wasn't entirely comfortable. Luckily he was a janitor and worked opposite shifts to me so 
-we rarely saw each other. It took about 3 weeks to find some friends and settle. I was hanging with 
+we rarely saw each other. 
+
+![Staff accommodation at Big White](/static/images/travel1992/bigwhite-accom.jpg)
+
+It took about 3 weeks to find some friends and settle. I was hanging with 
 three english guys mainly, a canadian girl and an australian. There were plenty of Australians around, 
 presumably because the mountain was owned by the same guy who owns Mt Hotham in Victoria.
 Some english lads who kindly befriended me at Big White
+
+![Friendly english lads](/static/images/travel1992/bigwhite-poms.jpg)
 
 So just as I've settled a bit and found friends, gotten myself known, it was time for the end of 
 season lay off. Last-in, first-out. I'm out.
@@ -940,7 +964,7 @@ scenery I've described. I can point the camera in any direction and get a great 
 ## Banff, Alberta, Canada
 ### April 13, 1993
 
-View of Banff Township from Sulphur Mountain
+![Banff township](/static/images/travel1992/banff-township.jpg)
 
 Oops, amazing how time slips by. I'm still living at the youth hostel, and working at a restaurant 
 called "The Keg". Its part of an international chain. Apparently there's even one in Australia. 
@@ -952,6 +976,8 @@ Visa card again (which expires soon - July so I might need someone to forward th
 Warning). Apparently its a good idea to avoid using mastercard because they convert to US currency 
 then Oz dollars and take the commision twice!
 
+![The Mount Sulphur chairlift in Banff](/static/images/travel1992/banff-mt-sulphur.jpg)
+
 Anyway life in Banff is looking like life in the life in the fast lane. I've been out nearly every 
 night since I got here - though am start to tone things down. It seems everyone here is out for a 
 good time. Nearly everyone is under 30, most people under 25, so the atmosphere's pretty fun. Three 
@@ -960,8 +986,10 @@ trying to get on the original plan, involved more skiing (season ends in June!),
 There's people arriving "for the summer" everyday. So hopefully I can get set up with somewhere to stay 
 soon. It looks like I'll sign a six month lease with some others in a unit or something.
 
+![A few of the crew in Banff—no that's not 'the girl'](/static/images/travel1992/banff-crew.jpg)
+
 I've fallen into a little crowd of Aussie's I work with, two english brothers and most importantly 
-a canadian girl. There's countless other familiar faces taht are "here for summer", so it looks like 
+a canadian girl. There's countless other familiar faces that are "here for summer", so it looks like 
 it'll be a good summer. Interesting to read this in 6 months and see how things turned out.
 
 Hmmm. I've just sat back and taken an eyeful of snow-capped rugged mountains. Fir-trees and the odd 
@@ -977,4 +1005,8 @@ Jasmine in Banff
 
 A 3 point elk just walked by the window!!
 
+![Not a three pointer, but all I have on film](/static/images/travel1992/banff-elk.jpg)
+
 What else can I say. I think I'll send everyone a personal letter.
+
+![Banff Mount Rundle](/static/images/travel1992/banff-mt-rundle.jpg)
