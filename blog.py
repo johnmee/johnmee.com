@@ -2,6 +2,7 @@ import markdown
 import datetime
 
 from flask import Flask
+from flask import make_response
 from flask import render_template
 from flask import render_template_string
 from flask import send_from_directory
@@ -37,6 +38,15 @@ pages = FlatPages(app)
 @app.route('/pygments.css')
 def pygments_css():
     return pygments_style_defs('tango'), 200, {'Content-Type': 'text/css'}
+
+
+@app.route('/robots.txt')
+def robots():
+    content = """User-agent: *
+Disallow:
+"""
+    resp = make_response(content, 200, {'Content-Type': 'text/plain'})
+    return resp
 
 
 @app.route('/resume/')
