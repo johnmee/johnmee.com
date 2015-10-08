@@ -29,9 +29,11 @@ Walking through the terminal after going through customs felt like the loneliest
 thankfully that ended as soon as I stepped on the plane. I sat next to a large Australian of similar age who 
 works on an intensive cattle farm in Sumatra.  Dad would have been fascinated.  
 
-The flight makes you realise how big Australia is.  It took 6 hours of flying over oz - 
+The flight makes you realise how big Australia is.  It took 6 hours of flying over oz, then 1 hour over the 
+ocean and hey presto - Bali!  
+
 ![great views of the Kimberleys](/static/images/travel1992/kimberleys_view_from_airplane.jpg) 
-- then 1 hour over the ocean and hey presto - Bali!  
+![Bali internation airport looking north over Kuta-Legian](/static/images/travel1992/bali_airport.jpg)
 
 Coming into land, looking at the mish-mash of low buildings, I was scared and started to wonder what the hell I was 
 doing.  I consoled myself by thinking that this is a perfectly natural reaction.  
@@ -158,9 +160,10 @@ there's a shipwreck there. The second day was about 3ft. There was only more tha
 the Surf Travel Co tours stopped by.
 
 For surfers out there heres the set up...
-[There was a little handdrawn pic here which is now lost. Fortunately I still have this picture taken from the plane on my way out. Ed.]
 
-Lembongan setup
+![The surf breaks of Nusa Lembongan](/static/images/travel1992/nusa_lembongan_surf_breaks.png)
+![Nusa Lembongan from the air](/static/images/travel1992/nusa_lembongan_aerial.jpg)
+
 
 The swell hit on the third day. There were about 10 surfers on the island 5 of which had a very big night. 
 It was the day after the new moon. At no mans land it was over 12ft, the reef about 2ft deep. I went out to 
@@ -227,7 +230,12 @@ dump them out to sea, where they get chunks taken out of them by the sharks, the
 Which reminds me. The balinese aren't real big on litter reduction. The world is just one big garbage bin.
 Street scene of a village around Mt Bromo
 
-Whew, well that was Bali and the first month. Since I can't surf for a week or two I've come to Java and have 
+![Poisoned and dumped at sea, stray dogs wash back up on the beach](/static/images/travel1992/dead_dog.jpg)
+![Cock fights](/static/images/travel1992/cock_fight.jpg)
+![Noise makers on Gemelan at the Temple Festival](/static/images/travel1992/gamelan.jpg)
+
+
+Phew, well that was Bali and the first month. Since I can't surf for a week or two I've come to Java and have 
 been taking it real hard in this insanely picturesque, peaceful paradise in the highlands around Mt Bromo. The 
 walks around here are incredible - mum would be [enjoying herself] just walking around here. The views and 
 greenery are fantastic. A couple of days ago I walked through the forest and hour or so and saw a waterfall 
@@ -331,6 +339,11 @@ Last of all I went and played video games. You just have to sit down to draw a c
 to see how good you are. They all took turns to challenge me on Street Fighter II. At only 14c a game for 
 the expensive ones (7c for the cheapies) I was pretty happy I beat 6 of them in a row.
 
+![Mt Bromo Sunrise](/static/images/travel1992/mt_bromo_sunrise.jpg)
+![Cloud rolling into Mt Bromo](/static/images/travel1992/mt_bromo_cloud.jpg)
+![Mt Bromo from the rim](/static/images/travel1992/mt_bromo_rim.jpg)
+![Mt Bromo at the bottom of the crater](/static/images/travel1992/mt_bromo_inside.jpg)
+
 
 ## Jogjakata, Java, Indonesia
 ### October 27, 1992
@@ -365,6 +378,8 @@ combine the two is beyond me. There would be a lot less irritation.
 Met an Australian girl who is cycling across the world - sort of. She landed in Bali and is cycling to 
 Bangkok alone, then flying to Copenhagen. I was suitably impressed.
 
+![Borobudur Temple](/static/images/travel1992/borobudur.jpg)
+![Prambanan Temple](/static/images/travel1992/prambanan.jpg)
 
 ## Kuta, Bali, Indonesia
 ### November 2, 1992
@@ -493,7 +508,9 @@ the boat is full (20 people) unless you want to charter the whole boat. Put your
 positions for 20 names. If you turn up after 8:00am they say you've missed the last boat will have to charter 
 one. I'd seen it all before and managed eventually to calm everyone and get them to wait it out. After an hour 
 the price finally reached the correct 1000rp instead of 7500 they asked for at the start.
-Riding horse drawn carts in Lombok
+
+![Lombok Taxi's](/static/images/travel1992/lombok_taxi.jpg)
+![Medewi Bali](/static/images/travel1992/medewi.jpg)
 
 By this time it was me, Neil - West Australian surfer - and a swiss guy who was learning to surf. I don't believe 
 I can't remember his name!
@@ -550,6 +567,8 @@ task if you don't catch anything)!
 
 Anyway the swells building still - one more day then Hawaii.
 
+![The warungs at Uluwatu in 1992](/static/images/travel1992/uluwatu_warungs.jpg)
+
 
 ### November 15, 1992
 
@@ -591,7 +610,7 @@ It was too big to barrel hideously like the evening before, instead of hurling i
 spilling heavily for a long long way. One wave meant about a 15 minute paddle back out. If you went all the 
 way you could go for 700m or so. Lets do another map.
 
-[Handdrawn Map of Uluwatu]
+![Handdrawn Map of Uluwatu](/static/images/travel1992/uluwatu_setup.png)
 
 That afternoon I went back down the road to Bingin. Now that was incredible. Here it was a bit smaller. 6ft, 
 but more the 6ft we know, but the wave - I've run out of superlatives. Its very short, insanely tubular and 
@@ -599,7 +618,7 @@ very dangerous. Looks a lot like Hawaiian pipeling. It was amazing. The swell ju
 jacks from about 1ft to 6ft instantly. The paddle out is easy, you just paddle out at the bit 5 metres away 
 where it is 1ft. Don't understand? Neither did I. From the cliff above Bingin you can see the whole setup.
 
-[Handdrawn Map of Southern Bali]
+![Handdrawn Map of Southern Bali](/static/images/travel1992/south_bali_surf_spots.png)
 
 Ok its not to scale. Impossibles is the longest wave on the coast. I watched one guy surf for about a kilometre 
 at Impossibles. Its a very fast down the line wave - not impossible though.

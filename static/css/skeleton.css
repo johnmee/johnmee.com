@@ -419,4 +419,4 @@ there.
 
 
 /* JOHNMEE stuff */
-img { max-width: 100%; max-height: 40em; }
+img { max-width: 90%; max-height: 60em; margin: 1em auto; display: block; }
