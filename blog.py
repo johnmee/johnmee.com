@@ -55,6 +55,12 @@ def resume(path='index.html'):
     return send_from_directory('resume', path)
 
 
+@app.route('/meejinnz/')
+@app.route('/meejinnz/<path:path>')
+def meejinnz(path='index.html'):
+    return send_from_directory('meejinnz', path)
+
+
 @app.route('/')
 def home():
     articles = [p for p in pages if isinstance(p.meta.get('published', False), datetime.date)]
