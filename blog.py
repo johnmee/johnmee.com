@@ -75,7 +75,7 @@ def home():
     return render_template("index.html", technical_posts=technicals, opinion_posts=opinions)
 
 
-@app.route('/<path:path>/')
+@app.route('/<path:path>')
 def page(path):
     page = pages.get_or_404(path)
     return render_template('post.html', page=page)

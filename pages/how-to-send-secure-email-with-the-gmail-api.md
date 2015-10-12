@@ -1,4 +1,4 @@
-title: How to use Google's API to send an email
+title: How to send secure email through the gmail api
 published: 2014-10-20
 comments: False
 tag: technical
@@ -11,7 +11,7 @@ A simple question with a complex answer...
 
 > `"Upgrade to a more secure app that uses the most up to date security measures"`
 
-Just seen this error message instead of sending emails?
+You tried to send an email but got this error instead?
 
 Google are pushing to improve the security of script access to their gmail smtp servers.  I have no problem with that.  In fact I'm happy to help.
 But they're not making it easy.  We've all got a lot of code that look like this and no suggestions what to replace it with:

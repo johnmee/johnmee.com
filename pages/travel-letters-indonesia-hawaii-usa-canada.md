@@ -1,4 +1,4 @@
-title: Travel Letters from 1993
+title: Travel Letters from 1993-Indonesia, Hawaii, USA, Canada
 published: 1992-10-15
 tag: personal
 disqus: http://johnmee.com/1992-travel-letters
