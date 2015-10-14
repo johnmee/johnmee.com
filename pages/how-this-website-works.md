@@ -1,6 +1,7 @@
 title: How this website works
 published: 2015-10-15
 tag: technical
+disqus: http://johnmee.com/how-this-website-works
 
 
 [python]: https://www.python.org/ "Python"
@@ -10,6 +11,10 @@ tag: technical
 [skeleton]: http://getskeleton.com "Skeleton"
 [pygments]: http://pygments.org/ "Pygments"
 [yaml]: http://yaml.org/spec/1.1/ "YAML"
+[meejinnz]: /meejinnz/ "Mee, John: In NZ"
+[git]: https://git-scm.com/ "git"
+[github]: http://github.com/
+
 
 # How I built this simple blogging site
 
@@ -26,7 +31,7 @@ This site was hand-built using the [Python programming language][python]:
 * it draws on [Google Analytics](http://www.google.com.au/analytics/) just in case I bother to check if anyone is reading
 * it is committed to [git](https://git-scm.com/) and [github](https://github.com/johnmee/johnmee.com/), 
    usually by commandline but often using [sourcetree](https://www.sourcetreeapp.com/)
-* it is developed mostly with [Pycharm](https://www.jetbrains.com/pycharm/), 
+* it is edited mostly with [Pycharm](https://www.jetbrains.com/pycharm/), 
    but also [vi](https://en.wikipedia.org/wiki/Vi), and [sublimetext](http://www.sublimetext.com/).
 * my desktop is usually [OS X](http://www.apple.com/au/osx/)
 
@@ -171,9 +176,9 @@ server {
     access_log /var/log/nginx/access.log;
     error_log /var/log/nginx/error.log;
 
-    rewrite /2008/10/aeron-or-leap-chair-review /2008-10-30-aeron-or-leap-chair-review/ permanent;
-    rewrite /1992/12/haole-hits-hawaii /1992-travel-letters/ permanent;
-    rewrite /travel/beautiful-bali /1992-travel-letters/ permanent;
+    rewrite /2008/10/aeron-or-leap-chair-review /2008-10-30-aeron-or-leap-chair-review permanent;
+    rewrite /1992/12/haole-hits-hawaii /1992-travel-letters permanent;
+    rewrite /travel/beautiful-bali /1992-travel-letters permanent;
 
     location / {
         uwsgi_pass unix:///tmp/uwsgi.sock;
@@ -224,4 +229,112 @@ your group personally and do not grant permission to the webserver user.  On Ubu
 but my files are all `john:john` and, to add some more complexity, you can tell uwsgi which user and group to work as.
 
 I've wound up setting all my files to `john:www-data` giving them `755` permissions, and telling uwsgi to use `john:www-data`.
+
+## Disqus
+
+For engagement there needs to be some kind of feedback mechanism, but there are so many options!  Disqus was very early on the scene
+and I accumulated some comments early which would be sad to abandon.
+
+So given no compelling reason to change, I've opted for it again.  The threads are keyed by URL but, fortunately,
+the 'URL' is just the default ID, so we can move the page location and retain the comments by feeding their API the
+original URL.  I do this via the YAML metadata at the top of the markdown page.  If I don't mention disqus it
+defaults to turning comments off.  Most of the technical posts will appear somewhere on StackOverflow and it's more
+appropriate to react to them there.
+
+
+In the markdown I can switch on/off the comments by setting a `disqus` metavalue with the disqus ID:
+
+```{.yaml}
+disqus: http://johnmee.com/1992-travel-letters
+```
+
+In the template I have the disqus boilerplate with my variables.  Note that disqus have this silly
+`shortname` id for the site which I must have set to `sydneyboy` years ago and now I'm stuck with:
+
+```{.html hl_lines="1 4 5"}{% raw %}
+{% if page.disqus %}
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'sydneyboy';
+        var disqus_url = {{ page.disqus }};
+    
+        (function () {
+            var dsq = document.createElement('script');
+            dsq.type = 'text/javascript';
+            dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+{% endif %}{% endraw %}
+```
+
+I found the disqus website UI quite clumsy for identifying which threads were valuable/popular. Ultimately I
+ found the best, most authoritative, way was to `export` everything and sift through the XML file.  Thus I could
+ see both the comments and their thread ID/URL in the one place.
+
+
+## Analytics
+
+There is nothing special about the google analytics inclusion template.  It is included exactly as per the boilerplate
+they provide, excepting that in the template I include a switch to ~not~ include it when in `DEBUG` mode. Thus,
+I make sure the stats don't get messed up by development and testing.
+
+
+## Legacy HTML content
+
+I have random bits of content like [meejinnz] which I knocked up as pure HTML a while back.  Now who could be
+ bothered to rework that into markdown? So, fortunately, I can integrate it into the flask reconfigurement
+ fairly trivially:
+
+```{.python}
+@app.route('/meejinnz/')
+@app.route('/meejinnz/<path:path>')
+def meejinnz(path='index.html'):
+    return send_from_directory('meejinnz', path)
+```
+
+The html and images are placed into a directory on their own then this incantation will default to serving the
+index file and also serve any specific file in the path there.  Awesome.
+
+## Deployment, Git, and Github
+
+For source control I use [git] and (unnecessarily) keep a remote copy of the repo at [github](https://github.com/johnmee/johnmee.com/).
+To deploy changes I don't bother with github eventhooks; it is just as easy to feed a script into ssh myself:
+
+`redeploy.sh` looks like this:
+
+```{.bash}
+cd /home/john/johnmee.com/www
+git pull
+sudo service uwsgi reload
+sudo service nginx reload
+```
+
+And simply piping this local file into ssh is enough to effect an update:
+
+```{. hl_lines="1"}
+Johns-iMac:latest johnmee$ cat redeploy.sh | ssh binlane
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Linux binarylane 3.14-1-amd64 #1 SMP Debian 3.14.4-1 (2014-05-13) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+You have mail.
+Already up-to-date.
+Reloading app server(s): uwsgi -> . done.
+Reloading nginx configuration: nginx.
+Johns-iMac:latest johnmee$
+```
+
+Famous last words, but I think this approach should be relatively secure compared to spreading keys around, or
+providing a service on the host, or having the host autonomously do a pull.
+
+
+There you have it.  That's how this website works.  If you want to point out a weakness, strength, or clarify or
+expand on some part, by all means, please leave a comment...
 

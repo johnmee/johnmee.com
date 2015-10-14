@@ -1,4 +1,4 @@
-title: Reinstall Postgresql on Debian and Ubuntu
+title: How to reinstall Postgresql on Debian and Ubuntu
 published: 2012-05-01
 tag: technical
 comments: Yes
