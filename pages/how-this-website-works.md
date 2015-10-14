@@ -13,7 +13,8 @@ disqus: http://johnmee.com/how-this-website-works
 [yaml]: http://yaml.org/spec/1.1/ "YAML"
 [meejinnz]: /meejinnz/ "Mee, John: In NZ"
 [git]: https://git-scm.com/ "git"
-[github]: http://github.com/
+[github]: http://github.com/johnmee/johnmee.com/ "GitHub"
+[nginx]: http://nginx.org   "Nginx"
 
 
 # How I built this simple blogging site
@@ -25,11 +26,11 @@ This site was hand-built using the [Python programming language][python]:
 * and the code snippets rendered with [Pygments]
 * the responsive layout (CSS) is based on [Skeleton]
 * there is no database involved&mdash;relational, noSQL, NewSQL, or otherwise
-* the webservice stack is [UWSGI](https://uwsgi-docs.readthedocs.org/) and [nginx](http://nginx.org) on an [Ubuntu](http://www.ubuntu.com/) server
+* the webservice stack is [UWSGI](https://uwsgi-docs.readthedocs.org/) and [nginx] on an [Ubuntu](http://www.ubuntu.com/) server
 * it is hosted on a VPS at [Binary Lane](http://binarylane.com.au/)
 * it draws on [disqus](https://disqus.com/) for the commenting
 * it draws on [Google Analytics](http://www.google.com.au/analytics/) just in case I bother to check if anyone is reading
-* it is committed to [git](https://git-scm.com/) and [github](https://github.com/johnmee/johnmee.com/), 
+* it is committed to [git] and [github], 
    usually by commandline but often using [sourcetree](https://www.sourcetreeapp.com/)
 * it is edited mostly with [Pycharm](https://www.jetbrains.com/pycharm/), 
    but also [vi](https://en.wikipedia.org/wiki/Vi), and [sublimetext](http://www.sublimetext.com/).
@@ -38,55 +39,63 @@ This site was hand-built using the [Python programming language][python]:
 ## Background Ramble/Requirements
 
 This "vanity" website has gone through more rebuilds than I dare to count.  In some respects it feels like a 
-corporate home page the way my interests play tug-of-war over it.  Initially it was, of course, just HTML, then
-after various rewrites I _drank the coolaid_ and used WordPress, which was fairly successful in getting me
-to post stuff, but thoroughly unportable and unsatifactory for my requirements.
+corporate home page the way my interests play tug-of-war over it.  Initially it was, of course just HTML, then
+after various rewrites, I _drank the coolaid_ and used WordPress. That was fairly successful in getting me
+to post stuff, but thoroughly unportable, somewhat inflexible, and was mildly repugnant for no greater offense than
+ lack of geekness.
 
-**In some respects it is a CV:**  
-My job is, not exclusively but mostly, about building websites (or web `applications` as I prefer to distinguish) and
-failing to have a personal website could reflect poorly on my ability, even to those who appreciate how low your
-own website can fall on the TODO list.  So the site needs to show I can knock up a working website that looks reasonably
-current, can carry a resum&eacute; simple enough for the technically challenged recruitment agents to work with, 
-yet blingy enough to impress the potential employers that they lead to it.
+**In some respects this site is a CV:**  
+My job is, not exclusively but mostly, about building websites&mdash;or web `applications` as I like to distinguish&mdash;and
+failing to have a respectable personal website could reflect poorly on my credibility, even to those who appreciate 
+just how low your own website can fall on the TODO list.  So the site needs to show I can knock up a working website 
+that looks reasonably current and carry a resum&eacute, simple enough for the technically challenged recruitment agents to work with, 
+yet blingy enough to impress the potential employers that follow.
 
+**A consolidation of contributions:**
 With each technical problem I solve, as a good netizen, I usually try to ensure some record of the solution can
-be found somewhere on the interwebs for other poor sods to uncover.  But that usually has them scattered amid
-the four winds.  My site should attempt to collect a few of those together into one safe, reflective, and attributable
- spot online.
+be found somewhere on the interwebs for other poor sods to uncover.  But that sees them scattered amid
+the four winds.  This site attempts to gather the better ones back into the fold: a safe, reflective, and attributable
+ resource online.
 
-**But also this is a personal website:**
-Where else would I put stuff that carries my personal life, opinions, embarrassments—and triumphs—if not my own
-namesake website?!  Where better to have an entirely Politically (IN)correct rant, to host holiday snaps
- and all the random crap I do for friends, family, and
-(too often) relative strangers; all safe from the commercial interests of facebook et al?  Right here of course!
-
-Whatsmore I'm often told I can string a few words together and encouraged to do more of that.  But what's the point 
+**Yet also a personal website:**
+I'm often told I can string a few words together and often encouraged to do more of that.  But what's the point 
 if there is no place for that to be published?  What better place than my own corner of the Internet?! 
-This site needs to encourage me to write and publish new content and make it available to all who have interest.
 
-So in this we have two core requirements:
+Everyone has bandwagons and opinions which they want to show the light of day, right?  We can spread them
+to the winds, like above, as anonymous trolls, or we can take responsibility and own them.
+Where else should one put the glory, and embarrassment, that embodies a personal life—if not their own
+namesaked website?!  Rather than adorn, or burden, other interests with my rants, holiday snaps
+ and all the random crap I do for friends, family, and relative strangers, let's keep it all in
+  the safety of my own corner of the Internet.
 
-1. to demonstrate some competancy, and
-2. to present personal _stuff_
+So perhaps you see the tension.  I need to:
 
-Considering debate whether these are competing interests: I'm inclined toward arguing that they are 
-because often there are personal issues and opinions which are improper in the workplace.
+1. to demonstrate professional competancy and yet
+2. present entirely personal _stuff_
 
-Nonetheless.  There's the background.  I need a website that works.  And this is a custom build...
+Hopefully the former audience can ignore the latter, and vice versa.
+
+I'm agreeable that personal issues and opinions are improper in the workplace, but I tried
+running separate sites and, depending on where the pendulum swung, one always walked in the shadow of the other.
+
+So this site is a custom build and needs to be as flexible as life is in accomodating tension.
+
+Enough&mdash;let's get our geek on!
 
 
 ## Python
 
 I'm on the latest python in development, but my production host is typically one dot point behind.
-It's not a big enough site to worry about the risk from different versions as downtime on a personal site is crazy cheap.
+It's not a big enough site to worry about the risk from different versions as downtime on a personal site is not expensive.
 Python is awesome because I know it.
 And I stick with it because
  it is fast (to code), popular, elegant, common, and wildly broad and flexible. The
 only reason I can see for it not being more prominent in the corporate psyche is that there is no single big
-commercial company vested enough to throw lots of dollars into marketing it.
+commercial company vested enough to throw lots of dollars into marketing it as the answer to everything.
 
 Like any good python developer I use [Virtualenv](https://virtualenv.pypa.io/en/latest/) to isolate my myriad simultaneous projects.
-Although I've tried and discarded [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) as obsfucating sugar.
+Although I've tried and discarded [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) as 
+mere obsfucating syntactic sugar.
 
 So the python stack (`requirements.txt` or `pip freeze`) for this thing looks something like:
 
@@ -104,8 +113,7 @@ PyYAML
 ### Flask, Jinja Markdown and YAML
 
 
-[Flask] provides the basic framework of turning requests into responses.
-The core is simply this:
+[Flask] provides the basic framework of turning requests into responses and the core is simply this:
 
 ```{.python}
 app = Flask(__name__)
@@ -190,7 +198,7 @@ server {
 The highlighted line `uwsgi_pass` is where the action happens, passing off the the work of creating a response
 to a unix socket which, hopefully, has a uwsgi process at the other end of it.
 
-I've included the `rewrite` lines so you can see how to map deprecated URLs that are still getting hits to their
+I've included the `rewrite` lines so you can see how to throw deprecated URLs that are still getting hits to their
 new locations.
 
 
@@ -220,7 +228,7 @@ I've highlighted the connection between the two (nginx and uwsgi) at the `socket
 find explained in the documentation.  But I hit a big snag which took some time to figure out; mostly because
 you're running fairly blind&mdash;the only source of cryptic clues as to why it "doesn't work" are found in your
 systems `/var/log/` log files.  Additionally the error messages all look the same so it can be tricky to spot
-when you make a change that actually does something new.  At the end of that stretch I established that you must:
+when you make a change that actually does something new.  At the end of that stretch I established my problem:
 
 > <i class="fa fa-exclamation-triangle"></i> Pay close attention to file Owners and Permissions! 
 
@@ -324,15 +332,19 @@ individual files in /usr/share/doc/*/copyright.
 
 Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
 permitted by applicable law.
-You have mail.
-Already up-to-date.
+From https://github.com/johnmee/johnmee.com
+Updating 9fb23af..059547d
+Fast-forward
+ ...-website-works.md => how-this-website-works.md} | 121 ++++++++++++++++++++-
+ redeploy.sh                                        |   4 +
+ 2 files changed, 122 insertions(+), 6 deletions(-)
 Reloading app server(s): uwsgi -> . done.
 Reloading nginx configuration: nginx.
 Johns-iMac:latest johnmee$
 ```
 
-Famous last words, but I think this approach should be relatively secure compared to spreading keys around, or
-providing a service on the host, or having the host autonomously do a pull.
+Famous last words, but I think this approach should be relatively secure compared to spreading keys around and
+opening up holes.
 
 
 There you have it.  That's how this website works.  If you want to point out a weakness, strength, or clarify or
