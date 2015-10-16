@@ -44,11 +44,11 @@ after various rewrites, I _drank the coolaid_ and used WordPress. That was fairl
 to post stuff, but thoroughly unportable, somewhat inflexible, and was mildly repugnant for no greater offense than
  lack of geekness.
 
-**In some respects this site is a CV:**  
+**In some respects this site is a CV:** 
 My job is, not exclusively but mostly, about building websites&mdash;or web `applications` as I like to distinguish&mdash;and
 failing to have a respectable personal website could reflect poorly on my credibility, even to those who appreciate 
 just how low your own website can fall on the TODO list.  So the site needs to show I can knock up a working website 
-that looks reasonably current and carry a resum&eacute, simple enough for the technically challenged recruitment agents to work with, 
+that looks reasonably current and carry a resum&eacute;, simple enough for the technically challenged recruitment agents to work with, 
 yet blingy enough to impress the potential employers that follow.
 
 **A consolidation of contributions:**

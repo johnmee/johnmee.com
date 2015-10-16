@@ -1,18 +1,30 @@
 {% extends 'base.html' %}
 
 {% block container %}
-    <p>
-        <a href="/"><i class="fa fa-home"></i></a>
-        <span class="pull-right">John Mee &copy;<br/>{{ page.published.strftime('%d-%b-%Y') }}</span>
-    </p>
-    <hr />
-
-    <div>
+<div class="row">
+    <div class="one-third column"><a href="/"><i class="fa fa-home"></i></a></div>
+    <div class="one-third column u-center">&copy;John Mee</div>
+    <div class="one-third column"><span class="u-pull-right">
+    {% if page.updated %}
+        <span class="j-dates">Published</span> {{ page.published.strftime('%d-%b-%Y') }}<br/>
+        <span class="j-dates">Revised</span> {{ page.updated.strftime('%d-%b-%Y') }}
+    {% else %}
+        {{ page.published.strftime('%d-%b-%Y') }}
+    {% endif %}
+    </span>
+    </div>
+</div>
+<div class="row">
+    <div class="twelve columns">
+        <hr/>
         {{ page }}
     </div>
+</div>
 
+<div class="row">
     {# Comments powered by disqus.com #}
     {% if page.disqus %}
         {% include 'disqus.html' %}
     {% endif %}
+</div>
 {% endblock %}

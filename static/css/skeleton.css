@@ -420,3 +420,15 @@ there.
 
 /* JOHNMEE stuff */
 img { max-width: 90%; max-height: 60em; margin: 1em auto; display: block; }
+blockquote {
+  background-color: rgba(30, 174, 219, 0.09);
+  padding: 1em;
+}
+blockquote p:last-child { margin-bottom: 0rem; }
+.u-center { text-align: center; }
+.j-dates {
+  font-variant: small-caps;
+  font-size: smaller;
+  font-weight: 100;
+  font-kerning: none;
+}
