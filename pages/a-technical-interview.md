@@ -4,10 +4,13 @@ tag: tech
 disqus: http://sydneyboy.com.au/2007/12/the-technical-interview/
 
 > Describes, and solves, the puzzle I was given in a Skype interview for a SFO startup in 2007. 
-It was a friend-of-family for an unadvertised position on the other side of the world, so don't
-read too much into my performance, but the puzzle was fun.  I'm not such a
-fan of this type of thing now and think they're overused and can be gamed&mdash;read
-the resum&eacute; and have a chat with the candidate before requesting a test.
+ It was a friend-of-family for an unadvertised position on the other side of the world, so don't
+ read too much into my performance, but the puzzling was new and fun so I wrote it up.  
+ 
+> Initially I was a fan of these tests as I hoped
+ it would screen out colleagues who could talk the talk but couldn't walk quite as well. Alas
+ the pendulum has swung too far now that employers refuse to read your resume&mdash;let alone talk to you!&mdash;
+ until some tiresome test is completed.
 
 
 # A Technical Interview
@@ -34,7 +37,7 @@ me, but I digress...
 The puzzle is perhaps a classic, at least it sure smells like a tried and true trick for sorting sheep and goats.
 
 > A tree of nodes.  Each node has a label (eg "A") and some children. Write an iterator "next" such 
-that it returns A, B, E, H, O, F, G, H, C, I, J, K, P, Q, D, L, M.  You'll want to create a 
+that it returns A, B, E, N, O, F, G, H, C, I, J, K, P, Q, D, L, M.  You'll want to create a 
 constructor for the iterator.  Each node knows who its parent is.
 
 ![Tree of Nodes](/static/images/tech-interview-tree-of-nodes.jpg)
@@ -255,3 +258,5 @@ public class Puzzle {
 
 }
 ```
+
+This looks like a helpful resource: [Coding Interview Tips](https://www.interviewcake.com/article/coding-interview-tips)
