@@ -15,18 +15,18 @@ disqus: http://johnmee.com/my-au-pairit-reality
 This was not your run-of-the-mill airbnb guest request and initially I was thinking "yikes, steer
 clear of that".  But it's something different, so why not?
 
-I checked into the background of the enquirer and found mixed reviews; clearly it is actually
+I checked into the background of the enquirer and found mixed reviews; perhaps it is 
 not that easy to find people comfortable with this proposition. So I softened, doubled my price, and sent
 back my terms.  They agreed.
 
 ## Arrival
 
-We've all seen the arrival shot where the host opens the door with a look of pseudo-surprise like they had no 
-idea there was someone out there.  What really goes on here?  I've always wondered.  And now I know.
+You know the arrival shot where the host opens the door with a look of pseudo-surprise like they had no 
+idea there was someone out there.  What really goes on before that?  I've always wondered.  And now I know...
 
-It was true that I was opening the door to the "star" of the show for the first time.  In fact, I'd had
-no contact whatsoever with her in the entire lead-up to that moment&mdash;omething quite unusual in itself
-and with possible implications for later, but let's not skip ahead.
+It is true that I was opening the door to the "star" of the show for the first time.  In fact, I'd had
+no contact whatsoever with her in the entire lead-up to that moment&mdash;something not normal with my guests
+and, I think, a contributory factor to the end result.
 
 Before the star arrived, fairly late in the evening, around 9:30pm, the 'producer' arrived at my door&mdash;hi,
 how do you do, I'm the producer, may I see the room, ok, I'll be back&mdash;she came in and looked around
@@ -59,6 +59,8 @@ Knock Knock.
 
 ## Welcome
 
+![Susa-AuPairit](/static/images/susa-au-pairit.jpg)
+
 A knock on the door. I opened. So, yes, it's true, I'd never met this person before and didn't even know 
 her name (Susa), and here she was at the door.  For her part, same deal: she'd
 never met me.  It was all very genuine.  And yet it was nothing of the sort.
@@ -72,20 +74,20 @@ But there was more. There was something else not quite right. She was a passenge
 interested in what was going on. She was simply enduring it; waiting for the end of the ride.
 
 I went through my usual welcome routine, showing the guest where everything is. She watched without interest.
-No questions. Barely a word uttered. _CUT_
+No questions. Barely a word uttered. Aaaand _CUT!_  Sadly, they didn't actually shout _Action_ or _Cut_.
 
 ## Settling In
 
 The team said thanks, that was great, you're a natural. Let's do a scene of the subject opening her bags and
-settling into the room.  I hung back and watched with interest, but kept out of sight of subject.  I didn't want
-to contribute to her feeling like a performing seal. _CUT_
+settling into the room.  I hung back and watched with interest, but tried to keep out of sight of the subject
+ as I didn't want to contribute to her sense of being a performing seal. _CUT!_
 
 ## Interview
 
 They sat her down on the bed and fiddled around with the lighting. The producer settled in opposite. This was
 the little-deeper how-are-you-feeling piece to camera. The producer started asking questions in Finnish. This
 went on for a while and I gradually lost interest and went back to my computer to while away some time. They
-talked for thirty or fourty minutes. _WRAP_
+talked for thirty or fourty minutes. _THAT'S A WRAP!_
 
 ## We'll be back
 
@@ -97,19 +99,22 @@ But her door was firmly closed; she was done.
 ## Goodnight
 
 I pottered around doing my evening routine, cleaning up and brushing teeth. She came out for a moment and I tried to
-make a connection but she was clearly not in the mood, all I got was an affirmative response to 'tough day?', and
-that she had not felt safe at the home where she'd been.
+make a connection but she was clearly exhausted. I got was an affirmative response to 'tough day?', and
+managed to confirm that she had not felt safe at the home where she'd been. I wanted to reassure her that she
+was safe and they were gone and to help her relax, but didn't for fear it would have the opposite effect&mdash;who
+would trust a stranger who says 'trust me'?!
 
-The cameraman has earlier revealed to me that she'd been placed with a family in South Granville&mdash;a suburb of
-Sydney not known for either it's safety nor affluence; most recently an area popular with foreign immigrants due
-to it's proximity to the Lakemba Mosque, and bordering some of the more notorious welfare recipients. I've always
-associated nannys with wealthly families in fancy houses, not displaced peoples in doubtful digs. The cameraman
-suggested _creates tension_ with a wink.
+The cameraman earlier revealed to me that she'd been placed with a family in South Granville&mdash;a suburb of
+Sydney not known for either it's safety nor affluence; recently an area popular with foreign immigrants due
+to it's proximity to the Lakemba Mosque.  It is in the neighbourhood some of our most established welfare recipients;
+not wealthly families in fancy houses with the ways, means, and mentaility of having a nanny. 
+The cameraman winked that maybe the placement was deliberately chosen to _create tension._
 
 ## Goodbye
 
 I went to bed and the guest light stayed on until after I'd passed out.  At about 4:30AM I got up for the toilet and
-saw the guest bedroom door open.  Maybe it was hot. I didn't look in and went back to bed. But my mind processed it.
+saw the guest bedroom door open.  Maybe it was too hot with the door closed? I didn't look in and went back to bed. 
+But my mind processed it.
 Where was the luggage? Not my business. Or is it? At length I got up for another look.  The room was empty, the bed
 unslept in, the key left on the bureau. My guest was gone.
 
@@ -117,19 +122,20 @@ Whilst I'm right next to the public transport in Manly, there is none after midn
 The only transport was an expensive taxi ride. Where would she go? Was she huddled in the cold and wet somewhere of
  an unfamiliar city in a land far, far from home?  I was a bit worried about this turn of events. What should I do? 
  I didn't have a phone number
-for her, and had only a foreign phone number for the producer.  She is 18 years old so I rejected musings of notifying police and went back to bed. 
-All I could do was email the producer to say her charge was gone.  Deal with it in the morning.
+for her, and had only a foreign phone number for the producer.  She is 18 years old, an adult, so I rejected notifying 
+police as a responsibility. All I could do was email the producer to say her charge was gone.  I went back to
+bed&mdash;deal with it in the morning.
 
 ## Epilogue
 
 The producer got back to me at about 9AM thanking me for the note and stating that my guest had informed her that
 she'd gone to a 'friend's.  I guess she took off as soon as she figured I was asleep; about midnight. I was a little
 hurt that she felt she had to _escape_, but understand how natural it would be to include me as part of the system
-she wanted to get away from.  My guess is that the placement in Granville was traumatic and she had so little sense
-of control over her situation, sneaking away in the middle of the night was what she saw as neccesary to reclaim
+she wanted a break from.  My guess is that the placement in Granville was traumatic and she had so little sense
+of control over her situation, that sneaking away in the middle of the night was the drastic action neccesary to reclaim
 her life.
 
 I wonder if she continued with the program?
 
-[The Au pairit website (in Finnish)](1) 
+[The Au pairit website (in Finnish)](1)  
 My guest, for a few hours, was "Susa".
