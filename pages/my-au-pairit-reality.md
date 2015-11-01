@@ -99,15 +99,15 @@ But her door was firmly closed; she was done.
 ## Goodnight
 
 I pottered around doing my evening routine, cleaning up and brushing teeth. She came out for a moment and I tried to
-make a connection but she was clearly exhausted. I got was an affirmative response to 'tough day?', and
+make a connection but she was clearly exhausted. I got an affirmative response to 'tough day?', and
 managed to confirm that she had not felt safe at the home where she'd been. I wanted to reassure her that she
-was safe and they were gone and to help her relax, but didn't for fear it would have the opposite effect&mdash;who
+was safe and they were gone and to help her relax, but I didn't for fear it would have the opposite effect&mdash;who
 would trust a stranger who says 'trust me'?!
 
 The cameraman earlier revealed to me that she'd been placed with a family in South Granville&mdash;a suburb of
-Sydney not known for either it's safety nor affluence; recently an area popular with foreign immigrants due
-to it's proximity to the Lakemba Mosque.  It is in the neighbourhood some of our most established welfare recipients;
-not wealthly families in fancy houses with the ways, means, and mentaility of having a nanny. 
+Sydney not known for either it's safety nor affluence; an area currently popular with foreign immigrants due
+to it's proximity to the Lakemba Mosque.  It is in the neighbourhood of some well established welfare recipients;
+certainly not wealthly families in fancy houses with the ways, means, and mentaility of having a nanny. 
 The cameraman winked that maybe the placement was deliberately chosen to _create tension._
 
 ## Goodbye
