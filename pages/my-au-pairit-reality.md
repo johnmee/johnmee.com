@@ -78,9 +78,12 @@ No questions. Barely a word uttered. Aaaand _CUT!_  Sadly, they didn't actually 
 
 ## Settling In
 
-The team said thanks, that was great, you're a natural. Let's do a scene of the subject opening her bags and
-settling into the room.  I hung back and watched with interest, but tried to keep out of sight of the subject
- as I didn't want to contribute to her sense of being a performing seal. _CUT!_
+The team said thanks, that was great, you're a natural, please don't look at the camera.
+ Now, let's do a scene of the subject opening her bags and
+settling into the room.  
+
+I hung back and watched with interest, but tried to keep out of sight of the subject
+ as I didn't want to contribute to her sense of being a performing seal. Aaand _CUT!_
 
 ## Interview
 
