@@ -52,7 +52,7 @@ It's the sheer volume of keystrokes saved that if you show me someone who doesn'
 
 Packaged solutions like [Codekit] and [Prepros] will get you off the ground immediately. But if you're 
 <del>cheap</del> <ins>a purist</ins>
-you can certainly accomplish the same tasks with [Gulp] or [Grunt] coupled with [Node] or [Ruby] or [Python].
+you can certainly accomplish the same tasks, for free, with [Gulp] or [Grunt] coupled with [Node] or [Ruby] or [Python].
 For example, right now I have python's [Livereload] hitting the refresh button for me on every save&mdash;and I can't live without it.
 Frontend work involves _a lot_ of try, and retry, and try again!
 
@@ -60,7 +60,7 @@ Frontend work involves _a lot_ of try, and retry, and try again!
 
 Responsive design is the order of the day, as more and more people are using the web with more and more varied
 devices.  An HTML grid framework makes for an important starting
-slate: they tackle some of the complexity, glitches, tedium, and repetition away from ensuring design elements render
+slate: they tackle some of the complexity, glitches, tedium, and repetition involved in ensuring design elements render
 sensibly on all screen sizes and browsers. They condense the tricks, that overcome the quirks and annoyances of the myriad platforms
 you need to serve, into a single reuseable launchpad.
 
@@ -80,13 +80,12 @@ with node and gulp&mdash;found the learning curve too steep in the time availabl
 
 Pick something, set up your compiler/reload tools, and you're ready to write HTML/CSS/JS.
 
-Congratulations, you're a frontend developer!
+Congratulations, you're a frontend developer.
 
 Now you have some actual work to do constructing html and attaching css styles. Essentially that is all
-you have to do. But don't underestimate the task.
+you have to do. But don't underestimate the task!
 
-Ok, so the _big bucks_ go to guys who have a system, and 
-such a weight of ongoing experience, that they've discovered all the typical problems&mdash;and the
+Ok, so the _big bucks_ go to guys who have such a weight of ongoing experience, that they've discovered all the typical problems&mdash;and the
 solutions, or workarounds.  So they're fast and time predictable. A thorough knowledge of CSS, and it's primary
 resources and community, are your bread and butter.
  Knowing your way around photoshop, being competant 
@@ -268,7 +267,7 @@ Things to consider are:
 * the button needs to stay in the center of it's space&mdash;both vertically and horizontally
 * the text of the button also needs to remain centered relative to it's borders
 
-The values to juggle can engage all of `display`, `float`, `text-align`, `vertical-align`, `width`, and `height`
+The values to juggle can engage all of `display` (and it's plethora of values), `float`, `text-align`, `vertical-align`, `width`, and `height`
 in various contortions and in conjunction with your prefered grid framework.
 
 I'll come back and expand an example, just as soon as I can make sense of all these balancing acts myself!
