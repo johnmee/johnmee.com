@@ -6,7 +6,7 @@ disqus: http://johnmee.com/frontend-development-primer
 
 # Frontend Development Primer
 
-> Runs through some basics of the Frontend Developer role, their tools, skills, and resources&mdash;I spent a little time recently 
+> Runs through some basics of the Frontend Developer role: their tools, skills, and resources&mdash;I spent a little time recently 
  being schooled by a Frontend Developer and learned a few things which demonstrated the world never stops changing:
  CSS3 has arrived.
 
@@ -285,7 +285,7 @@ Especially how to:
 
 ## Parallax
 
-Design is fashion and [parallax effects](https://ihatetomatoes.net/demos/parallax-scroll-effect/) are currently fasionable.
+Design is fashion and [parallax effects](https://ihatetomatoes.net/demos/parallax-scroll-effect/) are currently fashionable.
 That's the thing where you continuously scroll down and the background changes, giving you the sense of having
 turned the page, although you haven't really.
 Learn the word `Parallax`, and what it means, so you don't have to pretend you know what they're talking
