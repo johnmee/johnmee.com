@@ -49,12 +49,6 @@ Disallow:
     return resp
 
 
-@app.route('/resume/')
-@app.route('/resume/<path:path>')
-def resume(path='index.html'):
-    return send_from_directory('resume', path)
-
-
 @app.route('/meejinnz/')
 @app.route('/meejinnz/<path:path>')
 def meejinnz(path='index.html'):
