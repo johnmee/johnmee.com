@@ -20,12 +20,7 @@ def my_renderer(text):
 
 
 app = Flask(__name__)
-
-# override these settings (debug) by the presence of a settings file
-try:
-    app.config.from_pyfile('settings.ini')
-except FileNotFoundError:
-    app.config['DEBUG'] = False
+app.config['DEBUG'] = False
 
 app.config.update({
     'FLATPAGES_EXTENSION': ['.md', '.markdown'],
@@ -88,4 +83,11 @@ def inject_debug():
 
 
 if __name__ == '__main__':
-    app.run(threaded=True)
+    # if running as a raw script assume this is a development instance and try to run livereload
+    app.config['DEBUG'] = True
+    try:
+        from livereload import Server
+        server = Server(app.wsgi_app)
+        server.serve()
+    except ImportError:
+        app.run(threaded=True)
