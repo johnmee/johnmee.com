@@ -84,7 +84,7 @@ Bower](https://goo.gl/maps/NvQMemQ1GjL2) is the #1 choice or, when the swell is 
 [push](https://goo.gl/maps/jf9yE93Tokt) or [power](https://goo.gl/maps/LMswsXVCMGz)&mdash; will do.
 Running on the spot at the gym is a distant third. Enjoys a good read, good company, 
 a [franziskaner](https://www.franziskaner-weissbier.de/unsere-biere/hefe-weissbier-naturtrueb), a strategy game, 
-my girlfriend, a lamb roast, and [believes](http://anglicansonline.org/basics/nicene.html) in the existence of God.
+his girlfriend, a lamb roast, and [believes](http://anglicansonline.org/basics/nicene.html) in the existence of God.
 Has mastered the artistry of a [La Pavoni Lever](http://www.lapavoni.com/domestic-line.php?idcategory=1).
 
 Always intending to go to the [SyPy](http://sypy.org/) talks, even gets there sometimes.
@@ -148,7 +148,7 @@ Still in contact, and perform the monthly site updates plus essential maintenanc
 
 ### Copyright Agency Limited
 
-Short gig supporting a python application whilst an inhouse dev took a vacation. Made myself useful enough to be
+Short gig supporting a python application whilst an inhouse dev took a vacation. Was useful enough to be
  kept around a few weeks longer building scripting tasks to ease the workload of filtering, cataloging, 
  and processing the masses of scanned documents their business entails.
 
@@ -384,8 +384,6 @@ Built an index of private schools across Australia and published it at http://ww
 
 > &ldquo;John would be an asset to any organisation.&rdquo;  
     _Russell Ayling - Technical Manager - Roads and Traffic Authority_
-
----
 
 
 
