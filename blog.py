@@ -40,6 +40,13 @@ def pygments_css():
     return pygments_style_defs('tango'), 200, {'Content-Type': 'text/css'}
 
 
+@app.route('/googleac8131d70b9df19d.html')
+def googlewebmastertools():
+    content = """google-site-verification: googleac8131d70b9df19d.html"""
+    resp = make_response(content, 200, {'Content-Type': 'text/plain'})
+    return resp
+
+
 @app.route('/robots.txt')
 def robots():
     content = """User-agent: *
