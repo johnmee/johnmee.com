@@ -1,7 +1,11 @@
 title: Resume
 published: 2015-12-04
 
-<style>img { float: right; margin: 2em 1em; max-width: 14em; }</style>
+<style>
+img { float: right; margin: 2em 1em; max-width: 14em; }
+table { width: 100%; }
+ul { margin-left: 1em; text-indent: -1em; }
+</style>
 
 
 # John Mee
@@ -18,24 +22,31 @@ ventures to two-dollar bootstraps.  Took a break to do Master of IT (Web Technol
 Currently alternating between office and freelance gigs to juggle income, social contact, and technological
 interests. A smart, experienced, and well balanced hands-on engineer.
 
-## Currently Seeking
+_Core_
 
-_Essential_
+* 5+ years solid Python experience, with Django and flask exposure, and substantial experience creating APIs
+* 10+ years experience with back-end development, web and non-web software engineering
+* Strong experience with modern responsive site development and front-end workflows (HTML, CSS, SASS, LESS, Bootstrap, Foundation)
+* Good javascript experience (jquery, nodejs, gulpjs, grunt, backbonejs, angularjs)
+* Excellent and thorough requirements gathering, analysis, and system design
+* Ability to make cautious estimates and achieve them; identifies critical issues well in advance, and neutralises them 
+* Excellent database analysis and design skills (postgresql, mysql)
+* 10+ years \*NIX administration experience (debian, ubuntu, redhat, solaris, OS X)
+* Very familiar with cloud services (Amazon AWS, Heroku, Cloudflare)
+* Excellent English communication and teamwork skills
+* Ability to work autonomously and collaborate with creative and technical people
 
-* Working with Python code
+_Supplemental_
 
-_Desirable_
+* Experience mentoring junior programmers; assigning and reviewing coding tasks
+* Experience with minor PHP and Ruby tasks
+* A positive profile in the developer community; active on StackOverflow, Github, a technical blog, and occasional
+  attendee at SyPy meets
+* Familiar with popular tools: Redis, memcached, MQ, puppet/salt/chef/ansible, etc
+* Excellent understanding of Git
+* Loads of experience in a startup environment
 
-* Sydney CBD location (the nearer the Quay&ndash;the better)
-* Nine month minimum commitment (1 month probation)
-* Start on/about February 1st, 2016
-* More than $99KPA
-* Opportunities to mentor others
-
-_Interesting Alternatives_
-
-* _developer evangelist_ role; writing, teaching, and stage presentation of products, tools, and APIs to other developers
-* _ruby, node, or swift developer_; if you can accommodate a seasoned professional getting up-to-speed with a new platform
+---
 
 ## Qualifications and Awards
 
@@ -79,47 +90,94 @@ With High Distinction for:
 
 Born in Sydney and enjoys a bachelor's life in Manly&mdash;NSW Australia.
 
-Struggles to spend time away from keyboards, so when that does happen it ideally involves exercise; surfing [Fairy
+Struggles to spend time away from keyboards, so when that does happen it is, ideally, a physical exercise; surfing [Fairy
 Bower](https://goo.gl/maps/NvQMemQ1GjL2) is the #1 choice or, when the swell is not running, a ride on the bike&mdash;
 [push](https://goo.gl/maps/jf9yE93Tokt) or [power](https://goo.gl/maps/LMswsXVCMGz)&mdash; will do.
 Running on the spot at the gym is a distant third. Enjoys a good read, good company, 
 a [franziskaner](https://www.franziskaner-weissbier.de/unsere-biere/hefe-weissbier-naturtrueb), a strategy game, 
-his girlfriend, a lamb roast, and [believes](http://anglicansonline.org/basics/nicene.html) in the existence of God.
+one particular girl, a lamb roast, and [believes](http://anglicansonline.org/basics/nicene.html) in the existence of God.
 Has mastered the artistry of a [La Pavoni Lever](http://www.lapavoni.com/domestic-line.php?idcategory=1).
-
-Always intending to go to the [SyPy](http://sypy.org/) talks, even gets there sometimes.
 
 <a href="http://stackexchange.com/users/28189">
     <img src="http://stackexchange.com/users/flair/28189.png" alt="profile for John Mee on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for John Mee on Stack Exchange, a network of free, community-driven Q&amp;A sites" height="58" width="208">
 </a>						
 
-Github account is [https://github.com/johnmee](https://github.com/johnmee)  
-Personal Domain is [http://johnmee.com](http://johnmee.com)  
-Email Address is [resume@johnmee.com](mailto:resume@johnmee.com)  
-Phone Number is [0403 998 333](tel:0403-998-333)  
+Github:  [https://github.com/johnmee](https://github.com/johnmee)  
+Personal Domain: [http://johnmee.com](http://johnmee.com)  
+Email Address:  [resume@johnmee.com](mailto:resume@johnmee.com)  
+Phone Number:  [0403 998 333](tel:0403-998-333)  
 
 ---
 
+# Career Snapshot
+
+||
+--- | --- | ---
+Caradvice - Bestprice | May 2013 - | Python/Django
+Private Individual (Evolutionary Programming) | Apr - Aug 2015 | Python/DEAP
+Copyright Agency | Feb - April 2013 | Python
+Private Individual (Stock Backtesting) | July 2012 - July 2013 | Python/Multiprocessing/Amazon AWS
+BigNewsNetwork | 2012 | Python/Scrapyd
+Dolby Laboratories | Feb - Oct 2011 | Python/Django/PHP
+Youthworks | Feb 2009 - Feb 2011 | Python/Django
+Workstar | Aug 2008 - Feb 2009 | ColdFusion
+Genworth | Jan 2007 - Dec 2007 | ColdFusion/Java/XSLT
+Perpetual Trustees | Sep 2006 - Jan 2007 | C#.NET/XSLT
+RecruitAdvantage | Feb 2006 - Aug 2006 | Coldfusion
+Carlson Marketing | Nov 2004 - Dec 2005 | Coldfusion
+Sydney Sewing Supplies | Jul Oct 2004 | C#.NET/XSLT 
+Salmat | Oct 2002 - Jan 2003 | Coldfusion
+Roads and Traffic Authority | Aug 2001 - Oct 2002 | Coldfusion, Perl
+Good Business Technology | Apr - Jul 2001 | Coldfusion
+Vertical Markets | Sep 2000 - Mar 2001 | Coldfusion
+Daemon Consulting | Jun - Sep 2000 | Coldfusion
+The Intermedia Group | Apr - Jun 2000 | Coldfusion
+Leonard Communications | Sep - Dec 1999 | Coldfusion
+AMPOL | Jan 1991 - Oct 1992 | C/*Nix
+Roads and Traffic Authority | Jan - Dec 1989 | Fortran/*Nix
+
+
 ## Job History
 
-> Python
 
 ### FindBigMail
 
-Works on this community service as a hobby project.  It finds and tags the biggest emails in your gmail
- account so it is easy to delete them and thus stay under the size restraints of a free account. Rewrote it
- from PHP over IMAP on bare metal when Matt first abandoned it.
+This longstanding hobby project gets a steady stream of donations and occasional accolades.  It finds and tags the biggest emails in your gmail
+ account making it easy to stay under the size restraints of a free gmail account.  Driven by Google's mandatory
+ upgrade to Oauth2 it was completely rewritten in 2014, from imap via PHP on bare metal, to GmailAPI via Python on heroku.
+ 
+Responsibilities are everything from concept, to implementation, to maintenance; user support is handled by a sibling.
 
-[FindBigMail](https://findbigmail.com) December 2012 - Ongoing  
+* overcomes significant challenges with the throttling of access to the Gmail API
+* leverages Redis for queuing jobs, storing reports, and ensuring it _forgets_ everything
+* successfully scales up and down to accommodate occasional [slashdot effects](https://en.wikipedia.org/wiki/Slashdot_effect)
+* invokes a loosely coupled design to mitigate Google's periodic policy and implementation shafts
+* took the hard decision, after much investment, to abandon the first rebuild attempt with google appengine; just too
+many issues and not enough support. Heroku proves to be a superior platform.
+
+[FindBigMail](https://findbigmail.com) July 2013 &rarr;  
 [Python] ([Flask], [GmailAPI](https://developers.google.com/gmail/api/?hl=en)), [Redis], [Heroku]
 
 #### Freelance - Evolutionary Programming
 
-Did the programming component of an IT Thesis on Evolutionary Programming; developing a program which builds a program (sic)
-to construct a 3D model from a collection of 2D photographs.
+
+
+Accepted an offer from a private individual to do the programming component of an IT Thesis on Evolutionary Programming: 
+a program which builds a program (sic), with the ultimate goal of constructing a 3D model from a collection of 2D photographs.
+
+* learnt what evolutionary programming is and soaked up all the established literature and concepts about it
+* exchanged complex concepts with the client and created project plans, milestones, and delivery mechanisms
+* implemented significant customizations to [DEAP]; (effectively pushing it as far as it could go 
+short of rewriting their core engine)
+* prepared and presented regular interactive demonstrations via a [Python Notebook](http://ipython.org/notebook.html), fully 
+documenting and explaining each step, and delivering working models at the conceptual level the client required
+* presented technical obstacles in understandable ways; devised solutions and laid them out with all the critical variables
+necessary for informed decisions
+
+[DEAP]: http://deap.readthedocs.org/en/master/
 
 [Nigel O'Neill]: April &rarr; August 2013  
-[Python] ([DEAP](http://deap.readthedocs.org/en/master/))  
+[Python] ([DEAP])  
 [Source Code](https://github.com/johnmee/nigel)
 
 
@@ -127,17 +185,22 @@ to construct a 3D model from a collection of 2D photographs.
 
 ### Caradvice
 
-Took over technical responsibility for an internal startup, rebranded as [BestPrice], which sought to empower car
-  buyers with a direct connection to car dealers in a competitive marketplace.  
+[BestPrice] was a startup delivering a marketplace of new car buyers to car dealers:
 
-Worked through a couple of pivots revamping both the
-business model and the presentation to both the car buyer and the car dealer.  Ultimately BestPrice
-has conceded defeat; the last task was to devolve the site into being merely a lead generator for external entities.
+* took full technical responsiblity for the Python/Django/Backbonejs website
+* fix bugs and provide 2nd technical support to internal staff
+* estimate and deliver new features to time and budget
+* provide detailed site usage reports to business management and sales staff
+* advise and deliver major pivots to the business model and operating structure
+* oversee final transition to straightforward lead generator
+* supervised a junior programmer, worked well with web designer, customer support, adops/sales staff, and business stakeholders
 
-Over on the primary website, [Caradvice], improved the uptime and stability of CarAdvice by establishing 
-monitoring and restart systems via [Munin], [Monit], and [Pingdom].  Also took
-a long hard look at automated devops systems [ansible], [puppet], and [chef] but, in the end, deemed they were
-overcomplicating the problem.
+[Caradvice] was a startup, but now better described as an established online motoring magazine:
+
+* significantly improved the overall uptime and stability, and reduced staff labor and stress levels, of CarAdvice proper
+ by putting together constant monitoring and restart systems with [Munin], [Monit], and [Pingdom]
+* evaluated devops systems [ansible], [puppet], and [chef] for application to their systems (unsuitable)
+* provided [bus factor](https://en.wikipedia.org/wiki/Bus_factor) support for that site (PHP, DNS, AmazonAWS, cloudflare, etc)
 
 Still in contact, and perform the monthly site updates plus essential maintenance tasks, as required.
 
@@ -148,8 +211,8 @@ Still in contact, and perform the monthly site updates plus essential maintenanc
 
 ### Copyright Agency Limited
 
-Short gig supporting a python application whilst an inhouse dev took a vacation. Was useful enough to be
- kept around a few weeks longer building scripting tasks to ease the workload of filtering, cataloging, 
+A quick gig supporting a python application whilst an inhouse dev took a vacation. Proved useful enough to be
+ kept around some weeks longer building scripting tasks to ease the workload of filtering, cataloging, 
  and processing the masses of scanned documents their business entails.
 
 [Copyright Agency](http://copyright.com.au)  February &rarr; April 2013  
@@ -191,15 +254,18 @@ into a Word document.
 
 ### Dolby Laboratories
 
-Built a complete API for their [business voice
- communications](http://www.dolby.com/us/en/technologies/dolby-voice.html) and conferencing system client apps and
- devices: to create, connect, and disconnect to voice rooms, issuing tokens, et cetera. 
- Involved a lot of formal testing for load and regression.  Built with Python and Django and the [Django Rest Framework][django-rest-framework].
- Added the concept of _seats_, including fixed and variable numbers of them, and assignment of specific individuals
- to specific seats.
+Dolby needed a Pythonista to support and rebuild an API, included in the VOIP solution of a recent aquisition, ready for
+re-release as their [business voice communications and conferencing](http://www.dolby.com/us/en/technologies/dolby-voice.html) system:
 
-Also maintained a PHP website for the [Dolby Axon](https://axon.dolby.com/) product; changed the payment model, 
-applied new skins and made other improvements to the registration system.
+* assumed sole technical resposiblity for the API component of the system, providing authorization and room tokens 
+to client programs connecting and connected to the system
+* re-architeched and re-implemented the existing _quick hack_ solution into a solid, elegant, for-the-future codebase
+ affording management considerable confidence in reliability, security, and ability to scale
+* added new features, eg. the concept of _seats_, including fixed and variable numbers of them, and assignment of specific individuals
+ to specific seats.
+* worked with formal Quality Assurance testing for load and regression
+* also maintained a PHP website for the [Dolby Axon](https://axon.dolby.com/) product, changing the payment model, 
+appling new skins, and making other improvements to the registration system
 
 [Dolby Laboratories][Dolby]: February 2011 &rarr; October 2011  
 [Python], [Django], [MySQL], [Perforce](https://www.perforce.com/), [PHP], [Debian]  
@@ -208,25 +274,31 @@ applied new skins and made other improvements to the registration system.
 
 ### Youthworks
 
-Built [fervr]: a facebook alternative for Christian Youth Groups, implementing group memberships and home pages,
- group chat, group photo sharing, in addition to sitewide magazine-style content and a question and answer
- forum.
+[fervr] was a facebook alternative for christian youth groups in Australia provided by the Sydney Anglican Diocese.
+Nationally it implemented a publishing platform of magazine-style content for adolescents, whilst locally it implemented
+_cells_ of youth members aged 8-18 years, providing group home pages, group chats, group photo sharing, and event
+sharing with significant oversight and child protection measures.
 
-Plus an online store for digital and physical products via [Shopify] saas.
+* assumed sole technical resposiblity for backend development and deployment
+* implemented all of the aforementioned features (publishing, chat, signup, photos, events, etc)
+* worked with a Systems administrator for operations and a frontend designer for presentation
+* worked with marketing for direction, promotion, and reporting
+* received recognition from webbyawards
+* added an online store for digital and physical products via [Shopify] and [eWay](https://www.eway.com.au/)
 
 ![LOUDEvent](/static/images/resume/loudevent.jpg)
 
-Plus built several one-off event ticketing sites to take event bookings and handle the money.
-Included features for early-bird specials, door-sales, ticket confirmation, accounting reports
-and more. In particular  the [LOUDEvent] at the Sydney Entertainment Centre and serveral [RICE](http://www.ricemovement.org/) events.
+Also built several _one-off_ event ticketing sites to take event bookings and handle the money:
+
+* autonomously architect, develop, deploy, and operate the complete ticketing solutions
+* implement features for early-bird specials, door-sales, ticket confirmation, accounting reports
+and more 
+* successfully pull off the [LOUDEvent] at the Sydney Entertainment Centre (~20,000 tix) and several [RICE](http://www.ricemovement.org/) events
 
 [Youthworks] February 2009 &rarr; February 2011  
 Source code for [fervr][FervrSource], [Rice][FervrRice]  
 [Python], [Django], [Postgres], [Ubuntu], [Mercurial], [BusinessCatalyst], [Shopify]
 
----
-
-> Prior to 2009 it's predominantly Coldfusion CFML and a fair amount of C#.NET, and Java, mixed in
 
 ![Workstar](/static/images/resume/workstar.jpg)
 

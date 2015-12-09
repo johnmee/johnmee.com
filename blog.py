@@ -15,7 +15,7 @@ from flask_flatpages import pygments_style_defs
 def my_renderer(text):
     """Inject the markdown rendering into the jinga template"""
     rendered_body = render_template_string(text)
-    pygmented_body = markdown.markdown(rendered_body, extensions=['codehilite', 'fenced_code'])
+    pygmented_body = markdown.markdown(rendered_body, extensions=['codehilite', 'fenced_code', 'tables'])
     return pygmented_body
 
 
