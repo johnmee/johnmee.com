@@ -1,6 +1,6 @@
 title: A Technical Interview
 published: 2007-12-23
-tag: tech
+tag: technical
 disqus: http://sydneyboy.com.au/2007/12/the-technical-interview/
 
 > Describes, and solves, the puzzle I was given in a Skype interview for a SFO startup in 2007. 

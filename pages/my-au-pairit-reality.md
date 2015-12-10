@@ -1,5 +1,6 @@
 title: My brush with Reality TV
 published: 2015-11-01
+tag: personal
 disqus: http://johnmee.com/my-au-pairit-reality
 
 [1]: http://yle.fi/aihe/au-pairit

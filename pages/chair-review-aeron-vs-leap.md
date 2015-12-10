@@ -1,6 +1,6 @@
 title: "A 30-second geek chair review: Aeron, Mirra, or Leap?"
 published: 2008-10-30
-updated: 2011-05-13
+revised: 2011-05-13
 tag: technical
 disqus: http://sydneyboy.com.au/2008/10/aeron-or-leap-chair-review/
 

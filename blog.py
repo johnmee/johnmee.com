@@ -59,15 +59,21 @@ def meejinnz(path='index.html'):
 
 @app.route('/')
 def home():
-    articles = [p for p in pages if isinstance(p.meta.get('published', False), datetime.date)]
-    articles.sort(reverse=True, key=lambda p: p.meta['published'])
+    # sort the posts to reverse date order
+    posts = [p for p in pages if p.meta.get('tag', 'noindex')]
+    posts.sort(reverse=True, key=lambda p: p.meta.get('published', datetime.date(1970, 1, 1)))
+
+    # split them into technical and personal, omit those that aren't tagged
     opinions, technicals = list(), list()
-    for post in articles:
-        tag = post.meta.get('tag', 'personal')
-        if tag == 'personal':
-            opinions.append(post)
-        else:
+    for post in posts:
+        tag = post.meta.get('tag', 'noindex')
+        if tag == 'noindex':
+            continue
+        elif tag == 'technical':
             technicals.append(post)
+        else:
+            opinions.append(post)
+
     return render_template("index.html", technical_posts=technicals, opinion_posts=opinions)
 
 

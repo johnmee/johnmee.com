@@ -1,6 +1,7 @@
 title: The minimum wage is broken
 published: 2012-06-18
-updated: 2015-10-15
+revised: 2015-10-15
+tag: personal
 disqus: http://sydneyboy.com.au/2012/06/the-minimum-wage-and-how-to-get-it/
 
 [1]: https://www.fairwork.gov.au/how-we-will-help/how-we-help-you/help-resolving-workplace-issues#request-assistance-from-us

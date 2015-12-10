@@ -1,5 +1,8 @@
 title: Resume
-published: 2015-12-04
+published: 2000-01-01
+revised: 2015-12-10
+tag: noindex
+
 
 <style>
 img { float: right; margin: 2em 1em; max-width: 14em; }
@@ -10,31 +13,23 @@ ul { margin-left: 1em; text-indent: -1em; }
 
 # John Mee
 
-> Senior __Software Engineer__ proficient with Python; more than five years experience building APIs and websites with 
+> Senior __Software Engineer__ currently proficient with Python; more than five years experience building APIs and websites with 
 flask and django, amid esoteric projects. Full Stack competancy from requirements to deployment and considerable
 experience with startups.
 
-## Abstract
-
-Completed a Computing Degree and did a couple of years development and helpdesk before travelling extensively.  Returned
-during the dotcom boom as a ColdFusion contractor and worked various and numerous projects from multi-million dollar
-ventures to two-dollar bootstraps.  Took a break to do Master of IT (Web Technologies) at Macquarie Uni with High Distinction.
-Currently alternating between office and freelance gigs to juggle income, social contact, and technological
-interests. A smart, experienced, and well balanced hands-on engineer.
-
 _Core_
 
-* 5+ years solid Python experience, with Django and flask exposure, and substantial experience creating APIs
-* 10+ years experience with back-end development, web and non-web software engineering
-* Strong experience with modern responsive site development and front-end workflows (HTML, CSS, SASS, LESS, Bootstrap, Foundation)
-* Good javascript experience (jquery, nodejs, gulpjs, grunt, backbonejs, angularjs)
+* 5+ years Python experience, with Django and flask, and substantial experience creating APIs
+* 10+ years experience with back-end development, web and traditional software engineering
+* Good experience with modern responsive site development and front-end workflows (HTML, CSS, SASS, LESS, Bootstrap, Foundation)
+* Strong javascript experience (jquery, nodejs, gulpjs, grunt, backbonejs, angularjs)
 * Excellent and thorough requirements gathering, analysis, and system design
 * Ability to make cautious estimates and achieve them; identifies critical issues well in advance, and neutralises them 
 * Excellent database analysis and design skills (postgresql, mysql)
 * 10+ years \*NIX administration experience (debian, ubuntu, redhat, solaris, OS X)
 * Very familiar with cloud services (Amazon AWS, Heroku, Cloudflare)
 * Excellent English communication and teamwork skills
-* Ability to work autonomously and collaborate with creative and technical people
+* Ability to work autonomously and collaborate with creative and technical colleagues
 
 _Supplemental_
 
