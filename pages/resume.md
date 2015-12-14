@@ -21,25 +21,25 @@ _Core_
 
 * 5+ years Python experience, with Django and flask, and substantial experience creating APIs
 * 10+ years experience with back-end development, web and traditional software engineering
-* Good experience with modern responsive site development and front-end workflows (HTML, CSS, SASS, LESS, Bootstrap, Foundation)
-* Strong javascript experience (jquery, nodejs, gulpjs, grunt, backbonejs, angularjs)
+* Experienced with modern responsive site development and front-end workflows (HTML, CSS, SASS, LESS, Bootstrap, Foundation)
+* Experienced with modern javascript tools and pipes (jquery, nodejs, gulpjs, grunt, backbonejs, angularjs)
 * Excellent and thorough requirements gathering, analysis, and system design
-* Ability to make cautious estimates and achieve them; identifies critical issues well in advance, and neutralises them 
+* Ability to make cautious estimates and achieve them; identifies critical issues early and neutralises them 
 * Excellent database analysis and design skills (postgresql, mysql)
 * 10+ years \*NIX administration experience (debian, ubuntu, redhat, solaris, OS X)
-* Very familiar with cloud services (Amazon AWS, Heroku, Cloudflare)
+* Experienced with cloud services (Amazon AWS, Heroku, Cloudflare)
 * Excellent English communication and teamwork skills
 * Ability to work autonomously and collaborate with creative and technical colleagues
 
 _Supplemental_
 
-* Experience mentoring junior programmers; assigning and reviewing coding tasks
-* Experience with minor PHP and Ruby tasks
+* Experienced with mentoring junior programmers; assigning and reviewing coding tasks
+* Experienced with minor PHP and Ruby tasks
 * A positive profile in the developer community; active on StackOverflow, Github, a technical blog, and occasional
   attendee at SyPy meets
 * Familiar with popular tools: Redis, memcached, MQ, puppet/salt/chef/ansible, etc
 * Excellent understanding of Git
-* Loads of experience in a startup environment
+* Wealth of experience in startup environments
 
 ---
 
@@ -384,7 +384,7 @@ Created an intranet application for the sales manager to help his team track the
 tenders, and bids as they worked their way through the sales cycle. Provided graphic reports and required a User
 Experience good enough for sales folk to actually use it.
 
-[Salmat Australia](www.salmat.com.au) October 2002 &rarr; January 2003  
+[Salmat Australia](http://www.salmat.com.au) October 2002 &rarr; January 2003  
 [Coldfusion], [Oracle], [Solaris]
 
 ![RTA M5EAST](/static/images/resume/RTA_M5East.jpg)
