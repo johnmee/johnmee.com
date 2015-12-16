@@ -10,6 +10,7 @@ table { width: 100%; }
 ul { margin-left: 1em; text-indent: -1em; }
 </style>
 
+<div style="float:right"><a href="/static/resume.docx"><i class="fa fa-download"></i> Download as MS Word</a></div>
 
 # John Mee
 
@@ -199,7 +200,7 @@ necessary for informed decisions
 
 Still in contact, and perform the monthly site updates plus essential maintenance tasks, as required.
 
-[Caradvice]: May 2013 &rarr; Present  
+[Caradvice] May 2013 &rarr; Present  
 [Python], [Django], [MySQL], [Backbone.js](http://backbonejs.org/), [Angular.js](https://angularjs.org/),
 [Git], [Bootstrap](http://getbootstrap.com/), [Ubuntu]
 
@@ -353,7 +354,7 @@ and data strewn over ten production servers, thus initiating processes for quali
 [Subversion](https://subversion.apache.org/), [Trac](http://trac.edgewall.org/), [Coldfusion], [SQLServer], VB.Net
 
 
-![Caradvice](/static/images/resume/CBARewards.jpg)
+![Commonwealth Bank Rewards Scheme](/static/images/resume/CBARewards.jpg)
 
 ### Carlson Marketing
 
