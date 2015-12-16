@@ -14,7 +14,7 @@ ul { margin-left: 1em; text-indent: -1em; }
 # John Mee
 
 > Senior __Software Engineer__ currently proficient with Python; more than five years experience building APIs and websites with 
-flask and django, amid esoteric projects. Full Stack competancy from requirements to deployment and considerable
+flask and django, amid esoteric projects. Full Stack competency from requirements to deployment and considerable
 experience with startups.
 
 _Core_
