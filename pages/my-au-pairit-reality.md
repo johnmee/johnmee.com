@@ -141,5 +141,5 @@ her life.
 
 I wonder if she continued with the program?
 
-[The Au pairit website (in Finnish)](1)  
+[The Au pairit website (in Finnish)](http://yle.fi/aihe/au-pairit)  
 My guest, for a few hours, was "Susa".
