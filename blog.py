@@ -45,7 +45,7 @@ def googlewebmastertools():
 @app.route('/robots.txt')
 def robots():
     content = """User-agent: *
-Disallow:
+Disallow: /static/
 """
     resp = make_response(content, 200, {'Content-Type': 'text/plain'})
     return resp
