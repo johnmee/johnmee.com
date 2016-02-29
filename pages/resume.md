@@ -1,6 +1,6 @@
 title: Resume
 published: 2000-01-01
-revised: 2015-12-10
+revised: 2016-03-01
 tag: noindex
 
 
@@ -10,7 +10,7 @@ table { width: 100%; }
 ul { margin-left: 1em; text-indent: -1em; }
 </style>
 
-<div style="float:right"><a href="/static/resume.docx"><i class="fa fa-download"></i> Download as MS Word</a></div>
+<div style="float:right"><a href="static/resume.docx"><i class="fa fa-download"></i> Download as MS Word</a></div>
 
 # John Mee
 
@@ -80,7 +80,7 @@ With High Distinction for:
 
 ---
 
-![John](/static/images/resume/john.jpg)
+<img src="static/images/resume/john.jpg" title="John" />
 
 ## Personal
 
@@ -144,7 +144,7 @@ necessary for informed decisions
 [Python], [Distributed Evolutionary Algorithms in Python (DEAP)](http://deap.readthedocs.org/en/master/)  
 
 
-![Caradvice](/static/images/resume/caradvice.jpg)
+![Caradvice](static/images/resume/caradvice.jpg)
 
 ### CarAdvice
 <http://caradvice.com.au>  
@@ -183,7 +183,7 @@ One month contract (extended twice).
 [Python]
 
 
-![Linz Backtesting](/static/images/resume/LinzCBA20.jpg)
+![Linz Backtesting](static/images/resume/LinzCBA20.jpg)
 
 #### Stock Backtesting
 Freelance&mdash;[Gary Linz](http://www.theaustralian.com.au/business/guns-for-hire/story-e6frgafx-1111112972687)  
@@ -211,7 +211,7 @@ Maintenance and enhancement of bespoke Python/Django Web Application.
   
 [Python] ([Django]), [MySQL], [Ubuntu]
 
-![Dolby](/static/images/resume/DolbyAxon.jpg)
+![Dolby](static/images/resume/DolbyAxon.jpg)
 
 ### Dolby Laboratories
 <http://dolby.com>  
@@ -233,7 +233,7 @@ appling new skins, and making other improvements to the registration system
 
 [Python], [Django], [MySQL], [Perforce](https://www.perforce.com/), [PHP], [Debian]  
 
-![fervr](/static/images/resume/fervr.jpg)
+![fervr](static/images/resume/fervr.jpg)
 
 ### Youthworks
 <https://www.youthworks.net/>  
@@ -256,7 +256,7 @@ sharing with significant oversight and child protection measures.
 * received recognition from webbyawards
 * added an online store for digital and physical products via [Shopify] and [eWay](https://www.eway.com.au/)
 
-![LOUDEvent](/static/images/resume/loudevent.jpg)
+![LOUDEvent](static/images/resume/loudevent.jpg)
 
 Also built several _one-off_ event ticketing sites to take event bookings and handle the money:
 
@@ -268,7 +268,7 @@ and more
 [Python], [Django], [Postgres], [Ubuntu], [Mercurial], [BusinessCatalyst], [Shopify]
 
 
-![Workstar](/static/images/resume/workstar.jpg)
+![Workstar](static/images/resume/workstar.jpg)
 
 ### Workstar
 <http://www.workstar.com.au>  
@@ -287,7 +287,7 @@ Created a windows app to automatically import inventory into ebay items using th
 
 Visual Studio, [C#], [ebay API](https://go.developer.ebay.com/api-documentation)
 
-![Genworth](/static/images/resume/genworth.jpg)
+![Genworth](static/images/resume/genworth.jpg)
 
 ### Genworth Mortgage Insurance
 <http://www.genworth.com.au>  
@@ -330,7 +330,7 @@ and data strewn over ten production servers and initiating processes for quality
 [Subversion](https://subversion.apache.org/), [Trac](http://trac.edgewall.org/), [Coldfusion], [SQLServer], VB.Net
 
 
-![Commonwealth Bank Rewards Scheme](/static/images/resume/CBARewards.jpg)
+![Commonwealth Bank Rewards Scheme](static/images/resume/CBARewards.jpg)
 
 ### Carlson Marketing
 [Carlson Marketing Group](http://www.aimia.com/)  
@@ -366,7 +366,7 @@ Experience good enough for sales folk to actually use it.
 
 [Coldfusion], [Oracle], [Solaris]
 
-![RTA M5EAST](/static/images/resume/RTA_M5East.jpg)
+![RTA M5EAST](static/images/resume/RTA_M5East.jpg)
 
 ### Roads and Traffic Authority
 <http://www.rms.nsw.gov.au>  
