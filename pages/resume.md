@@ -21,13 +21,13 @@ experience with startups.
 _Core_
 
 * 5+ years Python experience, with Django and flask, and substantial experience creating APIs
-* 10+ years experience with back-end development, web and traditional software engineering
-* Experienced with modern responsive site development and front-end workflows (HTML, CSS, SASS, LESS, Bootstrap, Foundation)
+* 10+ years experience with backend development, web and traditional software engineering
+* Experienced with modern responsive site development and frontend workflows (HTML, CSS, SASS, LESS, Bootstrap, Foundation)
 * Experienced with modern javascript tools and pipes (jquery, nodejs, gulpjs, grunt, backbonejs, angularjs)
 * Excellent and thorough requirements gathering, analysis, and system design
-* Ability to make cautious estimates and achieve them; identifies critical issues early and neutralises them 
+* Ability to make cautious estimates and achieve them; identify critical issues early and neutralize them 
 * Excellent database analysis and design skills (postgresql, mysql)
-* 10+ years \*NIX administration experience (debian, ubuntu, redhat, solaris, OS X)
+* 10+ years \*NIX administration experience (debian, ubuntu, redhat, solaris, openbsd, rpi, OS X)
 * Experienced with cloud services (Amazon AWS, Heroku, Cloudflare)
 * Excellent English communication and teamwork skills
 * Ability to work autonomously and collaborate with creative and technical colleagues
@@ -38,8 +38,8 @@ _Supplemental_
 * Experienced with minor PHP and Ruby tasks
 * A positive profile in the developer community; active on StackOverflow, Github, a technical blog, and occasional
   attendee at SyPy meets
+* Excellent understanding of git, continuous integration, and test automation
 * Familiar with popular tools: Redis, memcached, MQ, puppet/salt/chef/ansible, etc
-* Excellent understanding of Git
 * Wealth of experience in startup environments
 
 ---
@@ -86,79 +86,50 @@ With High Distinction for:
 
 Born in Sydney and enjoys a bachelor's life in Manly&mdash;NSW Australia.
 
-Struggles to spend time away from keyboards, so when that does happen it is, ideally, a physical exercise; surfing [Fairy
-Bower](https://goo.gl/maps/NvQMemQ1GjL2) is the #1 choice or, when the swell is not running, a ride on the bike&mdash;
-[push](https://goo.gl/maps/jf9yE93Tokt) or [power](https://goo.gl/maps/LMswsXVCMGz)&mdash; will do.
+Struggles to spend time away from keyboards so, when that does happen, it is ideally a physical exercise.  Surfing [Fairy
+Bower](https://goo.gl/maps/NvQMemQ1GjL2) is the #1 choice or, when the swell is not running, a ride on two wheels&mdash;
+[push](https://goo.gl/maps/jf9yE93Tokt) or [motor](https://goo.gl/maps/LMswsXVCMGz)&mdash; will do.
 Running on the spot at the gym is a distant third. Enjoys a good read, good company, 
-a [franziskaner](https://www.franziskaner-weissbier.de/unsere-biere/hefe-weissbier-naturtrueb), a strategy game, 
-one particular girl, a lamb roast, and [believes](http://anglicansonline.org/basics/nicene.html) in the existence of God.
-Has mastered the artistry of a [La Pavoni Lever](http://www.lapavoni.com/domestic-line.php?idcategory=1).
+a [franziskaner](https://www.franziskaner-weissbier.de/unsere-biere/hefe-weissbier-naturtrueb), [a strategy game](http://www.catan.com/), 
+one very special girl, [a lamb roast](http://www.taste.com.au/recipes/7486/sues+roast+lamb), and [believes](http://anglicansonline.org/basics/nicene.html) in the existence of God.
+Has mastered, and cannot be separated from, a [La Pavoni Lever](http://www.lapavoni.com/domestic-line.php?idcategory=1).
 
 <a href="http://stackexchange.com/users/28189">
     <img src="http://stackexchange.com/users/flair/28189.png" alt="profile for John Mee on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for John Mee on Stack Exchange, a network of free, community-driven Q&amp;A sites" height="58" width="208">
 </a>						
 
-Github:  [https://github.com/johnmee](https://github.com/johnmee)  
-Personal Domain: [http://johnmee.com](http://johnmee.com)  
+Github:  <https://github.com/johnmee>  
+Personal Domain: <http://johnmee.com>  
 Email Address:  [resume@johnmee.com](mailto:resume@johnmee.com)  
-Phone Number:  [0403 998 333](tel:0403-998-333)  
 
 ---
-
-# Career Snapshot
-
-||
---- | --- | ---
-Caradvice - Bestprice | May 2013 - | Python/Django
-Private Individual (Evolutionary Programming) | Apr - Aug 2015 | Python/DEAP
-Copyright Agency | Feb - April 2013 | Python
-Private Individual (Stock Backtesting) | July 2012 - July 2013 | Python/Multiprocessing/Amazon AWS
-BigNewsNetwork | 2012 | Python/Scrapyd
-Dolby Laboratories | Feb - Oct 2011 | Python/Django/PHP
-Youthworks | Feb 2009 - Feb 2011 | Python/Django
-Workstar | Aug 2008 - Feb 2009 | ColdFusion
-Genworth | Jan 2007 - Dec 2007 | ColdFusion/Java/XSLT
-Perpetual Trustees | Sep 2006 - Jan 2007 | C#.NET/XSLT
-RecruitAdvantage | Feb 2006 - Aug 2006 | Coldfusion
-Carlson Marketing | Nov 2004 - Dec 2005 | Coldfusion
-Sydney Sewing Supplies | Jul Oct 2004 | C#.NET/XSLT 
-Salmat | Oct 2002 - Jan 2003 | Coldfusion
-Roads and Traffic Authority | Aug 2001 - Oct 2002 | Coldfusion, Perl
-Good Business Technology | Apr - Jul 2001 | Coldfusion
-Vertical Markets | Sep 2000 - Mar 2001 | Coldfusion
-Daemon Consulting | Jun - Sep 2000 | Coldfusion
-The Intermedia Group | Apr - Jun 2000 | Coldfusion
-Leonard Communications | Sep - Dec 1999 | Coldfusion
-AMPOL | Jan 1991 - Oct 1992 | C/*Nix
-Roads and Traffic Authority | Jan - Dec 1989 | Fortran/*Nix
-
 
 ## Job History
 
 
 ### FindBigMail
+<https://findbigmail.com>  
+July 2013 &rarr; &infin;
 
-This longstanding hobby project gets a steady stream of donations and occasional accolades.  It finds and tags the biggest emails in your gmail
- account making it easy to stay under the size restraints of a free gmail account.  Driven by Google's mandatory
- upgrade to Oauth2 it was completely rewritten in 2014, from imap via PHP on bare metal, to GmailAPI via Python on heroku.
+This longstanding hobby project gets a steady stream of donations and the occasional accolade. 
+It finds and tags the biggest emails in anyone's gmail
+ account, thus making it easy to stay within the size restraints of a _free_ gmail account.
  
-Responsibilities are everything from concept, to implementation, to maintenance; user support is handled by a sibling.
+Responsibilities are everything from concept to implementation to maintenance, excepting user support, which is handled by my brother.
 
 * overcomes significant challenges with the throttling of access to the Gmail API
 * leverages Redis for queuing jobs, storing reports, and ensuring it _forgets_ everything
-* successfully scales up and down to accommodate occasional [slashdot effects](https://en.wikipedia.org/wiki/Slashdot_effect)
-* invokes a loosely coupled design to mitigate Google's periodic policy and implementation shafts
-* took the hard decision, after much investment, to abandon the first rebuild attempt with google appengine; just too
-many issues and not enough support. Heroku proves to be a superior platform.
+* scales up and down to accommodate periodic [slashdot effects](https://en.wikipedia.org/wiki/Slashdot_effect)
+* invokes a very loosely coupled design to combat Google's whimsical policy and implementation <del>shafts</del> shifts
 
-[FindBigMail](https://findbigmail.com) July 2013 &rarr;  
 [Python] ([Flask], [GmailAPI](https://developers.google.com/gmail/api/?hl=en)), [Redis], [Heroku]
 
-#### Freelance - Evolutionary Programming
+#### Evolutionary Programming
+Freelance &ndash; Nigel O'Neill  
+<https://github.com/johnmee/nigel>  
+April &rarr; August 2013  
 
-
-
-Accepted an offer from a private individual to do the programming component of an IT Thesis on Evolutionary Programming: 
+Worked with a private individual to do the programming component of an IT Thesis on Evolutionary Programming: 
 a program which builds a program (sic), with the ultimate goal of constructing a 3D model from a collection of 2D photographs.
 
 * learnt what evolutionary programming is and soaked up all the established literature and concepts about it
@@ -170,18 +141,24 @@ documenting and explaining each step, and delivering working models at the conce
 * presented technical obstacles in understandable ways; devised solutions and laid them out with all the critical variables
 necessary for informed decisions
 
-[DEAP]: http://deap.readthedocs.org/en/master/
-
-[Nigel O'Neill]: April &rarr; August 2013  
-[Python] ([DEAP])  
-[Source Code](https://github.com/johnmee/nigel)
+[Python], [Distributed Evolutionary Algorithms in Python (DEAP)](http://deap.readthedocs.org/en/master/)  
 
 
 ![Caradvice](/static/images/resume/caradvice.jpg)
 
-### Caradvice
+### CarAdvice
+<http://caradvice.com.au>  
+<http://bestprice.com.au>  
+May 2013 &rarr; Feb 2016  
 
-[BestPrice] was a startup delivering a marketplace of new car buyers to car dealers:
+Caradvice is an online motoring magazine:
+
+* significantly improved the overall uptime and stability, and reduced staff labor and stress levels, of CarAdvice proper
+ by putting together constant monitoring and restart systems with [Munin], [Monit], and [Pingdom]
+* evaluated devops systems [ansible], [puppet], and [chef] for application to their systems (unsuitable)
+* provided [bus factor](https://en.wikipedia.org/wiki/Bus_factor) support for that site (PHP, DNS, AmazonAWS, cloudflare, etc)
+
+BestPrice was a startup delivering a marketplace of new car buyers to car dealers:
 
 * took full technical responsiblity for the Python/Django/Backbonejs website
 * fix bugs and provide 2nd technical support to internal staff
@@ -191,67 +168,58 @@ necessary for informed decisions
 * oversee final transition to straightforward lead generator
 * supervised a junior programmer, worked well with web designer, customer support, adops/sales staff, and business stakeholders
 
-[Caradvice] was a startup, but now better described as an established online motoring magazine:
+Lingered for a long time performing monthly site updates and essential maintenance tasks, as required.
 
-* significantly improved the overall uptime and stability, and reduced staff labor and stress levels, of CarAdvice proper
- by putting together constant monitoring and restart systems with [Munin], [Monit], and [Pingdom]
-* evaluated devops systems [ansible], [puppet], and [chef] for application to their systems (unsuitable)
-* provided [bus factor](https://en.wikipedia.org/wiki/Bus_factor) support for that site (PHP, DNS, AmazonAWS, cloudflare, etc)
-
-Still in contact, and perform the monthly site updates plus essential maintenance tasks, as required.
-
-[Caradvice] May 2013 &rarr; Present  
 [Python], [Django], [MySQL], [Backbone.js](http://backbonejs.org/), [Angular.js](https://angularjs.org/),
 [Git], [Bootstrap](http://getbootstrap.com/), [Ubuntu]
 
 
 ### Copyright Agency Limited
+<http://copyright.com.au>  
+February &rarr; April 2013  
 
-A quick gig supporting a python application whilst an inhouse dev took a vacation. Proved useful enough to be
- kept around some weeks longer building scripting tasks to ease the workload of filtering, cataloging, 
- and processing the masses of scanned documents their business entails.
+One month contract (extended twice).
 
-[Copyright Agency](http://copyright.com.au)  February &rarr; April 2013  
 [Python]
 
-### Freelancing
 
 ![Linz Backtesting](/static/images/resume/LinzCBA20.jpg)
 
 #### Stock Backtesting
+Freelance&mdash;[Gary Linz](http://www.theaustralian.com.au/business/guns-for-hire/story-e6frgafx-1111112972687)  
+2012 &rarr; 2013  
 
-Constructed a system to leverage Amazon AWS to do backtesting, by brute force, of a trading idea for an entrepreneurial 
-gentleman; basically looking for strong correlations.  Involved lots of multiprocessing and wrangling
-the vast data output into meaningful reports.  We gave it a good go but, ultimately, failed to find a gap
-in the market that could be exploited practically.
+Proofing a trading idea for an entrepreneurial gentleman; we went looking for strong long-term market correlations
+(eg: when oil goes up, what always goes down?).  The brute force approach involved lots of multiprocessing via 
+[AmazonAWS] and expanded to wrangling the vast data output into comprehensable imagery.
 
-[Gary Linz](http://www.theaustralian.com.au/business/guns-for-hire/story-e6frgafx-1111112972687) July 2012 &rarr; July 2013  
 [Python], [AmazonAWS]
 
-####  Web Crawler
+####  Big News Network
+Freelance&mdash;<http://www.bignewsnetwork.com>  
+2012 &rarr; 2013  
 
-Consulting and development on a crawling system pulling news stories from ~4000 websites and RSS feeds and feeding 
-them into a news context aggregation system for vertical markets which was grinding itself to death.  Found,
-learnt, and implemented [Scrapy] to replace the fragile bespoke PHP code.
+Independent technical advisor and consultant to management for comparison against internal feedback.
 
-[BigNewsNetwork](http://www.bignewsnetwork.com) On and Off thru 2012  
 [Python] ([Scrapy]), [MySQL], [Ubuntu]
 
-#### CMS and Workflow App
+#### Bray Media International
+Freelance&mdash;<http://braymediainternational.com/>  
+2012 &rarr; 2013
 
-Support and enhancement of bespoke app to guide junior marketing execs through a structured process to create a
-high quality marketing plan; essentially a weighty question and answer workflow which compiles all the answers
-into a Word document.
-
-[BrayMediaInternational](http://braymediainternational.com/) On and Off thru 2012  
+Maintenance and enhancement of bespoke Python/Django Web Application.
+  
 [Python] ([Django]), [MySQL], [Ubuntu]
 
 ![Dolby](/static/images/resume/DolbyAxon.jpg)
 
 ### Dolby Laboratories
+<http://dolby.com>  
+February 2011 &rarr; October 2011  
 
-Dolby needed a Pythonista to support and rebuild an API, included in the VOIP solution of a recent aquisition, ready for
-re-release as their [business voice communications and conferencing](http://www.dolby.com/us/en/technologies/dolby-voice.html) system:
+Dolby needed a Pythonista to support and rebuild an API they'd recently aquired and make ready for
+re-release as their primary [business voice communications and conferencing](http://www.dolby.com/us/en/technologies/dolby-voice.html) 
+system for [British Telecom](https://business.bt.com/products/voice/voip-phone-systems/cloud-voice/):
 
 * assumed sole technical resposiblity for the API component of the system, providing authorization and room tokens 
 to client programs connecting and connected to the system
@@ -263,14 +231,20 @@ to client programs connecting and connected to the system
 * also maintained a PHP website for the [Dolby Axon](https://axon.dolby.com/) product, changing the payment model, 
 appling new skins, and making other improvements to the registration system
 
-[Dolby Laboratories][Dolby]: February 2011 &rarr; October 2011  
 [Python], [Django], [MySQL], [Perforce](https://www.perforce.com/), [PHP], [Debian]  
 
 ![fervr](/static/images/resume/fervr.jpg)
 
 ### Youthworks
+<https://www.youthworks.net/>  
+<http://fervr.net>  
+[LOUDEvent](https://www.facebook.com/pages/LOUD-Event/151410097015)  
+<http://www.ricemovement.org>  
+<https://bitbucket.org/fervr/rice/>  
+<https://bitbucket.org/fervr/fervr>  
+February 2009 &rarr; February 2011  
 
-[fervr] was a facebook alternative for christian youth groups in Australia provided by the Sydney Anglican Diocese.
+fervr was a facebook alternative for christian youth groups in Australia provided by the Sydney Anglican Diocese.
 Nationally it implemented a publishing platform of magazine-style content for adolescents, whilst locally it implemented
 _cells_ of youth members aged 8-18 years, providing group home pages, group chats, group photo sharing, and event
 sharing with significant oversight and child protection measures.
@@ -291,33 +265,33 @@ Also built several _one-off_ event ticketing sites to take event bookings and ha
 and more 
 * successfully pull off the [LOUDEvent] at the Sydney Entertainment Centre (~20,000 tix) and several [RICE](http://www.ricemovement.org/) events
 
-[Youthworks] February 2009 &rarr; February 2011  
-Source code for [fervr][FervrSource], [Rice][FervrRice]  
 [Python], [Django], [Postgres], [Ubuntu], [Mercurial], [BusinessCatalyst], [Shopify]
 
 
 ![Workstar](/static/images/resume/workstar.jpg)
 
 ### Workstar
+<http://www.workstar.com.au>  
+August 2008 &rarr; February 2009  
 
-Built an intranet application, for a Brisbane road construction company, to conduct employee performance reviews; set
+Built an intranet application for a Brisbane road construction company to conduct employee performance reviews; set
 goals and review them periodically. Managers and employees complete their feedback separately, then come
 together to reveal and discuss past and future goals and performance measures.
 
-[Workstar](http://www.workstar.com.au/): August 2008 &rarr; February 2009  
 [Coldfusion], [jQuery], javascript, HTML, CSS, [SQLServer]
 
-### Freelance
+<strong>Freelance</strong>  
+January 2008  
 
-Built a windows (C#) app to import a spreadsheet of item details and programmatically post them to eBay via their
-API.
+Created a windows app to automatically import inventory into ebay items using their API.
 
-[SomeGuyOnTheInternet]: January 2008  
 Visual Studio, [C#], [ebay API](https://go.developer.ebay.com/api-documentation)
 
 ![Genworth](/static/images/resume/genworth.jpg)
 
 ### Genworth Mortgage Insurance
+<http://www.genworth.com.au>  
+January 2007 &rarr; December 2007  
 
 Participated in _ValCentral_, a ten man, twelve month project to deliver online real estate property valuations for Lenders Mortgage 
 Insurance; essentially an inhouse startup. 
@@ -329,123 +303,135 @@ Delivered expert knowledge converting the pilot project from Coldfusion to Java;
 Built a two-way data tranformation process to import incoming industry standard [LIXI documents][LIXI] into the application
  data format and also the reverse process delivering LIXI documents via a public facing Webservices SOAP API.
 
-[Genworth](http://www.genworth.com.au/): January 2007 &rarr; December 2007  
 [Coldfusion], Java, [Spring](http://spring.io/), [Hibernate](http://hibernate.org/), [XSLT], XML, [Mule](https://www.mulesoft.com/resources/esb/what-mule-esb), [sqlserver], [Oracle]
 
 ### Perpetual Trustees
+<https://www.perpetual.com.au>  
+<!--- http://www.globalsoft.com --->
+September 2006 &rarr; January 2007  
 
 Assisted in a massive data transformation/migration project to get all their client data off three legacy systems
 onto a shiny new one.  Involved a complex process of abstracting data from each application model into common form 
 then reshaping it to fit the new data model. And process ~30GB of it between COB friday and Monday morning! 
 
-[Perpetual Trustees](https://www.perpetual.com.au/)/[GlobalSoft](http://www.globalsoft.com) September 2006 &rarr; January 2007  
 [XSLT], XML, [C#], [Sybase](http://www.sap.com/pc/tech/database/software/adaptive-server-enterprise/index.html), 
 [sqlserver], [XMLSpy](http://www.altova.com/xmlspy.html)
 
 
 ### RecruitAdvantage
+<http://www.turborecruit.com.au/>  
+February 2006 &rarr; August 2006  
 
 Consulted on software engineering issues, leading to the introduction of fundamental tools: source control, issue tracking,
 technical documentation, and push button deployment, thus wrangling some 20Gb of haphazard code 
-and data strewn over ten production servers, thus initiating processes for quality improvement.
+and data strewn over ten production servers and initiating processes for quality improvement.
  Educated and championed these tools to a self-taught development team.
 
-[RecruitAdvantage](http://www.turborecruit.com.au/) February 2006 &rarr; August 2006  
 [Subversion](https://subversion.apache.org/), [Trac](http://trac.edgewall.org/), [Coldfusion], [SQLServer], VB.Net
 
 
 ![Commonwealth Bank Rewards Scheme](/static/images/resume/CBARewards.jpg)
 
 ### Carlson Marketing
+[Carlson Marketing Group](http://www.aimia.com/)  
+November 2004 &rarr; December 2005  
 
 Maintained the Commonwealth Bank Awards website enabling loyalty customers to monitor their points and redeem for
 prizes.  Involved the publishing of monthly marketing content. Completed a comprehensive security audit. Was experience
 with a very high traffic site and involved a lot of Quality Assurance Testing and meticulate construction of roll-forward
 and roll-back scripts with each release.
 
-[Carlson Marketing Group](http://www.aimia.com/): November 2004 &rarr; December 2005  
 [Coldfusion], [SQLServer], bash, [Solaris], HTML, CSS, Javascript
 
-### Freelance 
 
-#### Illustrated Price Catalogue
+#### Sydney Sewing Supplies
+<http://sewingcraft.com>  
+Freelance&mdash;July 2004 &rarr; October 2004  
 
-* created a system that assembled a freshly minted and illustrated price catalogue on demand using current pricing data
-directly from the database, saving untold printing expenses
-* built a windows application which retailers could use to import catalogue and pricing updates to their Point-of-Sale
-systems which were distributed by email; in such a way that they still had complete control over their own catalogues.
+* a freshly minted and illustrated price catalogue&ndash;on demand&ndash;with pricing data
+directly from the current database, saving crazy printing expenses
+* a windows application for retailers to directly import catalogue and price updates to their Point-of-Sale, saving
+grief when they reorder
 
-[Sydney Sewing Supplies](http://sewingcraft.com/) July 2004 &rarr; October 2004  
 [C#], [sqlserver], XML, [XSLT], [XSLT-FOP](https://xmlgraphics.apache.org/fop/), [Dataflex](http://www.dataaccess.com/products.asp?pageid=1829),
 [Slackware](http://www.slackware.com/)
 
-#### Sales Pipeline intranet app
+#### Salmat
+<http://www.salmat.com.au>  
+October 2002 &rarr; January 2003  
 
 Created an intranet application for the sales manager to help his team track the progress of business leads,
 tenders, and bids as they worked their way through the sales cycle. Provided graphic reports and required a User
 Experience good enough for sales folk to actually use it.
 
-[Salmat Australia](http://www.salmat.com.au) October 2002 &rarr; January 2003  
 [Coldfusion], [Oracle], [Solaris]
 
 ![RTA M5EAST](/static/images/resume/RTA_M5East.jpg)
 
 ### Roads and Traffic Authority
+<http://www.rms.nsw.gov.au>  
+August 2001 &rarr; October 2002  
 
-Built an Overtime Management intranet application enabling managers to tame overtime expenditure through an authorisation
-process.
+[Work which is still in use over a decade later!][M5East]
+Built a system to capture and publish live and historical air quality data from the M5 air filtration stacks.
+ Also fulfils court orders to notify independent parties the minute that any exceedence occurs.
 
-Built a system to capture and publish live and historical air quality data from the M5 air filtration stacks, as well
-as fulfil legal requirements to notify independent parties immediately an exceedence occurs; [work which
-is still in use over a decade later][M5East].
+Also built an Overtime Management intranet application enabling managers to tame overtime expenditure through an authorisation
+process (which proved suprisingly more policitally awkward and less exciting).
 
-[Roads and Traffic Authority](http://www.rms.nsw.gov.au/) August 2001 &rarr; October 2002  
+
 [Perl](https://www.perl.org/), [Coldfusion], [Oracle], [Debian], [Solaris], HTML, CSS, Javascript
 
-### Freelance
 
-Stepped in halfway and helped this four-man team to complete and deliver a web based front-end for [Vodafone](http://www.vodafone.com.au)'s
-implementation of the Mobile Number Portability project.
+#### Good Business Technology
 
-Stayed on briefly for some additional work for another client of theirs, _Swich_, building a daily report 
-of ATM transactions for their clients who owned ATM machines which they managed.
+April 2001 &rarr; July 2001  
 
-[Good Business Technology] April 2001 &rarr; July 2001  
+Stepped in midstream to help a four-man team complete and deliver the web based front-end of <http://www.vodafone.com.au>'s
+implementation of the Mobile Number Portability project. Thence retained for client, _"Swich"_, to do ATM 
+transaction reports to ATM machines leased out in random locations.
+
 [Coldfusion], [Oracle]
 
 
 ### Vertical Markets
+[http://verticalmarkets.com.au](http://www.economist.com/blogs/babbage/2011/10/internet-culture)  
+September 2000 &rarr; March 2001  
 
 Worked as part of a team converting an inhouse CMS into an online magazine publishing system for this seed-funded 
 'ebusiness portal' startup
 which, initially, was focused on the pharmaceuticals and medical industries.  Also worked on a workflow system
 for the booking of training days and courses for client Raytheon.
 
-[Vertical Markets] September 2000 &rarr; March 2001  
-Coldfusion and Spectra with Oracle and MS SQLServer, HTML
+[Coldfusion] and Spectra with [Oracle] and [SQLServer], HTML
 
 ### Daemon Consulting
+<http://www.daemon.com.au>  
+June &rarr; September 2000  
 
-A stint with this highly regarded web consultancy involved working on some big clients:
- trouble shooting at TechPacific production application issues, finished off the ICAC website, sorted out the 
- inhouse backup scripts, and particpated in an Agricultural Logistics startup attempt.
+My stint with this highly regarded web consultancy involved working on some big clients: like
+ trouble shooting-production application issues at TechPacific, finishing off the Independent Commission Against Corruption (ICAC)
+  website, and particpating in an agricultural logistics startup at
+  [Anderson Consulting](https://en.wikipedia.org/wiki/Arthur_Andersen).  My baptism-by-fire to tech exploitation 
+  (one might say).
 
-[Daemon Web Development](http://www.daemon.com.au/) June &rarr; September 2000  
-[Coldfusion] ([Spectra]), [SQLServer], HTML
+[Coldfusion], [Spectra](http://www.pcmag.com/encyclopedia/term/46472/macromedia-spectra), [SQLServer], HTML
 
 ### The Intermedia Group
+<http://intermedia.com.au>  
+April &rarr; June 2000
 
 Purchased their first hardware and built the network for a seed-funded startup building a marketplace for giftwares
 (like [Etsy](http://etsy.com/) is today).
 
-[Intermedia](http://intermedia.com.au/) April &rarr; June 2000  
 [Coldfusion], [SQLServer], HTML
 
 ### Leonard Communications
+<http://www.leonards.net.au>  
+September &rarr; December 1999  
 
 Built an index of private schools across Australia and published it at http://www.privateschoolsaustralia.com.au
 
-[Leonard Communications](http://www.leonards.net.au) September &rarr; December 1999  
 [Coldfusion], MS Access, HTML
 
 ---
@@ -461,8 +447,6 @@ Built an index of private schools across Australia and published it at http://ww
 [FindBigMail]: https://www.findbigmail.com/
 [Ruby]: https://www.ruby-lang.org/en/
 [ColdFusion]: http://www.adobe.com/au/products/coldfusion-family.html
-[Caradvice]: http://caradvice.com.au
-[Bestprice]: https://bestprice.com.au
 [Nodejs]: https://nodejs.org/en/
 [Munin]: http://munin-monitoring.org/
 [Pingdom]: https://www.pingdom.com/
@@ -472,13 +456,6 @@ Built an index of private schools across Australia and published it at http://ww
 [Chef]: https://www.chef.io/
 [django-rest-framework]: http://www.django-rest-framework.org/ (Django Rest Framework)
 [PHP]: http://php.net
-[Dolby]: http://dolby.com
-[fervr]: http://fervr.net
-[Youthworks]: https://www.youthworks.net/
-[LOUDEvent]: https://www.facebook.com/pages/LOUD-Event/151410097015
-[Ricemovement]: http://www.ricemovement.org
-[FervrRice]: https://bitbucket.org/fervr/rice/
-[FervrSource]: https://bitbucket.org/fervr/fervr
 [LIXI]: https://lixi.org.au/
 [M5East]: http://www.rms.nsw.gov.au/projects/sydney-south/m5-east/outside-air-quality-monitoring/index.html
 [Redis]: http://redis.io/
