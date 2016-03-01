@@ -73,6 +73,14 @@ With High Distinction for:
 [15th Annual Webby Awards Honoree (2011)](http://webbyawards.com/winners/2011/web/general-website/religion-spirituality/fervr/)  
 [http://fervr.net](http://fervr.net)  
 
+#### Technical Testing
+
+Internation Knowledge Management (IKM) Python Developer Test Results - 24 May 2012 - 87/100  
+<http://johnmee.com/static/IKM-Python-Test-Result.pdf>  
+  
+codility.com lesson solutions and commentary  
+<https://github.com/johnmee/codility>  
+
 ---
 
 > &ldquo;John was a thoroughly enjoyable fellow to work with and an invaluable source of skill and knowledge. He vigorously works his way to the core of each task, thus ensuring a well thought out and efficient solution. His many years of experience are obvious in what is the most beautiful and readable code I have ever seen. I hope to work with him again in the future.&rdquo;
