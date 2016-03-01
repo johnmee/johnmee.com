@@ -327,7 +327,7 @@ then reshaping it to fit the new data model. And process ~30GB of it between COB
 
 
 ### RecruitAdvantage
-<http://www.turborecruit.com.au/>  
+<http://www.turborecruit.com.au>  
 February 2006 &rarr; August 2006  
 
 Consulted on software engineering issues, leading to the introduction of fundamental tools: source control, issue tracking,
