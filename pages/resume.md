@@ -75,10 +75,10 @@ With High Distinction for:
 
 #### Technical Testing
 
-Internation Knowledge Management (IKM) Python Developer Test Results - 24 May 2012 - 87/100  
+International Knowledge Management (IKM) Python Developer Test Results - 24 May 2012 - 87/100  
 <http://johnmee.com/static/IKM-Python-Test-Result.pdf>  
   
-codility.com lesson solutions and commentary  
+Codility.com solutions and commentary  
 <https://github.com/johnmee/codility>  
 
 ---
