@@ -103,7 +103,7 @@ one very special girl, [a lamb roast](http://www.taste.com.au/recipes/7486/sues+
 Has mastered, and cannot be separated from, a [La Pavoni Lever](http://www.lapavoni.com/domestic-line.php?idcategory=1).
 
 <a href="http://stackexchange.com/users/28189">
-    <img src="http://stackexchange.com/users/flair/28189.png" alt="profile for John Mee on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for John Mee on Stack Exchange, a network of free, community-driven Q&amp;A sites" height="58" width="208">
+    <img src="https://stackexchange.com/users/flair/28189.png" alt="profile for John Mee on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for John Mee on Stack Exchange, a network of free, community-driven Q&amp;A sites" height="58" width="208">
 </a>						
 
 Github:  <https://github.com/johnmee>  

@@ -1,6 +1,6 @@
 title: How to send secure email through the gmail api
 published: 2014-10-20
-comments: False
+comments: True
 tag: technical
 
 

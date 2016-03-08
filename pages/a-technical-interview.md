@@ -3,14 +3,13 @@ published: 2007-12-23
 tag: technical
 disqus: http://sydneyboy.com.au/2007/12/the-technical-interview/
 
-> Describes, and solves, the puzzle I was given in a Skype interview for a SFO startup in 2007. 
- It was a friend-of-family for an unadvertised position on the other side of the world, so don't
- read too much into my performance, but the puzzling was new and fun so I wrote it up.  
+> Describes a Skype interview for a SFO startup in 2007. 
+ It was a friend-of-family for an unadvertised position on the other side of the world, so please don't
+ judge me on my performance; instead take away that I found the challenge fun and wrote it up.  
  
-> Initially I was a fan of these tests as I hoped
- it would screen out colleagues who could talk the talk but couldn't walk quite as well. Alas
- the pendulum has swung too far now that employers refuse to read your resume&mdash;let alone talk to you!&mdash;
- until some tiresome test is completed.
+> Initially I was a fan of these tests as I saw it could screen out colleagues who could talk the 
+  talk but not walk it quite so well. But I fear the pendulum swings too far when online tests are 
+  used to preemptively filter candidates.
 
 
 # A Technical Interview
