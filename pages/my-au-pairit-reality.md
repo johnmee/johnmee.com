@@ -29,8 +29,8 @@ and, I think, a contributory factor to the end result.
 
 So, before the star arrived, fairly late in the evening, around 9:30pm, the 'director' arrived at my door&mdash;hi,
 how do you do, I'm the director, may I see the room, ok, I'll be back&mdash;she came in and looked around
-and called in the cameraman.  They looked around and discussed if the lighting was adequate, and chatted
-briefly to me.  
+and called in the cameraman.  They huddled and discussed lighting and camera angles for a bit.  Then turned
+to me.  
 
 Before that moment, I was hoping to stay out of the picture altogether, but the director reassured me
 that it was Finnish TV and terrible odds of it ever appearing anywhere else in the world, especially since
@@ -60,17 +60,16 @@ Who could this be? I opened. And, yes, it's true, I'd never met this person befo
 her name (Susa), and here she was at the door.  For her part, same deal: she'd
 never met me.  It was all&ndash;ostensibly&ndash;genuine; so not that at all.
 
-Immediately she had no goal to evaluate the space as somewhere acceptable to sleep, or me as a person who could be trusted
-under the same roof.  We played our parts well enough, but the absence of these crucial components of a _real_ guest arrival,
-made it quite awkward.  She was like&mdash;Hi, yep, here I am. I'm used to ignoring the people behind 
-us, just show me where to stand and take your turn&mdash;whereas usually guests would be engaged and chatty and keen to
-learn more about the place and me and tell me where they'd been and a few of their stories.  I got nothing.
+Crucially, she had no goal to evaluate the space as somewhere acceptable to sleep, or me as a person who could be trusted
+under the same roof.  It was not her decision.  So we played our parts well enough, but the absence of this 
+critical freedom with a _real_ guest arrival, made it odd.  She was like&mdash;Hi, yep, here I am. I'm used to ignoring the people behind 
+us, just show me where to stand and take your turn.  Usually guests arrive chatty and keen to
+tell me about their journey, where they'd been, and to learn more about the place, and me, and swap stories. 
 
-Rather, she was like a passenger on a bus&ndash;not at all 
-interested in what was happening. She was simply enduring it; waiting for the end of the ride.  So I ran through my 
-usual welcome routine, showing the guest where everything is, the rules of the house, the local points of interest.
- She watched politely without interest.
-No questions. Barely a word uttered. Aaaand _CUT!_  
+With cameras rolling, we were like passengers on a bus; enduring it and 
+waiting for the end of the ride.  So I ran through my usual welcome routine, showing the guest where everything is, 
+the rules of the house, the local points of interest. She watched politely.
+No questions. Not a word uttered.  I wondered about her level of English.  Aaaand _CUT!_  
 
 Sadly, they didn't actually shout _Action_ or _Cut_.
 
