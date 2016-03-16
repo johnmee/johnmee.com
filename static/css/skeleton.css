@@ -432,3 +432,13 @@ blockquote p:last-child { margin-bottom: 0rem; }
   font-weight: 100;
   font-kerning: none;
 }
+
+.outer {
+  background: url(/static/images/oodnadata_track.jpeg) no-repeat center center;
+  object-fit: cover;
+}
+.inner {
+  background-color: rgba(250,250,250,0.6);
+  color: black;
+  padding: 1em;
+}
