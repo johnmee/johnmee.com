@@ -1,3 +1,4 @@
+import os
 import markdown
 import datetime
 
@@ -28,6 +29,12 @@ app.config.update({
     'FLATPAGES_HTML_RENDERER': my_renderer
 })
 pages = FlatPages(app)
+
+
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'), 'favicon.ico',
+                               mimetype='image/vnd.microsoft.icon')
 
 
 @app.route('/pygments.css')
