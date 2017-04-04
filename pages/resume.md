@@ -1,6 +1,6 @@
 title: Resume
 published: 2000-01-01
-revised: 2016-03-01
+revised: 2017-04-01
 tag: noindex
 
 
