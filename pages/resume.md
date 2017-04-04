@@ -114,6 +114,20 @@ Email Address:  [resume@johnmee.com](mailto:resume@johnmee.com)
 
 ## Job History
 
+### Capital Markets Cooperative Research Centre (CMCRC)
+<https://www.cmcrc.com>  
+April 2016 &rarr;
+
+Permanent role in a ten strong development team of this award winning financial research company.
+
+* Writing code to implement new features and fix bugs
+* Implementing strategies to ensure stability, seamless deployments, high performance and cost effectiveness
+* Monitoring and tuning our distributed computing environment
+* Scripting of operational processes to support continuous integration and deployment
+* Provisioning, configuration management and monitoring of IT systems
+
+[Python] [Django] [Docker] [Postgresql] [node.js] [Webpack] [AWS] [Puppet] [JIRA] [Agile]
+
 
 ### FindBigMail
 <https://findbigmail.com>  

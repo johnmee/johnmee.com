@@ -418,7 +418,11 @@ there.
 @media (min-width: 1200px) {}
 
 
-/* JOHNMEE stuff */
+/* JOHNMEE stuff
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+html {
+  font-size: 67.5%;
+}
 img { max-width: 90%; max-height: 60em; margin: 1em auto; display: block; }
 blockquote {
   background-color: rgba(30, 174, 219, 0.09);
