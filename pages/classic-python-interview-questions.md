@@ -53,7 +53,7 @@ A *generator expression* is a generator. eg: `(x for x in range(1, 100))`
 generator in python 3.  By this point the interviewer will be already seeking another way to trip you up but, if they're
 onto you, you will look stupid if you don't know anything about the `xrange` function.
 
-## What is the signficance of the single underscore and double underscores in method/property names?
+## single and double underscores?
 
 A single underscore is *private*.  eg: \_foo is not intended for access from outside the current scope.  
 A double underscore is a reserved language construct. eg: \_\_init\_\_ is a python constructor, and \_\_iter\_\_ is the python

@@ -64,6 +64,11 @@ def meejinnz(path='index.html'):
     return send_from_directory('meejinnz', path)
 
 
+@app.route('/html/<path:path>')
+def htmldir(path):
+    return send_from_directory('html', path)
+
+
 @app.route('/')
 def home():
     # sort the posts to reverse date order

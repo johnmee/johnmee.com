@@ -446,3 +446,6 @@ blockquote p:last-child { margin-bottom: 0rem; }
   color: black;
   padding: 1em;
 }
+.tiny {
+  font-size: 50%;
+}
