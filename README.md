@@ -10,5 +10,9 @@ I see there is a `pandoc.sh`, and in it is some stuff that looks like converting
 
 ## How to deploy updates
 
-There is a `rundeploy.sh` script.  I'm pretty sure there's a one-liner to do that remotely.  Post that here when you recall what it is.
+There is a `rundeploy.sh` script.
+
+```
+$ cat redeploy.sh | ssh binlane
+```
 
