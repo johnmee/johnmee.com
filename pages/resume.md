@@ -1,6 +1,6 @@
 title: Resume
 published: 2000-01-01
-revised: 2017-04-01
+revised: 2019-01-14
 tag: noindex
 
 
@@ -14,26 +14,40 @@ ul { margin-left: 1em; text-indent: -1em; }
 
 # John Mee
 
-> Senior __Software Engineer__ currently proficient with Python; more than five years experience building APIs and websites with 
-flask and django, amid esoteric projects. Full Stack competency from requirements to deployment and considerable
-experience with startups.
+<img src="static/images/resume/john.jpg" title="John" />
 
-_Core_
+## Senior Software Engineer
 
-* 5+ years Python experience, with Django and flask, and substantial experience creating APIs
-* 10+ years experience with backend development, web and traditional software engineering
-* Experienced with modern responsive site development and frontend workflows (HTML, CSS, SASS, LESS, Bootstrap, Foundation)
+> John is an experienced computer programmer with years of professional experience. 
+He is currently a Python and javascript expert, yet open to all languages.  
+
+> His requirements analysis is exhaustive, along with his attention to detail. He can divide, describe, and assign 
+tasks, yet be happy 'in the trenches' wading through, shaping, and creating code, and making weighty technical
+decisions.
+
+> John combines no-nonsense technical ability with technical communication; able to identify the hard, soft, and risky
+ requirements, convert them into tickets, and explain complex technical issues in language managers can understand. 
+ He gets 'the gist of it' quickly, and has the experience to discern when details need input from above, or 'common sense' 
+ can safely take precedence over procrastination.
+
+> According to the psych tests, John is independent, patient, and an "expediter": he gets it done—and he will be 
+careless with your feelings if things go down to the wire. John will negotiate hard at the start to 'do it right', 
+so all is delivered as planned. He gets no joy from desperate 'hacks', quick fixes, and technical debt.
+
+
+_The Buzz_
+
+* 10+ years Python experience, with Django and flask, and substantial experience creating APIs
+* 10+ years 'full-stack' experience with backend development, web and traditional software engineering
+* Experienced with modern responsive site development and frontend workflows (HTML, CSS, SASS, LESS, Bootstrap)
 * Experienced with modern javascript tools and pipes (jquery, nodejs, gulpjs, grunt, backbonejs, angularjs)
 * Excellent and thorough requirements gathering, analysis, and system design
-* Ability to make cautious estimates and achieve them; identify critical issues early and neutralize them 
+* Ability to make estimates and achieve them; identify critical issues early and neutralize them 
 * Excellent database analysis and design skills (postgresql, mysql)
 * 10+ years \*NIX administration experience (debian, ubuntu, redhat, solaris, openbsd, rpi, OS X)
-* Experienced with cloud services (Amazon AWS, Heroku, Cloudflare)
+* Experienced with cloud services (Amazon AWS, Heroku, Cloudflare, Google Cloud)
 * Excellent English communication and teamwork skills
 * Ability to work autonomously and collaborate with creative and technical colleagues
-
-_Supplemental_
-
 * Experienced with mentoring junior programmers; assigning and reviewing coding tasks
 * Experienced with minor PHP and Ruby tasks
 * A positive profile in the developer community; active on StackOverflow, Github, a technical blog, and occasional
@@ -42,20 +56,24 @@ _Supplemental_
 * Familiar with popular tools: Redis, memcached, MQ, puppet/salt/chef/ansible, etc
 * Wealth of experience in startup environments
 
+
+---
+
+> &ldquo;It was an absolute pleasure to work with John and he would be an asset to any software team. 
+   He was involved in some key architectural and technology choice investigations which we are still benefiting from today.&rdquo;  
+    _Alister Cordiner - Head of Product Development - Capital Markets CRC_
+
+> &ldquo;John was a thoroughly enjoyable fellow to work with and an invaluable source of skill and knowledge. He vigorously works his way to the core of each task, thus ensuring a well thought out and efficient solution. His many years of experience are obvious in what is the most beautiful and readable code I have ever seen. I hope to work with him again in the future.&rdquo;  
+    _Daniel Bradley - Staff Programmer - Copyright Agency Limited_
+
 ---
 
 ## Qualifications and Awards
 
-#### Bachelor of Applied Science (Computing)
+#### Webby Awards Honoree
 
-University of Technology, Sydney, Australia  
-[B.App.Sc (Computing)](http://www.uts.edu.au/future-students/find-a-course/courses/c10345)  
-With Distinction for:
-
- * Programming Principles
- * Technical and Professional Communication
- * Computer Graphics
- 
+[15th Annual Webby Awards Honoree (2011)](http://webbyawards.com/winners/2011/web/general-website/religion-spirituality/fervr/)  
+[http://fervr.net](http://fervr.net)  
 
 #### Master of Information Technology (Web Technologies)
 
@@ -68,11 +86,16 @@ With High Distinction for:
 * XML Technologies
 * Distributed Systems
 
-#### Webby Awards Honoree
+#### Bachelor of Applied Science (Computing)
 
-[15th Annual Webby Awards Honoree (2011)](http://webbyawards.com/winners/2011/web/general-website/religion-spirituality/fervr/)  
-[http://fervr.net](http://fervr.net)  
+University of Technology, Sydney, Australia  
+[B.App.Sc (Computing)](http://www.uts.edu.au/future-students/find-a-course/courses/c10345)  
+With Distinction for:
 
+ * Programming Principles
+ * Technical and Professional Communication
+ * Computer Graphics
+ 
 #### Technical Testing
 
 International Knowledge Management (IKM) Python Developer Test Results - 24 May 2012 - 87/100  
@@ -83,18 +106,11 @@ Codility.com solutions and commentary
 
 ---
 
-> &ldquo;John was a thoroughly enjoyable fellow to work with and an invaluable source of skill and knowledge. He vigorously works his way to the core of each task, thus ensuring a well thought out and efficient solution. His many years of experience are obvious in what is the most beautiful and readable code I have ever seen. I hope to work with him again in the future.&rdquo;
-    _Daniel Bradley - Staff Programmer - Copyright Agency Limited_
-
----
-
-<img src="static/images/resume/john.jpg" title="John" />
-
 ## Personal
 
-Born in Sydney and enjoys a bachelor's life in Manly&mdash;NSW Australia.
+Born in Sydney, John is married with no children, and enjoys an aquatic lifestyle in Manly&mdash;NSW Australia.
 
-Struggles to spend time away from keyboards so, when that does happen, it is ideally a physical exercise.  Surfing [Fairy
+He struggles to spend time away from keyboards so, when that does happen, it is ideally a physical exercise.  Surfing [Fairy
 Bower](https://goo.gl/maps/NvQMemQ1GjL2) is the #1 choice or, when the swell is not running, a ride on two wheels&mdash;
 [push](https://goo.gl/maps/jf9yE93Tokt) or [motor](https://goo.gl/maps/LMswsXVCMGz)&mdash; will do.
 Running on the spot at the gym is a distant third. Enjoys a good read, good company, 
@@ -114,9 +130,26 @@ Email Address:  [resume@johnmee.com](mailto:resume@johnmee.com)
 
 ## Job History
 
+![Google](static/images/resume/google.jpg)
+
+### EPAM Systems @ Google
+<https://www.epam.com/>  
+July 2017 &rarr; January 2019
+
+In the Google offices in Pyrmont, John worked on systems which complemented the Technical Support Engineers of G-Suite:
+
+* solely responsible for an 'Automated Assigner' to programmatically route incoming support tickets to relevant and available engineers; and hand them over to the next shift when 'following the sun'.  It is a Python application which interfaces with a complex menagerie of internal Google systems and protocols to determine tasks, people, skillsets, availability, quotas... and more.  It's non-trivial and business critical.
+* responsible for a standalone javascript plugin which assists Technical Support Engineers by detecting and injecting relevant details into various web pages as they go about their job
+* worked with a javascript guru to produce "smart suggestions"—a machine learning chat application that predicted and suggested suitable responses to customers during a live chat.
+* contributed to various other support applications; like an application to review and score the responses of Support Engineers
+* participation in routine stand-ups and sprint planning meets
+
+
+![CMCRC](static/images/resume/cmcrc.png)
+
 ### Capital Markets Cooperative Research Centre (CMCRC)
 <https://www.cmcrc.com>  
-April 2016 &rarr;
+April 2016 &rarr; June 2017
 
 Permanent role in a ten strong development team of this award winning financial research company.
 
@@ -146,7 +179,7 @@ Responsibilities are everything from concept to implementation to maintenance, e
 
 [Python] ([Flask], [GmailAPI](https://developers.google.com/gmail/api/?hl=en)), [Redis], [Heroku]
 
-#### Evolutionary Programming
+#### Evolutionary Programming Theory
 Freelance &ndash; Nigel O'Neill  
 <https://github.com/johnmee/nigel>  
 April &rarr; August 2013  
@@ -195,6 +228,8 @@ Lingered for a long time performing monthly site updates and essential maintenan
 [Python], [Django], [MySQL], [Backbone.js](http://backbonejs.org/), [Angular.js](https://angularjs.org/),
 [Git], [Bootstrap](http://getbootstrap.com/), [Ubuntu]
 
+
+![CopyrightAgency](static/images/resume/copyrightagency.jpg)
 
 ### Copyright Agency Limited
 <http://copyright.com.au>  
