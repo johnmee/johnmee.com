@@ -79,7 +79,7 @@ A lambda is a shortcut way to create a function. The key words to say are "*anon
 For extra credit, you might be asked to create a recursive function with a lambda. Surprisingly enough you can actually
 refer to the name you're declaring. eg:
 
-`factorial = lambda n: n * factorial(n) if n != 0 else 1`
+`factorial = lambda n: n * factorial(n-1) if n != 0 else 1`
 
 ## More interview questions
 
