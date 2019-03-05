@@ -8,7 +8,8 @@ $ FLASK_APP=blog.py FLASK_ENV=development FLASK_DEBUG=1 flask run
 
 ## How to add pages
 
-I vaguely recall I can just add new files to the `pages` directory and, depending on the yaml data at the top, it will decide whether to publish and what to call it.
+I vaguely recall I can just add new files to the `pages` directory and, depending on the yaml data at the 
+top, it will decide whether to publish and what to call it.
 
 ## How to update the resume
 
