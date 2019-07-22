@@ -69,11 +69,11 @@ Activities: Surfing, Sailing, Cycling
 
 __Links__
 
-- **StackOverflow** https://stackoverflow.com/users/75033/john-mee
-- **FindBigMail** (2015) https://www.findbigmail.com I inherited the domain and rebuilt with python on heroku.
-- **minimumwage** (2018) https://www.minimumwage.cafe the dream is to build this up to make 
+- **StackOverflow** <https://stackoverflow.com/users/75033/john-mee>
+- **FindBigMail** (2015) <https://www.findbigmail.com> I inherited the domain and rebuilt with python on heroku.
+- **minimumwage** (2018) <https://www.minimumwage.cafe> the dream is to build this up to make 
 it easy for all those underpaid cafe staff in manly work out what they're actually supposed to get paid.
-- **johnmee** (2016) https://johnmee.com one's own website is always the most neglected.
-- https://github.com/johnmee
+- **johnmee** (2016) <https://johnmee.com> one's own website is always the most neglected.
+- <https://github.com/johnmee>
 
 Keywords: Full Stack, Multi stack, python, javascript, node, sass, less, webpack, docker, agile, scrum, team player, git, jira, puppet, ansible, linux, debian, ubuntu, macos, postgresql, mysql, aws, google cloud, postgresql, linux
