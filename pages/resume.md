@@ -60,12 +60,16 @@ Daniel Bradley - Staff Programmer - Copyright Agency Limited
 Russell Ayling - Technical Manager - Roads and Traffic Authority
 > “John would be an asset to any organisation.”
 
+
+__Meta__
+
 Commuting from: Manly NSW 2095  
 Citizenship: Australia  
 Activities: Surfing, Sailing, Cycling  
 
-__Toy Projects__
+__Links__
 
+- **StackOverflow** https://stackoverflow.com/users/75033/john-mee
 - **FindBigMail** (2015) https://www.findbigmail.com I inherited the domain and rebuilt with python on heroku.
 - **minimumwage** (2018) https://www.minimumwage.cafe the dream is to build this up to make 
 it easy for all those underpaid cafe staff in manly work out what they're actually supposed to get paid.
