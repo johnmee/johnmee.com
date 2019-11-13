@@ -6,7 +6,7 @@ disqus: http://sydneyboy.com.au/2012/06/the-minimum-wage-and-how-to-get-it/
 
 [1]: https://www.fairwork.gov.au/how-we-will-help/how-we-help-you/help-resolving-workplace-issues#request-assistance-from-us
 [2]: https://calculate.fairwork.gov.au/FindYourAward
-[3]: http://www.fwa.gov.au/documents/modern_awards/award/MA000003/default.htm
+[3]: https://www.fwc.gov.au/documents/documents/modern_awards/award/ma000119/default.htm
 [4]: http://www.fairwork.gov.au/
 [4corners]: http://www.abc.net.au/4corners/stories/2015/08/30/4301164.htm
 
@@ -18,7 +18,7 @@ class system of different jobs and wages for the 'natives' and the 'foreigners'.
 
 # Minimum Wage is not working
 
-Work the job at whatever (illegal) rate 
+To fight back: Work the job at whatever (illegal) rate 
 you're offered then&mdash;after you've quit&mdash;
 [reclaim the difference through the Fair Work Ombudsman][1]. 
 Even if you work there 
@@ -27,7 +27,7 @@ as an enforced savings plan...
 
 ### You will be offered less than the minimum wage
 
-To break up the work-from-home isolation, I went for a casual job at the Gloria Jeans franchise
+To break up some work-from-home isolation, I went for a casual job at the Gloria Jeans franchise
  a block from home in Manly NSW. Just as it is illegal 
  for an employer to pay less than the award, it is illegal for an 
  employee to accept less than the minimum wage.
@@ -43,7 +43,7 @@ So after four shifts I received my first pay cheque.  It's quite obvious that
 I'm over 20 years old yet the payslip described me as a 20 year old shop assistant.  This prompted me 
 to [look up the award rate][2].  It was a little 
 messy but I fumbled through guessing at the things I couldn't be sure of.  I found the relevant award 
-[Fast Food Industry Award MA000003][3]
+[Restaurant Industry Award MA000119][3]
 and that the minimum legal wage for a casual cafe assistant back in 2006 was $20.27; the 2012 rate
  could only be more.
 

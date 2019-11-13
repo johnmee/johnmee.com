@@ -124,7 +124,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
 
 
@@ -442,7 +442,7 @@ blockquote p:last-child { margin-bottom: 0rem; }
   object-fit: cover;
 }
 .inner {
-  background-color: rgba(250,250,250,0.6);
+  background-color: rgba(250,250,250,0.85);
   color: black;
   padding: 1em;
 }
