@@ -1,4 +1,3 @@
-cd /home/john/johnmee.com/www
+cd /home/john/johnmee.com/src
 git pull
-sudo service uwsgi reload
-sudo service nginx reload
+sudo systemctl restart johnmee.service
