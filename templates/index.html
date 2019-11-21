@@ -46,8 +46,9 @@
 <div>
     <ul>
         <li><a href="/resume">Resum&eacute;</a></li>
+        <li><a href="/static/mygpgkey.txt">My GPG Public key</a></li>
     </ul>
-    <p>Technical Posts</p>
+    <p>Technical Stuff</p>
     <ul>
         {% for post in technical_posts %}
         <li><a href="{{ post.path }}">{{ post.title }}</a></li>
@@ -55,7 +56,7 @@
     </ul>
 </div>
 <div>
-    <p>Opinion Posts</p>
+    <p>Other Stuff</p>
     <ul>
     {% for post in opinion_posts %}
     <li><a href="{{ post.path }}">{{ post.title }}</a></li>
