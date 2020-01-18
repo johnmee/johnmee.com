@@ -7,6 +7,14 @@ disqus: http://johnmee.com/book-list/
 
 # 2019
 
+**The Sydney Hobart Yacht Race - Rob Mundle - (2019) - [HarperCollins](https://www.harpercollins.com/9781460711019/sydney-hobart-yacht-race/)**
+
+Started strong with a fascinating story of some sailors who got together for an ocean cruise, and how that morphed into
+the great race that we have today.  Thence it extracts the essence of the drama from year on year.  Does well for a time,
+but somewhere along the way the weather turns and it becomes a tortuous upwind slog; just grinding out the catalogue
+of line honours and handicap winners.  My advice to readers: turn up for a colourful start, but dock at Bega, or
+ wherever the going gets tough, and abandon it there.
+
 **D-day. Through German Eyes - Holger Eckhertz - (2015) - [Amazon](https://www.amazon.com.au/DAY-Through-German-Eyes-Hidden-ebook/dp/B00VX372UE/)**
 
 Excellent.  By focusing on their personal experience of D-Day we get rare insights into exactly what was like to
