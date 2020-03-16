@@ -24,6 +24,8 @@ to work in tandom with an Nvidia PCIe graphics card/chip.  I'm on a desktop, but
 
 # TL;DR?
 
+Set a global env variable by adding `__GL_MaxFramesAllowed=1` to the file `/etc/environment` and restart.
+
  **Don't search google/duckduck/whatever.  Go directly to the NVidia documentation.**  
   eg: http://us.download.nvidia.com/XFree86/Linux-x86_64/418.74/README/
 
