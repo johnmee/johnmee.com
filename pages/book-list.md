@@ -5,6 +5,38 @@ disqus: http://johnmee.com/book-list/
 
 > A log of some books I've actually made it to the end of.
 
+# 2020
+**Prayer: Experiencing awe and intimacy with God - Timothy Keller - [Hodder & Stoughton](https://www.koorong.com/product/prayer-experiencing-awe-and-intimacy-with-god-timothy-keller_9781444750171)**
+
+A very cerebral and structured examination of prayer broken into two halves: first he studies basic questions like
+what is prayer, why do it, what does it look like, some history and more objective aspects.  Second is a study of
+the subjective work of actually praying: what, where, how, etc.
+
+I've been struggling to get through this book.  It is great to examine the topic objectively as he does, but
+perhaps the style of writing is not for me: as I read I notice myself flicking ahead to see how many more pages
+in the chapter, then flicking back to recall the context of the words in hand.  I think it is a crucial topic, 
+so am very motivated to read it, but nonetheless it is gathering dust with a bookmark still in the middle somewhere.
+
+Structured and pragmatically academic; not yet complete.
+
+**Groundswell: The Christian Surfers Story - Brett Davis - (2012) - [SelfPublished](https://www.christiansurfers.net/groundswell-book)**
+
+A lot of what is described in the early years, and chapters, of this read was occuring not far from where I myself
+was, and the people I knew at the time, or do now.  So it was quite naturally very interesting to me.  "Wow, I know
+that guy" and "That was about the time I..." were fairly common thoughts, so I expect my appreciation of the content
+may be very different to others.
+
+The opening third of this autobiography (effectively) was poignant and moving as the young Brett Davis commits himself
+to God and the mission, and forms a revolutionary counter-culture within a culture which has rejected, well, the "normal"
+culture.  It's a great read.
+
+Then as the organisation gets established and more people come to bear the story itself suffers considerably, as it
+devolves into a listing of who was who and doing what; no doubt to give everyone credit, there are certainly snippets
+of other people's stories as the movement becomes international, which maintain the interest, but are necessarily
+superficial.  Fortunately it closes strong by returning to personal stories.
+
+Fascinating start. Bit of a grind through the middle. Nice flourish to finish.
+
 # 2019
 
 **The Sydney Hobart Yacht Race - Rob Mundle - (2019) - [HarperCollins](https://www.harpercollins.com/9781460711019/sydney-hobart-yacht-race/)**
