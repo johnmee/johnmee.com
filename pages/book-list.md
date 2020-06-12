@@ -6,6 +6,36 @@ disqus: http://johnmee.com/book-list/
 > A log of some books I've actually made it to the end of.
 
 # 2020
+**The Hunger Games and Philosophy - (2012) - [Wiley](https://www.wiley.com/en-us/The+Hunger+Games+and+Philosophy%3A+A+Critique+of+Pure+Treason-p-9781118065075)**
+
+1. 'Life imitates art'. Reflect on the role of art; enabling one to come close to an ugly subject without broaching it and, thus, to admire it.
+1. Reflect on the power of music. Ask yourself if, when, banning specific music and the arts is appropriate, or not.
+1. The power of metaphors.
+
+**Silence - Shusaku Endo - (1966) - [Picador](https://en.wikipedia.org/wiki/Silence_(novel))**
+
+Novel about a catholic missionary to Japan in the 1600s.  It was short and very easy to read with a light whimsical
+quality; somewhat like one of those Japanese 'Death Poems'.  It was also a waste of time.
+
+I struggled with the theology, or lack of it, or perhaps the curious fixation upon Roman Catholic failings (to my Protestant eyes) of
+ornaments, ceremony, and the stations of the cross in absence of any teaching or theology.  They were 
+probably quite representative of the period, but the theme of the book was lost on me; I failed to relate with
+the protagonist, instead constantly urging him to forego his cermonies and symbols, and instead to preach the ideas,
+concepts, and ressurection of the gospel.  Why doesn't he just stomp on the symbols, as the powers desire, thence spread
+the power of ideas?
+
+The climax occurs when the Priest 'apostatizes', stomps on an image
+of Jesus, in order to save some peasants from excruciating torture and death.  The title chosen is 'silence'. Is 
+the author presenting the 'silence' of God, in the face of terrible suffering, as evidence that there is no God?
+Or that the missionary, by sacrificing himself (in denouncing Jesus) to save the others, has fulfilled his role and
+followed in Jesus' footsteps?  I didn't really get which.  You can certainly find better books on theology, and better
+books on Japanese life in the 1600s.  Maybe one of the three movies drawn from this novel are time better spent than
+actually reading it?
+
+"David Mitchell" (English Author?) is quoted on the cover, "One of the finest historical novels written by anyone anywhere... flawless".
+Certainly he should be thrown in the pit himself and tortured for this gross overstatement.
+
+
 **Prayer: Experiencing awe and intimacy with God - Timothy Keller - [Hodder & Stoughton](https://www.koorong.com/product/prayer-experiencing-awe-and-intimacy-with-god-timothy-keller_9781444750171)**
 
 A very cerebral and structured examination of prayer broken into two halves: first he studies basic questions like
@@ -24,18 +54,17 @@ Structured and pragmatically academic; not yet complete.
 A lot of what is described in the early years, and chapters, of this read was occuring not far from where I myself
 was, and the people I knew at the time, or do now.  So it was quite naturally very interesting to me.  "Wow, I know
 that guy" and "That was about the time I..." were fairly common thoughts, so I expect my appreciation of the content
-may be very different to others.
+will be different to others.
 
 The opening third of this autobiography (effectively) was poignant and moving as the young Brett Davis commits himself
-to God and the mission, and forms a revolutionary counter-culture within a culture which has rejected, well, the "normal"
-culture.  It's a great read.
+to God and the mission, and forms a revolutionary counter-culture.  It's a great read.
 
-Then as the organisation gets established and more people come to bear the story itself suffers considerably, as it
-devolves into a listing of who was who and doing what; no doubt to give everyone credit, there are certainly snippets
-of other people's stories as the movement becomes international, which maintain the interest, but are necessarily
-superficial.  Fortunately it closes strong by returning to personal stories.
+Then as the organisation gets established and more people come to bear the story itself suffers.  It
+devolves into a catalogue of who was who and what they were doing. Whilst it is commendable to give everyone credit, it
+becomes dull reading.  There are snippets of people's stories as the movement becomes international, but interesting 
+as they are, they are necessarily superficial.  Fortunately it closes strong by returning to longer personal journeys.
 
-Fascinating start. Bit of a grind through the middle. Nice flourish to finish.
+A fascinating start. A grind through the middle. A nice flourish to finish.
 
 # 2019
 
