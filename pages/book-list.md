@@ -6,6 +6,19 @@ disqus: http://johnmee.com/book-list/
 > A log of some books I've actually made it to the end of.
 
 # 2020
+**Treasure Islands - Pamela Stephenson - (2005) - [Headline](https://www.amazon.com.au/Treasure-Islands-Sailing-Robert-Stevenson/dp/0755312864/ref=sr_1_fkmr0_2?dchild=1&keywords=treasure+island+pamela+stephenson&qid=1598566529&sr=8-2-fkmr0)**
+
+I owe the author an apology because in Chapter One I decided this was written by a "ghost writer" and could not shake
+the idea the whole way through.  In hindsight, perhaps just a good editor.  Curiously, I did actually make it to the end of this one. Not rapidly, but the
+insights into life on the tiny islands of the Pacific did manage to keep me interested.  It is also an odd insight
+into the life of the "rich and famous", and far more real than all that crap you get in the media; Pamela is married
+to Billy Connelly, the comedian, and takes a fair chunk of money to put together a luxury yacht with a paid crew and
+sail it in a retracing of a voyage by author Robert Louis Stevenson, one hundred and twenty years before.  The parallel
+stories are quite clumsy but the read would be vastly different without as they manage to add so much context to the places they visit,
+and motivation to do it, and what path to take.
+
+It is neither great literature nor rollicking sailing yarn, but curious and unique, and able to stand on its own two legs.
+
 **The Hunger Games and Philosophy - (2012) - [Wiley](https://www.wiley.com/en-us/The+Hunger+Games+and+Philosophy%3A+A+Critique+of+Pure+Treason-p-9781118065075)**
 
 1. 'Life imitates art'. Reflect on the role of art; enabling one to come close to an ugly subject without broaching it and, thus, to admire it.
