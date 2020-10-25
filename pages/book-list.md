@@ -6,6 +6,14 @@ disqus: http://johnmee.com/book-list/
 > A log of some books I've actually made it to the end of.
 
 # 2020
+**Mr Eternity - Roy Williams with Elizabeth Meyers - (2017) - [AcornPress](https://acornpress.net.au/publications/mr-eternity-story-arthur-stace/)**
+
+Interesting biography of that guy who wandered the streets of Sydney writing "Eternity" in chalk.  So much so that,
+amazingly, it became written on the Sydney Harbour Bridge in fireworks for NYE the turn of the millenium (2000).  The
+old history of Sydney stuff, circa 1900, is naturally fascinating to a local.  Well written and well researched.  I
+certainly give it a thumbs up to Christians, and drunks, familiar with Sydney.  Non-christians with a connection
+to Sydney or colonial history might fare well.  Others, I'd wait for them to ask before offering my opinion.
+
 **Treasure Islands - Pamela Stephenson - (2005) - [Headline](https://www.amazon.com.au/Treasure-Islands-Sailing-Robert-Stevenson/dp/0755312864/ref=sr_1_fkmr0_2?dchild=1&keywords=treasure+island+pamela+stephenson&qid=1598566529&sr=8-2-fkmr0)**
 
 I owe the author an apology because in Chapter One I decided this was written by a "ghost writer" and could not shake
