@@ -5,6 +5,12 @@ disqus: http://johnmee.com/book-list/
 
 > A log of some books I've actually made it to the end of.
 
+# 2021
+
+**Funeral Rights - Robert Larkins**  
+**Thunderball - Ian Fleming**  
+**The Rip Curl Story - Tim Baker**  
+
 # 2020
 **Mr Eternity - Roy Williams with Elizabeth Meyers - (2017) - [AcornPress](https://acornpress.net.au/publications/mr-eternity-story-arthur-stace/)**
 

@@ -9,10 +9,15 @@ Software Engineer: **John Mee**
 
 Languages: **Python**, **Javascript**, etc.  
 
-__Python__ (10y)  
+__Python__ (>10y)  
+
+**Fitsense** - Nov 2019 to present  
+- Serverless AWS Python Backend Engineer to a fitness app which aggregates data from all your wearables into a single
+  activity score for rewards and leaderboards
+- 10-pax startup recently purchased by Zurich "Livewell"
 
 **Fairfax Media** - April 2019 to July 2019 (3m)  
-- Short contract with dockerized django adding video recommendations via the Brightcove API.
+- Contract to add "next video recommendations" via the Brightcove API with dockerized django.
 
 EPAM @ **Google** (Sydney) – July 2017 to January 2019 (18m)  
 - Got very familiar with python mocking and testing, "protobuf" RPCs, and how they do code in a massive tech giant.  
