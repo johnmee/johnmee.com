@@ -34,8 +34,8 @@ where code randomly 'evolves' and self evaluates, ultimately programming itself 
 
 **CarAdvice** (Freelance) May 2013 into 2015 (1-2yr)  
 - Worked on a Django web application for a startup within a startup ("Bestprice") which was eventually abandoned due to a flawed business model.  
-- Kept busy as the workload tailed off helping out with devops (Ansible, AWS, PHP, mysql) for the core business.  
-- But had a serious road accident late 2013 and worked part-time and/or from home through recovery in 2015.  
+- devops (Ansible, AWS, PHP, mysql) for the core business of a car magazine served on aws and wordpress  
+- a serious road accident Nov 2013, put me in hospital and rehab; worked part-time or from home through 2015.  
 
 **Dolby Laboratories** Feb 2011 to Nov 2011 (10m)  
 - Learnt the Django Rest Framework and delivered an API which connects all the clients of their voice conferencing solution doing
