@@ -11,7 +11,7 @@ Languages: **Python**, **Javascript**, etc.
 
 __Python__ (>10y)  
 
-**Fitsense** - Nov 2019 to present  
+**Fitsense -> Zurich "Livewell"** - Nov 2019 to present  
 - Serverless AWS Python Backend Engineer to a fitness app which aggregates data from all your wearables into a single
   activity score for rewards and leaderboards
 - 10-pax startup recently purchased by Zurich "Livewell"
@@ -50,7 +50,7 @@ a magazine style publishing platform, an event ticketing system, and webstore.
 John graduated as a stereotypical 'computer kid' in 1991 and spent a couple of years in the industry
 doing Fortran, UNIX/C and Perl for the Roads and Traffic Authority and AMPOL after working the help desks.
  He then globetrotted extensively working itinerant jobs until 2000 (9y).  In 2000, he started building data-backed websites with Adobe ColdFusion, spreading several years amongst a consulting
-house, two long-forgotten startups, and a big marketing company (Carlson).  He went back to Uni for a IT Masters and, via Genworth Financial,
+house, two long-forgotten startups, and a big marketing company (Carlson) for CBA.  He went back to Uni for a IT Masters and, via Genworth Financial,
  toyed with Java/Weblogic, then some C#.NET by freelance gigging and a contract with Perpetual Trustees (2y), before
  settling into Python. Feel free to ask about any of this time if it interests you.
 
