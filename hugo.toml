@@ -1,4 +1,4 @@
-baseURL = 'https://johnmee.com/'
+baseURL = 'https://www.johnmee.com/'
 languageCode = 'en-au'
 title = 'John Mee'
 [params]
