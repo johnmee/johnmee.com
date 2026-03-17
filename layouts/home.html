@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <ul class="post-list">
+    {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+      <li>
+        <div class="post-meta">{{ .Date.Format "2 January 2006" }}</div>
+        <div class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+        <div class="post-excerpt">
+          {{ .Summary }}
+          <a class="read-more" href="{{ .Permalink }}">Read more &rarr;</a>
+        </div>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

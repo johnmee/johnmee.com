@@ -1,0 +1,13 @@
+{{ define "main" }}
+  {{ if or (not .Date.IsZero) (gt .ReadingTime 0) }}
+  <div class="post-meta">
+    {{ if not .Date.IsZero }}{{ .Date.Format "Monday, 2 January 2006" }}{{ end }}
+    &nbsp;·&nbsp;
+    {{ if gt .ReadingTime 0 }}{{ .ReadingTime }} min read{{ end }}
+  </div>
+  {{ end }}
+  <h1>{{ .Title }}</h1>
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+{{ end }}

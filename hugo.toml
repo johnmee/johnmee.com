@@ -1,0 +1,5 @@
+baseURL = 'https://johnmee.com/'
+languageCode = 'en-au'
+title = 'John Mee'
+[params]
+  tagline = 'The daily frustrations of a middle age man'

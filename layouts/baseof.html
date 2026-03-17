@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang | default "en" }}" data-theme="light">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <script>
+      (function() {
+        var theme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+      })();
+    </script>
+    {{ block "head" . }}{{ end }}
+</head>
+
+  <body>
+    <div class="container">
+        <header>
+            <div class="site-brand">
+              <a href="{{ .Site.BaseURL }}" class="site-title-link">
+                <img src="/snoopy_logo.png" alt="{{ .Site.Title }} logo" class="site-logo">
+                <div class="site-title-group">
+                  <span class="site-title-text">{{ .Site.Title }}</span>
+                  <span class="site-tagline">{{ .Site.Params.tagline }}</span>
+                </div>
+              </a>
+            </div>
+            <nav>
+                <button id="theme-toggle" aria-label="Toggle dark mode">☀︎</button>
+            </nav>
+        </header>
+
+        <main>
+        {{ block "main" . }}{{ end }}
+        </main>
+
+        <footer>
+            &copy; {{ now.Year }} {{ .Site.Title }}
+            &nbsp;·&nbsp;
+            <a href="/disclaimer">Disclaimer</a>
+        </footer>
+    </div>
+
+    <script>
+      var btn = document.getElementById('theme-toggle');
+      function applyTheme(t) {
+        document.documentElement.setAttribute('data-theme', t);
+        localStorage.setItem('theme', t);
+        btn.textContent = t === 'dark' ? '☀︎' : '☾';
+      }
+      applyTheme(localStorage.getItem('theme') || 'light');
+      btn.addEventListener('click', function() {
+        var current = document.documentElement.getAttribute('data-theme');
+        applyTheme(current === 'dark' ? 'light' : 'dark');
+      });
+    </script>
+
+  </body>
+</html>
