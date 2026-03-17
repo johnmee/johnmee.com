@@ -1,16 +1,16 @@
 ---
 title: The Technical Interview
-published: 2007-12-23
-tag: work
-disqus: http://sydneyboy.com.au/2007/12/the-technical-interview/
+date: 2007-12-23
+tags: ["work"]
 ---
 > Describes a Skype interview for a SFO startup in 2007. 
 > It was a friend-of-family for an unadvertised position on the other side of the world, so please don't
 > judge me on my performance; instead take away that I found the challenge fun and wrote it up.  
 >
 > Initially I was a fan of these tests as I saw it could screen out colleagues who could talk the 
->  talk but not walk it quite so well. But I fear the pendulum swings too far when online tests are 
->  used to preemptively filter candidates.
+>  talk but not walk it. But the pendulum has swung too far now and online tests are 
+>  used to lazily filter candidates with long challenging tests
+>  of skills they will rarely, if ever, actually use in the role&mdash;before they even know if it is a job they want.
 
 
 I just did a _Technical Interview_ for a San Francisco start up.  This type of interview seems to be 
@@ -63,7 +63,7 @@ never came close to finding.
 ## The Solution
 
 
-Like a dog to vomit I just kept on coming back to <a href="/p=23">yesterday's puzzle</a>. 
+Like a dog to vomit I just kept on coming back to yesterday's puzzle. 
 I've finally solved it.  There is absolutely no way I would ever have got this thing out 
 during an interview.  It took me three distinct 'lightbulb' moments before I understood 
 the solution.
@@ -85,7 +85,7 @@ public class TheIterator implements Iterator<node> {
 ```
 
 To preserve some kind of state inside the iterator use a _stack_.  Digging around some 
-university lecture notes <a href="http://www.jezuk.co.uk/files/iteration/slide-23.html">here</a> and <a href="http://www.cs.grinnell.edu/~rebelsky/Courses/CS152/97F/Outlines/outline.41.html">here</a> I discover this is common knowledge to anyone who is familiar with the construction of iterators.  Queues and stacks are the usual tools for keeping track of where you are.
+university lecture notes [here](http://www.jezuk.co.uk/files/iteration/slide-23.html) and [here](http://www.cs.grinnell.edu/~rebelsky/Courses/CS152/97F/Outlines/outline.41.html) I discover this is common knowledge to anyone who is familiar with the construction of iterators.  Queues and stacks are the usual tools for keeping track of where you are.
 
 To start things off put the first node into an iterator and push that onto the stack.
 
@@ -137,13 +137,11 @@ I ran aground on the trailing edge condition repeatedly. Every time I thought it
 of stuff and then find myself with the same problem: digging through an arbitrary number of dead ancestors 
 to find the next node.
 
-In the end I cheated. No, not exactly. I just stumbled over 
-<a href="http://www.koders.com/java/fidA2A75E8A5DC25A8BB8D3BEC455E5E5A8AD389CFC.aspx">this solution</a> which 
-was finished and working which was a vast improvement on what I had at the time.  It uses recursion which 
-I always like to see.
+In the end I cheated. No, not exactly. I stumbled over 
+a solution online which was finished and working and a vast improvement on what I had at the time.  It uses recursion which I always like to see.
 
 But this solution includes a trick which I don't like: calling hasNext() changes the state of the 
-iterator.  The hasNext should be <a href="http://en.wikipedia.org/wiki/Idempotent">idempotent</a> which, 
+iterator.  The hasNext should be [idempotent](http://en.wikipedia.org/wiki/Idempotent) which, 
 admittedly this is; but it does use side effects in hasNext to make next work.  Tightly coupling these 
 routines together strike me as a poor form.
 

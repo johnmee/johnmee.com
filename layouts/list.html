@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <ul class="post-list">
+    {{ range .Pages.ByDate.Reverse }}
+      <li>
+        {{ if not .Date.IsZero }}
+        <div class="post-meta">{{ .Date.Format "2 January 2006" }}</div>
+        {{ end }}
+        <div class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
