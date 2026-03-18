@@ -5,9 +5,6 @@ on:
     branches:
       - master
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,7 +16,6 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: latest  # Or specify a version like 'v0.120.0'
-#          extended: true  # Set to true if using Hugo extended
 
       - name: Build with Hugo
         run: hugo --destination public

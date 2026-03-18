@@ -1,5 +1,5 @@
 baseURL = 'https://www.johnmee.com/'
 languageCode = 'en-au'
-title = 'John Mee'
+title = 'John'
 [params]
-  tagline = 'The daily frustrations of a middle age man'
+  tagline = 'The daily frustrations of man'
