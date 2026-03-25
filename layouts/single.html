@@ -1,4 +1,26 @@
 {{ define "main" }}
+  <div class="post-nav">
+    <nav class="breadcrumb" aria-label="breadcrumb">
+      <a href="{{ .Site.BaseURL }}">Home</a>
+      <span class="breadcrumb-sep">&rsaquo;</span>
+      <span>{{ .Title }}</span>
+    </nav>
+    <button class="share-btn" data-url="{{ .Permalink }}"
+      onclick="
+      var u = this.getAttribute('data-url');
+      var b = this;
+      var o = b.textContent;
+      if (navigator.clipboard) {
+        navigator.clipboard.writeText(u).then(() => {
+          b.textContent = 'Copied!';
+          setTimeout(() => { b.textContent = o }, 2000)
+        })
+      } else {
+          window.prompt('Copy to clipboard: Ctrl+C, Enter', u);
+      }
+      ">&#128279;&nbsp;Share
+    </button>
+  </div>
   {{ if or (not .Date.IsZero) (gt .ReadingTime 0) }}
   <div class="post-meta">
     {{ if not .Date.IsZero }}{{ .Date.Format "Monday, 2 January 2006" }}{{ end }}
@@ -6,6 +28,7 @@
     {{ if gt .ReadingTime 0 }}{{ .ReadingTime }} min read{{ end }}
   </div>
   {{ end }}
+
   <h1>{{ .Title }}</h1>
   <div class="post-content">
     {{ .Content }}
