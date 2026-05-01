@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>John Mee — Senior Software Engineer</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 10.5pt;
+      line-height: 1.55;
+      color: #222;
+      background: #fff;
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 48px 56px;
+    }
+
+    /* Header */
+    header {
+      text-align: center;
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 2px solid #2c3e50;
+    }
+    header h1 {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 26pt;
+      font-weight: 700;
+      letter-spacing: 2px;
+      color: #2c3e50;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+    header .tagline {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 10pt;
+      color: #555;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    header .contact {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 9.5pt;
+      color: #444;
+    }
+    header .contact a { color: #444; text-decoration: none; }
+    header .contact a:hover { text-decoration: underline; }
+    .sep { margin: 0 8px; color: #aaa; }
+
+    /* Sections */
+    section { margin-bottom: 22px; }
+
+    h2 {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 9pt;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #2c3e50;
+      border-bottom: 1px solid #2c3e50;
+      padding-bottom: 3px;
+      margin-bottom: 12px;
+    }
+
+    /* Summary */
+    .summary p {
+      font-size: 10.5pt;
+      color: #333;
+    }
+
+    /* Highlights */
+    .highlight {
+      margin-bottom: 12px;
+    }
+    .highlight strong {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 10pt;
+      color: #2c3e50;
+      display: block;
+      margin-bottom: 2px;
+    }
+
+    /* Skills */
+    .skills-row {
+      margin-bottom: 6px;
+    }
+    .skills-label {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 9pt;
+      font-weight: 700;
+      color: #555;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      display: inline;
+    }
+    .skills-list {
+      display: inline;
+      font-size: 10pt;
+    }
+
+    /* Career History */
+    .job {
+      margin-bottom: 14px;
+    }
+    .job-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      flex-wrap: wrap;
+      gap: 4px;
+      margin-bottom: 3px;
+    }
+    .job-title {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 10.5pt;
+      font-weight: 700;
+      color: #2c3e50;
+    }
+    .job-dates {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 9pt;
+      color: #777;
+      white-space: nowrap;
+    }
+    .job-tech {
+      font-style: italic;
+      color: #666;
+      font-size: 9.5pt;
+      margin-top: 3px;
+    }
+    .job ul {
+      margin-top: 4px;
+      padding-left: 18px;
+    }
+    .job ul li {
+      margin-bottom: 2px;
+    }
+    .early-career ul {
+      padding-left: 18px;
+    }
+    .early-career ul li {
+      margin-bottom: 3px;
+    }
+
+    /* Education */
+    .edu-item {
+      margin-bottom: 4px;
+    }
+
+    /* Testimonials */
+    blockquote {
+      border-left: 3px solid #c5d0de;
+      margin: 0 0 12px 0;
+      padding: 6px 0 6px 14px;
+      color: #444;
+      font-style: italic;
+      font-size: 10pt;
+    }
+    blockquote cite {
+      display: block;
+      margin-top: 5px;
+      font-style: normal;
+      font-size: 9pt;
+      color: #666;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+
+    @media print {
+      body { padding: 24px 32px; font-size: 10pt; }
+      header h1 { font-size: 22pt; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>John Mee</h1>
+  <div class="tagline">Senior Software Engineer</div>
+  <div class="contact">
+    <span>0403 998 333</span>
+    <span class="sep">·</span>
+    <a href="mailto:resume2026@johnmee.com">resume2026@johnmee.com</a>
+    <span class="sep">·</span>
+    <span>Queenscliff NSW 2096</span>
+    <span class="sep">·</span>
+    <span>Australian Citizen</span>
+    <span class="sep">·</span>
+    <span>AEST (UTC+10/11)</span>
+    <br>
+    <a href="https://www.linkedin.com/in/johnmee-au/">linkedin.com/in/johnmee-au</a>
+  </div>
+</header>
+
+<section class="summary">
+  <h2>Professional Summary</h2>
+  <p>Career software engineer with deep expertise in Python and cloud-native backends. Has shipped production systems across fintech, health tech, media, and enterprise — from greenfield startups to legacy-critical infrastructure. Equally at home building APIs from scratch, untangling inherited codebases, or levelling up a team. Actively interested in integrating AI/LLMs into real products, and open to picking up whatever the team needs — Go, Rust, C++, you name it.</p>
+</section>
+
+<section>
+  <h2>Career Highlights</h2>
+
+  <div class="highlight">
+    <strong>Dolby Laboratories → British Telecom</strong>
+    Singlehandedly designed and deployed the global production API connecting every Dolby voice client and device worldwide — determining room membership and voice routing in real time. Built solo in 9 months. Dolby packaged the solution with British Telecom and sold it as their enterprise voice conferencing platform.
+  </div>
+
+  <div class="highlight">
+    <strong>Fitsense → Zurich Livewell</strong>
+    Senior backend engineer on a 9-person startup that built fitness tracking APIs across Garmin, Fitbit, Apple Watch, and other personal devices. Designed and delivered the AWS big-data pipeline feeding anonymised activity data to machine learning and management reporting systems. The product was acquired by Zurich Insurance and became their flagship Zurich Livewell health and loyalty app.
+  </div>
+
+  <div class="highlight">
+    <strong>Webby Award — Anglican Youthworks</strong>
+    Co-built a full-featured social platform for Christian youth (ages 13–17): membership, group chat, photo sharing, file sharing, event ticketing, and content management — all with robust child-protection controls. Won the 15th Annual Webby Award (Religion &amp; Spirituality).
+  </div>
+
+</section>
+
+<section>
+  <h2>Technical Skills</h2>
+  <div class="skills-row">
+    <span class="skills-label">Current:&nbsp;</span>
+    <span class="skills-list">Python · AWS (Lambda, DynamoDB, Aurora, Kinesis, Glue, Athena, S3) · GraphQL · REST APIs · PostgreSQL · Linux · Git · Terraform · Ansible · Node.js · Docker</span>
+  </div>
+  <div class="skills-row">
+    <span class="skills-label">Past (available when needed):&nbsp;</span>
+    <span class="skills-list">JavaScript · jQuery · PHP · Java · Spring/Hibernate · Perl · ColdFusion · Fortran · C · Oracle DB · MySQL · SQL Server · Subversion · Mercurial · Puppet</span>
+  </div>
+</section>
+
+<section>
+  <h2>Career History</h2>
+
+  <div class="job">
+    <div class="job-header">
+      <span class="job-title">SG Fleet — Senior Software Engineer</span>
+      <span class="job-dates">April 2024 – December 2025</span>
+    </div>
+    <p>Maintained critical legacy Python 2 infrastructure handling salary packaging data exchange with enterprise payroll clients. Navigated a continuous stream of security vulnerabilities, deprecated libraries, and decades of accumulated technical debt — keeping production stable under a strict ROI-driven, 12-week planning horizon. Worked alongside a large team of experienced engineers in a demanding "keep the lights on" environment where every decision required hard justification.</p>
+    <p class="job-tech">Python 2, PostgreSQL, Linux, Git, Ansible</p>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <span class="job-title">Fitsense / Zurich Insurance — Senior Backend Engineer</span>
+      <span class="job-dates">October 2019 – October 2023</span>
+    </div>
+    <p>Fitness-device APIs and AWS data pipeline for a startup acquired by Zurich Insurance to become their Livewell health app.</p>
+    <p class="job-tech">Python, GraphQL, AWS (DynamoDB, Aurora, Kinesis, Lambda, Glue, Athena), Terraform, Node.js, Linux</p>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <span class="job-title">Google / EPAM — Software Engineer</span>
+      <span class="job-dates">July 2017 – January 2019</span>
+    </div>
+    <p>Built and maintained internal tooling for Google's Technical Support Engineering teams. Key projects: the global ticket auto-assigner routing cases 24/7 across the globe, a browser extension injecting live data from multiple internal Google systems into TSE screens, and an expanded routing system enabling enterprise-grade support via a specialist third-party team in Mexico.</p>
+    <p class="job-tech">Python, JavaScript, ClosureJS, Protobuf, Linux</p>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <span class="job-title">Capital Markets CRC — Software Engineer</span>
+      <span class="job-dates">April 2016 – June 2017</span>
+    </div>
+    <p>Introduced and championed Jupyter notebooks to a team of market data analysts, enabling them to run their own research independently and significantly reducing the bottleneck on engineering resources. Also built a CLI tool for decoding raw financial market data streams from AWS S3 and contributed features to the mqdashboard web application used by global analysts.</p>
+    <p class="job-tech">Python, JavaScript, AWS</p>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <span class="job-title">Contracting &amp; Freelance</span>
+      <span class="job-dates">2012 – 2016</span>
+    </div>
+    <p>Diverse range of projects across multiple domains: self-evolving genetic algorithm code for academic research; financial market backtesting for a private investor; web scraping for a news aggregation service; a marketing workflow application; and a car-buying web app.</p>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <span class="job-title">Dolby Laboratories — Software Engineer</span>
+      <span class="job-dates">March 2011 – December 2011</span>
+    </div>
+    <p>Solo-built the global voice routing API in 9 months; Dolby licensed it to British Telecom as their enterprise conferencing platform.</p>
+    <p class="job-tech">Python, REST, PHP, JavaScript, MySQL, Linux</p>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <span class="job-title">Anglican Diocese of Sydney — Youthworks, Software Engineer</span>
+      <span class="job-dates">February 2009 – February 2011</span>
+    </div>
+    <p>Webby Award-winning social platform for Christian youth — membership, chat, photo sharing, event ticketing, and child-protection controls.</p>
+    <p class="job-tech">Python, Django, JavaScript, PostgreSQL, Linux</p>
+  </div>
+
+  <div class="job early-career">
+    <div class="job-header">
+      <span class="job-title">Early Career (pre-2009)</span>
+    </div>
+    <p>Broad experience across a wide range of environments and stacks:</p>
+    <ul>
+      <li><strong>Roads &amp; Traffic Authority NSW</strong> — among the first teams in Australia to publish real-time environmental monitoring data to the public internet, combining live air quality feeds from ventilation stacks with OCR-based number plate capture; also built workstation tooling for field surveyors</li>
+      <li><strong>Genworth Mortgage Insurance</strong> — document transformation pipeline for residential property valuations (Java/Spring/Hibernate)</li>
+      <li><strong>Various contracts</strong> — ColdFusion web development, HR systems, data transformation, QA and deployment processes, loyalty points platforms, marketing tooling</li>
+      <li><strong>AMPOL</strong> — help desk support for remote fuel depots running a bespoke UNIX/C accounting system</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h2>Education &amp; Certifications</h2>
+  <div class="edu-item">Master of Information Technology (Web Technologies) — Macquarie University, Sydney</div>
+  <div class="edu-item">Bachelor of Computing Science — University of Technology, Sydney</div>
+  <div class="edu-item">AWS Certified Cloud Practitioner — Amazon Web Services (2020)</div>
+</section>
+
+<section>
+  <h2>Testimonials</h2>
+
+  <blockquote>
+    "John was a thoroughly enjoyable fellow to work with and an invaluable source of skill and knowledge. He vigorously works his way to the core of each task, ensuring a well thought out and efficient solution. His many years of experience are obvious in what is the most beautiful and readable code I have ever seen. I hope to work with him again in the future."
+    <cite>— Daniel Bradley, Staff Programmer, Copyright Agency Limited</cite>
+  </blockquote>
+
+  <blockquote>
+    "It was an absolute pleasure to work with John and he would be an asset to any software team. He was involved in some key architectural and technology choice investigations which we are still benefiting from today."
+    <cite>— Alister Cordiner, Head of Product Development, Capital Markets CRC</cite>
+  </blockquote>
+
+  <blockquote>
+    "John would be an asset to any organisation."
+    <cite>— Russell Ayling, Technical Manager, Roads and Traffic Authority NSW</cite>
+  </blockquote>
+</section>
+
+</body>
+</html>

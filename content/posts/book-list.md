@@ -10,6 +10,48 @@ A log of some books I've actually made it to the end of.
 
 <!--more-->
 
+# 2026
+
+**To a Different Drum:an autobiography - Pauline Hamilton (1984)**
+
+You can find it at the Internet Archive.  I read it for a bookclub.
+
+Easy reading.  Goes through her life, from around 1939 to 1980, from a compelling opening story
+of attempting to commit suicide but, when thwarted 'by chance', eventually giving
+her life to God to serve as a missionary in China.  Convicting dedication to prayer over
+a tough life of personal hardship.  Inspiring, but I've been reading some amazing
+stories since joining this group (we do biographies of Christians) so this sits middle of 
+the pack.
+
+**Apple in China - Patrick McGee (2025)**
+
+Long. I did not make it to the end of this one, but list it anyways as it was very detailed
+and reveals a lot about Apple and China and how both have been able to expand into the
+powerhouses they are today.  I never realized Tim Cook came along relatively early in the story.
+
+# 2025
+
+**The Shortest History of AI - Toby Walsh (2025)**
+
+Another insightful and easy-to-read book providing a solid background on how AI has
+evolved and how it works.  Not prohitively technical; most people could read and understand it.
+Good.
+
+**The Trading Game - Gary Stevenson (2024)**
+
+Great read about an Englishman from a poor upbringing landing a trading role at a massive
+investment bank.  Extremely insightful into what goes on in those buildings.  He becomes
+massively disillusioned about the whole scene and, I believe, now tours the world (on the
+money he made there) promoting governments to tax the extremely weathly 1% as much as
+possible.
+
+**Red Notice - Bill Browder (2015)**
+
+Awesome read about an american financier who invested in businesses in Russia after
+the Soviet Union collapsed.  Expanded my history and understanding how that all happened
+and what it meant on the ground.  The corruption described is astonishing and is highly
+informative of what we see there today.
+
 # 2021
 
 **Funeral Rights - Robert Larkins**
