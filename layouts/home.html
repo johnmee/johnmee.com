@@ -3,16 +3,7 @@
   {{ $posts := where (where .Site.RegularPages "Section" "posts") ".Draft" false }}
 
   <ul class="post-list">
-    {{ range first 3 $posts }}
-      <li>
-        <div class="post-header">
-          <div class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
-          <div class="post-meta">{{ .Date.Format "2 January 2006" }}</div>
-        </div>
-        <div class="post-excerpt">{{ .Summary }}</div>
-      </li>
-    {{ end }}
-    {{ range after 3 $posts }}
+    {{ range $posts }}
       <li>
         <div class="post-header">
           <div class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
