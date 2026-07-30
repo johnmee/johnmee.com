@@ -21,11 +21,12 @@
       ">&#128279;&nbsp;Share
     </button>
   </div>
-  {{ if or (not .Date.IsZero) (gt .ReadingTime 0) }}
+  {{ $metaParts := slice }}
+  {{ if not .Date.IsZero }}{{ $metaParts = $metaParts | append (.Date.Format "Monday, 2 January 2006") }}{{ end }}
+  {{ if gt .ReadingTime 0 }}{{ $metaParts = $metaParts | append (printf "%d min read" .ReadingTime) }}{{ end }}
+  {{ if $metaParts }}
   <div class="post-meta">
-    {{ if not .Date.IsZero }}{{ .Date.Format "Monday, 2 January 2006" }}{{ end }}
-    &nbsp;·&nbsp;
-    {{ if gt .ReadingTime 0 }}{{ .ReadingTime }} min read{{ end }}
+    {{ delimit $metaParts "&nbsp;·&nbsp;" | safeHTML }}
   </div>
   {{ end }}
 

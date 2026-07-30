@@ -1,5 +1,8 @@
 baseURL = 'https://www.johnmee.com/'
-languageCode = 'en-au'
+locale = 'en-au'
 title = 'John'
 [params]
   tagline = 'The daily frustrations of man'
+
+[markup.goldmark.parser]
+  wrapStandAloneImageWithinParagraph = false

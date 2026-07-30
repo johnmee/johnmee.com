@@ -10,7 +10,7 @@ A log of some books I've actually made it to the end of.
 
 <!--more-->
 
-# 2026
+## 2026
 
 **To a Different Drum:an autobiography - Pauline Hamilton (1984)**
 
@@ -29,7 +29,7 @@ Long. I did not make it to the end of this one, but list it anyways as it was ve
 and reveals a lot about Apple and China and how both have been able to expand into the
 powerhouses they are today.  I never realized Tim Cook came along relatively early in the story.
 
-# 2025
+## 2025
 
 **The Shortest History of AI - Toby Walsh (2025)**
 
@@ -52,7 +52,7 @@ the Soviet Union collapsed.  Expanded my history and understanding how that all 
 and what it meant on the ground.  The corruption described is astonishing and is highly
 informative of what we see there today.
 
-# 2021
+## 2021
 
 **Funeral Rights - Robert Larkins**
 
@@ -73,7 +73,7 @@ formative years of getting the business up and running, thriving, and resisting
 the many temptations to 'go corporate' or 'sell-out'. (Which they ultimately did
 after this book was published).
 
-# 2020
+## 2020
 
 **Mr Eternity - Roy Williams with Elizabeth Meyers - (2017) -
 [Booktopia](https://www.booktopia.com.au/mr-eternity-roy-williams/book/9780994616654.html)**
@@ -184,7 +184,7 @@ Fortunately it closes strong by returning to longer personal journeys.
 
 A fascinating start. A grind through the middle. A nice flourish to finish.
 
-# 2019
+## 2019
 
 **The Sydney Hobart Yacht Race - Rob Mundle - (2019) -
 [HarperCollins](https://www.harpercollins.com.au/9781460711019/sydney-hobart-yacht-race/)**

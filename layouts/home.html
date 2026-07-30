@@ -4,20 +4,8 @@
 
   <ul class="post-list">
     {{ range $posts }}
-      <li>
-        <div class="post-header">
-          <div class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
-          <div class="post-meta">{{ .Date.Format "2 January 2006" }}</div>
-        </div>
-        {{ with .Params.tagline }}<div class="post-excerpt">{{ . }}</div>{{ end }}
-      </li>
+      {{ partial "post-list-item.html" (dict "title" .Title "permalink" .Permalink "dateDisplay" (.Date.Format "2 January 2006") "tagline" .Params.tagline) }}
     {{ end }}
-      <li>
-        <div class="post-header">
-          <div class="post-title"><a href="/meejinnz/">Me, John, In New Zealand</a></div>
-          <div class="post-meta">12 August 2002</div>
-        </div>
-        <div class="post-excerpt">A photo diary of three weeks on the South Island of New Zealand.</div>
-      </li>
+    {{ partial "post-list-item.html" (dict "title" "Me, John, In New Zealand" "permalink" "/meejinnz/" "dateDisplay" "12 August 2002" "tagline" "A photo diary of three weeks on the South Island of New Zealand.") }}
   </ul>
 {{ end }}

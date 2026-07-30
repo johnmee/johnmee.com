@@ -14,7 +14,7 @@ the 'foreigners'. The legal minimum for adult casuals in 2015 is over $22/hr.
 
 <!--more-->
 
-# Minimum Wage is not working
+## Minimum Wage is not working
 
 To fight back: Work the job at whatever (illegal) rate you're offered then—after
 you've quit— [reclaim the difference through the Fair Work Ombudsman][1]. Even

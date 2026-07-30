@@ -1,16 +1,26 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang | default "en" }}" data-theme="light">
+<html lang="{{ .Site.Language.Lang | default "en" }}">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    {{ $description := .Params.tagline | default .Site.Params.tagline }}
+    <meta name="description" content="{{ $description }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+    <meta property="og:title" content="{{ .Title }}">
+    <meta property="og:description" content="{{ $description }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="{{ if eq .Kind "page" }}article{{ else }}website{{ end }}">
+    <meta property="og:image" content="{{ "/snoopy_logo.png" | absURL }}">
     {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}">
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <script>
       (function() {
-        var theme = localStorage.getItem('theme') || 'light';
+        var stored = localStorage.getItem('theme');
+        var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        var theme = stored || (prefersDark ? 'dark' : 'light');
         document.documentElement.setAttribute('data-theme', theme);
       })();
     </script>
@@ -22,7 +32,8 @@
         <header>
             <div class="site-brand">
               <a href="{{ .Site.BaseURL }}" class="site-title-link">
-                <img src="/snoopy_logo.png" alt="{{ .Site.Title }} logo" class="site-logo">
+                {{ $logo := (resources.Get "images/snoopy_logo.png").Resize "200x200" }}
+                <img src="{{ $logo.RelPermalink }}" width="100" height="100" alt="" class="site-logo">
                 <div class="site-title-group">
                   <span class="site-title-text">{{ .Site.Title }}</span>
                   <span class="site-tagline">{{ .Site.Params.tagline }}</span>
@@ -31,7 +42,7 @@
             </div>
             <nav>
                 <a href="/resume-2026.html" class="resume-link">Resumé</a>
-                <button id="theme-toggle" aria-label="Toggle dark mode">☀︎</button>
+                <button id="theme-toggle" aria-label="Toggle dark mode"></button>
             </nav>
         </header>
 
@@ -48,15 +59,15 @@
 
     <script>
       var btn = document.getElementById('theme-toggle');
-      function applyTheme(t) {
-        document.documentElement.setAttribute('data-theme', t);
-        localStorage.setItem('theme', t);
+      function setGlyph(t) {
         btn.textContent = t === 'dark' ? '☀︎' : '☾';
       }
-      applyTheme(localStorage.getItem('theme') || 'light');
+      setGlyph(document.documentElement.getAttribute('data-theme'));
       btn.addEventListener('click', function() {
-        var current = document.documentElement.getAttribute('data-theme');
-        applyTheme(current === 'dark' ? 'light' : 'dark');
+        var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+        setGlyph(next);
       });
     </script>
 

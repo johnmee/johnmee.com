@@ -27,7 +27,7 @@ These are some notes about how to configure Ubuntu Linux and the Intel i7 8700,
 which has a GPU built into it, to work in tandom with an Nvidia PCIe graphics
 card/chip. I'm on a desktop, but you might also have a laptop.
 
-# TL;DR?
+## TL;DR?
 
 Set a global env variable by adding `__GL_MaxFramesAllowed=1` to the file
 `/etc/environment` and restart.
@@ -36,7 +36,7 @@ Set a global env variable by adding `__GL_MaxFramesAllowed=1` to the file
 documentation.**\
 eg: http://us.download.nvidia.com/XFree86/Linux-x86_64/418.74/README/
 
-# What is Nvidia Prime? Optimus?
+## What is Nvidia Prime? Optimus?
 
 To start at the end, I've discovered that Optimus is some glossy marketing crap
 for laptops that will actually work for me on my desktop. It is supposed to save
@@ -52,7 +52,7 @@ it!
 But it was a bit tricky to set up. Mostly because I didn't understand all the of
 the above.
 
-# Install the nvidia driver.
+## Install the nvidia driver.
 
 Actually it all started with an upgrade cycle. Somehow, under 18.04, I had
 stumbled into the above config already.\
@@ -80,7 +80,7 @@ driver   : xserver-xorg-video-nouveau - distro free builtin
 
 Note the contents of **`/var/log/gpu-manager.log`**.
 
-# But I can't login to X? Only Wayland.
+## But I can't login to X? Only Wayland.
 
 *X* or X11, xorg, x-server, has been around forever. I do mean, _forever_. Like,
 since I was a lad, and linux didn't exist yet, and the personal computer wasn't
@@ -105,7 +105,7 @@ this, almost certainly, means X is failing to start. Unfortunately there can be
 a few reasons for this. Fortunately you might not have to work out which
 specific reason applies.
 
-# Check your BIOS
+## Check your BIOS
 
 My bios detects the PCIe graphics installation and provides a graphics option
 with "auto", "integrated", "PCIe". Meaning I can tell it to ignore any monitor
@@ -118,7 +118,7 @@ plug the HDMI cable into the motherboard \*\*
 We want the GPU on the motherboard to be dominant, and passoff tasks to the GPU
 on the nvidia card.
 
-# Blacklist the Nouveau driver!
+## Blacklist the Nouveau driver!
 
 This is when I finally made some progress; I had seen it around, but didn't pay
 enough attention to it.
@@ -141,7 +141,7 @@ blacklist nouveau
 options nouveau modeset=0
 ```
 
-# Manually edit the xorg.conf
+## Manually edit the xorg.conf
 
 Yep. Sad but true. I went around and around and around. Nothing was being
 consistent (ie working).\
@@ -154,7 +154,7 @@ I thought xrandr was unrelated, old, and unnecessary. I was wrong.
 1. Add "Option AllowEmptyInitialConfiguration" to the "Screen" section
 1. Add "Driver modesetting" to the 'intel' Device.
 
-# Create a '$HOME/.xinitrc'
+## Create a '$HOME/.xinitrc'
 
 You need this to enable the Intel graphics device in X. This is why you're
 getting a blank screen, or cursor, if you login and X is actually starting, but
@@ -167,7 +167,7 @@ xrandr --setprovideroutputsource modesetting NVIDIA-0
 xrandr --auto
 ```
 
-# Some commands that helped
+## Some commands that helped
 
 Inxi is not installed by default, but was worth it. It's just a harmless script
 which gathers useful information.

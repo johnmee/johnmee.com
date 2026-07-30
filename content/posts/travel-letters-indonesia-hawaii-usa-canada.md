@@ -12,11 +12,11 @@ Canada. These are the early letters home.
 
 <!--more-->
 
-# Letters Home from 1992
+## Letters Home from 1992
 
-## Kuta, Bali, Indonesia
+### Kuta, Bali, Indonesia
 
-### October 15, 1992
+#### October 15, 1992
 
 Well I've been gone a month now which is, and isn't, hard to believe - if that
 makes any sense. Work at Ampol is a block of life forgotten. Feels like that was
@@ -104,7 +104,7 @@ expectations, but then I haven't really left Kuta.
 
 ![The mish-mash of Kuta/Legian looking from Poppies Lane II toward the beach](/images/travel1992/poppies_two_view.jpg)
 
-### October 19, 1992
+#### October 19, 1992
 
 Ok well after reading over that lot of waffle I realise that I was about to
 launch into a detailed approximation of the balinese people & culture. Pretty
@@ -187,7 +187,7 @@ losing its power, never ending, and never too fast to crank off (or attempt) a
 roundhouse cutback. It was perfect - for half an hour - then about another 30
 surfers joined us 6 and it became drop-in city. Bliss is never eternal.
 
-## October 20, 1992
+#### October 20, 1992
 
 Teamed up with a kiwi guy who has no money. He came over with about $1000 for 5
 weeks and spent $500 in the first 3 days on booze & rip-offs, so was looking to
@@ -328,9 +328,9 @@ leave here a good 5 kgs heavier.
 PPPS. What a boring letter. I think I should just quit this one and start a more
 interesting one right now. Sorry Guys.
 
-## Surabaya, Java, Indonesia
+### Surabaya, Java, Indonesia
 
-### October 23, 1992
+#### October 23, 1992
 
 Every day I tell myself I should start filling in my diary. Every day I decide
 to do it tomorrow because I have to catch up on the days I've missed. Then I
@@ -340,7 +340,7 @@ I'll cut my losses and do both at once and see if that works.
 Well it doesn't work. Its now about 1 1/2 hours since I wrote that. I've been
 talking to a group of Brits who've spent 7 months in Hawaii.
 
-### October 25, 1992
+#### October 25, 1992
 
 Ok, yesterday I walked around the city. My initial impression upon arrival was
 that this filthy dirty city wasn't as bad as they said. But after a walk around
@@ -401,7 +401,7 @@ I drove the becak to the club and back. It was great. A bit of exercise at last.
 No wonder I never write. If I write, I want to write everything. If I write
 everything I'll spend more time writing than doing. Arrrrgh.
 
-### October 26, 1992
+#### October 26, 1992
 
 Umm, yesterday. I slept, sat, wrote, went to McDonalds. Shock horror. The meat
 was pretty thin - there's no such thing as a quarter pounder. And the
@@ -430,9 +430,9 @@ for the cheapies) I was pretty happy I beat 6 of them in a row.
 ![Mt Bromo from the rim](/images/travel1992/mt_bromo_rim.jpg)
 ![Mt Bromo at the bottom of the crater](/images/travel1992/mt_bromo_inside.jpg)
 
-## Jogjakata, Java, Indonesia
+### Jogjakata, Java, Indonesia
 
-### October 27, 1992
+#### October 27, 1992
 
 Left Surabuya for Jogjakata. Was told the train left at 1pm but it eventually
 left at 3pm arriving at 10:30. Only cost 2600rp ($1.70) to go 400 kms. There
@@ -448,7 +448,7 @@ away from the riff-raff.
 Walked around Jogja trying to get my bearings, sat in restaurants talking to
 people. Basically did nothing but walk aimlessly and lounge about.
 
-### October 28, 1992
+#### October 28, 1992
 
 Yesterday I spent 10,000 for a tourist bus out to the main attractions of Yogya.
 The Borobuduhr - an 8th century Buddist temple - and another big old Hindu
@@ -475,9 +475,9 @@ impressed.
 ![Borobudur Temple](/images/travel1992/borobudur.jpg)
 ![Prambanan Temple](/images/travel1992/prambanan.jpg)
 
-## Kuta, Bali, Indonesia
+### Kuta, Bali, Indonesia
 
-### November 2, 1992
+#### November 2, 1992
 
 Ok, so the Melbourne Cup should be tomorrow and the US elections the same day
 I'm told. I can buy one paper instead of two! Oops my morning banana jaffle has
@@ -670,9 +670,9 @@ letter.
 
 Bye Love John
 
-## Uluwatu, Bali, Indonesia
+### Uluwatu, Bali, Indonesia
 
-### November 13, 1992
+#### November 13, 1992
 
 Dear Phil,
 
@@ -708,7 +708,7 @@ Anyway the swells building still - one more day then Hawaii.
 
 ![The warungs at Uluwatu in 1992](/images/travel1992/uluwatu_warungs_1992.jpg)
 
-### November 15, 1992
+#### November 15, 1992
 
 Wow man! Aeroplanes are incredible! I'm now on a 747-200 cruising over a place I
 spent 2 months getting the little picture. I'm sitting here going - wow that's
@@ -796,9 +796,9 @@ at Ulu's were. They were taking vitamin pills. The locals have tea for
 breakfast, a banana for lunch, plain rice for dinner. 75% infant mortality rate
 and a 35 year old is a very old man.
 
-## North Shore, Oahu, Hawaii
+### North Shore, Oahu, Hawaii
 
-### December 30, 1992
+#### December 30, 1992
 
 ![Fifteen foot swell at Waimea Bay](/images/travel1992/hawaii-waimea.jpg)
 
@@ -907,7 +907,7 @@ My favourite spots would be:
 ![The staff at Mark Foo's Backpackers on the North Shore of Oahu. Christmas 1992](/images/travel1992/hawaii-staff.jpg)
 ![The fun crowd in Hawaii](/images/travel1992/hawaii-crew.jpg)
 
-### January 7, 1993
+#### January 7, 1993
 
 Hey, I'm at the airport again. Flying to Seattle with Northwest on a ticket that
 cost me AU$150!!! At home the travel agent tried to convince me to buy a ticket
@@ -991,7 +991,7 @@ That's enough on Hawaii - I'm getting lazy but too bad.
 
 !['Small' Off-The-Wall (next peak up west from Pipeline)](/images/travel1992/hawaii-off-the-wall.jpg)
 
-### January 15, 1993
+#### January 15, 1993
 
 Well I made it here. Michael met me at the airport and has found me a place to
 sleep in the basement. Meredith (my cousin) is here also so we've been using
@@ -1076,9 +1076,9 @@ late than never huh? Bye All
 
 Love John.
 
-## Big White, British Columbia, Canada
+### Big White, British Columbia, Canada
 
-### March 23, 1993
+#### March 23, 1993
 
 Well yes I've been extremely slack with my letter writing lately haven't I. I
 sent mum a little update on Seattle via the computer so I haven't been that bad,
@@ -1104,7 +1104,7 @@ dropped Meredith at Vancouver airport and found it swarming with Aussies looking
 for work. Hence I decided that since I have transport I might try something a
 little further afield.
 
-### April 1, 1993
+#### April 1, 1993
 
 First up I went to Red Mountain. The poor ski legends paradise - complete with
 quadruple black diamond runs (over 80° slope). Skied some hell runs then moved
@@ -1192,9 +1192,9 @@ Banff, Alberta. I think I'll stay here a while. The scenery is breathtaking,
 even moreso than all the other breathtaking scenery I've described. I can point
 the camera in any direction and get a great photo.
 
-## Banff, Alberta, Canada
+### Banff, Alberta, Canada
 
-### April 13, 1993
+#### April 13, 1993
 
 ![Banff township](/images/travel1992/banff-township.jpg)
 

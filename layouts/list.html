@@ -2,12 +2,9 @@
   <h1>{{ .Title }}</h1>
   <ul class="post-list">
     {{ range .Pages.ByDate.Reverse }}
-      <li>
-        {{ if not .Date.IsZero }}
-        <div class="post-meta">{{ .Date.Format "2 January 2006" }}</div>
-        {{ end }}
-        <div class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
-      </li>
+      {{ $dateDisplay := "" }}
+      {{ if not .Date.IsZero }}{{ $dateDisplay = .Date.Format "2 January 2006" }}{{ end }}
+      {{ partial "post-list-item.html" (dict "title" .Title "permalink" .Permalink "dateDisplay" $dateDisplay "tagline" .Params.tagline) }}
     {{ end }}
   </ul>
 {{ end }}
