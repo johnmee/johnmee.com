@@ -2,9 +2,11 @@
 
 Personal website for John Mee at [www.johnmee.com](https://www.johnmee.com). A minimalist blog and portfolio publishing technical articles, book reviews, and professional information.
 
+Day-to-day editing — new posts, template changes, styling — is done with [Claude Code](https://claude.com/claude-code). See `CLAUDE.md` for the stack, conventions, and gotchas it needs to know. This file just covers what a human (or a first Claude session) needs to get the site running.
+
 ## Architecture
 
-A static site built with [Hugo](https://gohugo.io), deployed automatically to GitHub Pages on every push to `master`.
+A static site built with [Hugo](https://gohugo.io), deployed automatically to GitHub Pages on every push to `master`. No external theme — all templates are hand-written in `layouts/`.
 
 ```
 johnhugo/
@@ -12,25 +14,40 @@ johnhugo/
 ├── archetypes/
 │   └── default.md              # Template for new content (hugo new)
 ├── assets/
-│   └── css/main.css            # All site styles (light/dark theme, responsive)
+│   ├── css/main.css            # All site styles (light/dark theme, responsive)
+│   └── images/                 # Assets run through Hugo's image pipeline
 ├── content/
 │   ├── posts/                  # Blog posts (date-ordered)
+│   ├── contact.md              # Contact page and PGP public key
 │   └── disclaimer.md           # Disclaimer page (custom URL)
 ├── layouts/
-│   └── _default/
-│       ├── baseof.html         # Base template: header, footer, theme toggle
-│       ├── home.html           # Homepage: latest 5 posts
-│       ├── single.html         # Individual post/page
-│       └── list.html           # Section index pages
+│   ├── baseof.html             # Base template: header, footer, theme toggle
+│   ├── home.html               # Homepage: latest 5 posts
+│   ├── list.html                # Section index pages
+│   ├── single.html              # Individual post/page
+│   ├── _markup/                 # Render hooks (images, tables)
+│   ├── _partials/                # Shared partials (post-list-item)
+│   └── _shortcodes/              # Shortcodes (bot-resistant email link)
 ├── static/                     # Served as-is: images, documents, favicon
+├── .stylelintrc.json           # CSS lint rules
+├── package.json                # stylelint, via `npm run lint:css`
 └── hugo.toml                   # Site config: baseURL, title, tagline
 ```
 
-No external theme is used — all templates are custom and contained in `layouts/`.
+## Content & Assets
+
+A few files under `static/` are kept deliberately even though nothing on the site links to them — personal archive, not oversight:
+
+- `images/resume/` — company logos from an older resume design.
+- `images/oodnadata_track.jpeg` — background image from a retired stylesheet.
+- `resume.docx` — an older resume with images worth keeping.
+
+`static/css/normalize.css` and `skeleton.css` (unused CSS frameworks from an earlier iteration of the site) were removed — they conflicted with the current custom theming system and had nothing worth salvaging.
 
 ## Requirements
 
-- [Hugo](https://gohugo.io/installation/) (extended version recommended)
+- [Hugo](https://gohugo.io/installation/) extended, **0.164 or newer** (the templates rely on the 0.146+ layout lookup system — see `CLAUDE.md`).
+- [Node.js](https://nodejs.org/) + npm, for CSS linting only.
 
 ```sh
 hugo version
@@ -48,104 +65,15 @@ hugo server -D
 # Visit http://localhost:1313
 ```
 
+## Linting
+
+```sh
+npm install
+npm run lint:css
+```
+
+Lints `assets/css/main.css` with stylelint. Run it after any CSS change.
+
 ## Deployment
 
 Pushing to `master` triggers the GitHub Actions workflow (`.github/workflows/hugo.yml`), which builds the site and deploys it to GitHub Pages automatically. No manual steps required.
-
----
-
-## How to Add a Post
-
-**1. Create the file**
-
-```sh
-hugo new posts/my-post-title.md
-```
-
-This generates `content/posts/my-post-title.md` with front matter pre-filled from the archetype. The title is derived from the filename.
-
-**2. Edit the front matter and content**
-
-```markdown
-+++
-date = '2026-03-24T00:00:00+00:00'
-draft = true
-title = 'My Post Title'
-+++
-
-Your content here in Markdown.
-```
-
-- Set `draft = false` (or remove the line) when ready to publish.
-- `date` controls sort order on the homepage and post list.
-
-**3. Preview locally**
-
-```sh
-hugo server -D   # -D shows drafts
-```
-
-**4. Publish**
-
-Set `draft = false` in the front matter, commit, and push to `master`. The site deploys automatically.
-
----
-
-## How to Modify Templates and Layouts
-
-All templates live in `layouts/_default/`. Hugo uses Go's `html/template` package.
-
-### Base Template — `baseof.html`
-
-Every page inherits from this. It defines the outer HTML shell:
-
-- **Header** — site title (links to homepage), dark mode toggle button
-- **Main content block** — `{{ block "main" . }}` — overridden by each template below
-- **Footer** — copyright year and disclaimer link
-- **CSS** — loaded from `assets/css/main.css` via Hugo's asset pipeline (minified + fingerprinted)
-- **Theme script** — inline JS that reads/writes `localStorage` to persist light/dark preference
-
-To change the site-wide header, footer, or add scripts that appear on every page, edit `baseof.html`.
-
-### Homepage — `home.html`
-
-Overrides the `main` block. Displays the five most recent posts from the `posts` section with their date, title, and summary. To change the number of posts shown, update the `first` parameter:
-
-```html
-{{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-```
-
-### Single Post/Page — `single.html`
-
-Renders an individual piece of content. Displays publish date, estimated reading time, and the full content body. Applied to every post in `content/posts/` and any standalone page like `content/disclaimer.md`.
-
-### List Page — `list.html`
-
-Renders section index pages (e.g. `/posts/`). Lists all pages in the section sorted by date, newest first. Each entry shows the date and a link to the page.
-
-### Styles — `assets/css/main.css`
-
-The stylesheet uses CSS custom properties for theming:
-
-```css
-:root { --bg: #fff; --text: #222; --accent: #0057b8; }
-[data-theme="dark"] { --bg: #111; --text: #ddd; --accent: #58a6ff; }
-```
-
-- Edit `:root` and `[data-theme="dark"]` to change the colour scheme.
-- The layout is a single centred column, max-width 860px.
-- No external CSS frameworks are active — `normalize.css` and `skeleton.css` in `static/` are not currently loaded.
-
-### Site Configuration — `hugo.toml`
-
-```toml
-baseURL = 'https://www.johnmee.com/'
-languageCode = 'en-au'
-title = 'John'
-
-[params]
-  tagline = 'The daily frustrations of man'
-```
-
-- `title` appears in the browser tab and is referenced in templates as `{{ .Site.Title }}`.
-- `params.tagline` is available in templates as `{{ .Site.Params.tagline }}`.

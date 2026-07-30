@@ -146,6 +146,8 @@ each perplexed as to where I found joy in watching two buses come toward us at
 season) on either side and an army of Wayne Gardners buzzing around you like the
 proverbial bees and honeypot. It was great.
 
+![Driving around Bali with the English girls we rented a car with](/images/travel1992/driving_round_bali.jpg)
+
 Where did we go is rather secondary to the joys of getting there. Ummm, one day
 we went surfing, one day we went to Ubud, which is supposed to be the cultural
 centre of Bali, full of peace, beauty, and inspiration. All we found was a few
@@ -209,6 +211,7 @@ For surfers out there heres the set up...
 
 ![The surf breaks of Nusa Lembongan](/images/travel1992/nusa_lembongan_surf_breaks.png)
 ![Nusa Lembongan from the air](/images/travel1992/nusa_lembongan_aerial.jpg)
+![The beach at Nusa Lembongan](/images/travel1992/nusa_lembongan_beach.jpg)
 
 The swell hit on the third day. There were about 10 surfers on the island 5 of
 which had a very big night. It was the day after the new moon. At no mans land
@@ -429,6 +432,7 @@ for the cheapies) I was pretty happy I beat 6 of them in a row.
 ![Cloud rolling into Mt Bromo](/images/travel1992/mt_bromo_cloud.jpg)
 ![Mt Bromo from the rim](/images/travel1992/mt_bromo_rim.jpg)
 ![Mt Bromo at the bottom of the crater](/images/travel1992/mt_bromo_inside.jpg)
+![Climbing back out of the crater at Mt Bromo](/images/travel1992/mt_bromo_way_out.jpg)
 
 ### Jogjakata, Java, Indonesia
 
@@ -707,6 +711,7 @@ know how to get in (not an easy task if you don't catch anything)!
 Anyway the swells building still - one more day then Hawaii.
 
 ![The warungs at Uluwatu in 1992](/images/travel1992/uluwatu_warungs_1992.jpg)
+![One of the locals at Uluwatu](/images/travel1992/elderly_balinese_man_at_uluwatu_1992.jpg)
 
 #### November 15, 1992
 
@@ -906,6 +911,7 @@ My favourite spots would be:
 
 ![The staff at Mark Foo's Backpackers on the North Shore of Oahu. Christmas 1992](/images/travel1992/hawaii-staff.jpg)
 ![The fun crowd in Hawaii](/images/travel1992/hawaii-crew.jpg)
+![Some of the girls from the backpackers on the North Shore](/images/travel1992/hawaii-girls.jpg)
 
 #### January 7, 1993
 

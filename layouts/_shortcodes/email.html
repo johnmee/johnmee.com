@@ -1,0 +1,9 @@
+<a href="#" class="obfuscated-email">email (enable JavaScript to view)</a>
+<script>
+(function() {
+  var el = document.currentScript.previousElementSibling;
+  var u = {{ .Get "user" | jsonify | safeJS }}, d = {{ .Get "domain" | jsonify | safeJS }};
+  el.href = 'mailto:' + u + '@' + d;
+  el.textContent = u + '@' + d;
+})();
+</script>

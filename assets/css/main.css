@@ -1,19 +1,19 @@
 :root {
-  --bg: #ffffff;
+  --bg: #fff;
   --gutter: #f0f0f0;
-  --text: #222222;
-  --muted: #666666;
-  --accent: #0066cc;
-  --border: #dddddd;
+  --text: #222;
+  --muted: #666;
+  --accent: #06c;
+  --border: #ddd;
 }
 
 [data-theme="dark"] {
   --bg: #1a1a1a;
-  --gutter: #111111;
-  --text: #dddddd;
-  --muted: #999999;
+  --gutter: #111;
+  --text: #ddd;
+  --muted: #999;
   --accent: #4da6ff;
-  --border: #333333;
+  --border: #333;
 }
 
 *, *::before, *::after {
@@ -35,7 +35,7 @@ img {
 body {
   background: var(--gutter);
   color: var(--text);
-  font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+  font-family: system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
   font-size: 1.1rem;
   line-height: 1.7;
   transition: background 0.2s, color 0.2s;
@@ -58,7 +58,7 @@ body {
   margin: 0 auto;
   padding: 2rem 1.5rem;
   background: var(--bg);
-  box-shadow: 0 0 12px rgba(0,0,0,0.06);
+  box-shadow: 0 0 12px rgb(0 0 0 / 6%);
 }
 
 /* Header */
