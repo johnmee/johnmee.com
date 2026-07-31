@@ -38,3 +38,5 @@ Posts use YAML (`---`) frontmatter with `title`, `date`, `tagline`, `tags`, `cat
 - `resources.Get "x" | images.Resize ...` is not valid on this Hugo version — `Resize` isn't a pipeline function. Use the method form: `(resources.Get "images/x.png").Resize "200x webp q90"`.
 - `static/meejinnz/index.html` and `static/resume-2026.html` are intentionally hand-written outside the Hugo template system — the former is a deliberate 1999-style period piece (nested tables, `bgcolor`). Don't "fix" or modernize either.
 - `public/` and `resources/` are build output/image cache (gitignored) — never hand-edit.
+
+See `JOURNAL.md` in this directory for a log of past session work.
