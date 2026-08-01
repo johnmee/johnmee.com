@@ -169,13 +169,57 @@
       font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
 
+    /* Back to site — screen only, never printed */
+    .site-back {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 9pt;
+      margin-bottom: 18px;
+    }
+    .site-back a {
+      color: #777;
+      text-decoration: none;
+      display: inline-block;
+      padding: 4px 2px;
+    }
+    .site-back a:hover { color: #2c3e50; text-decoration: underline; }
+
+    /* Mobile. Scoped to screen so print/PDF output is unaffected.
+       Sizes are restated rather than scaled because every rule above
+       uses absolute pt units, which do not inherit from body. */
+    @media screen and (max-width: 600px) {
+      body { padding: 24px 20px; font-size: 12pt; }
+
+      header { margin-bottom: 20px; }
+      header h1 { font-size: 19pt; letter-spacing: 1px; }
+      header .tagline { font-size: 10pt; }
+      header .contact { font-size: 10.5pt; }
+      .sep { margin: 0 5px; }
+
+      h2 { font-size: 10pt; }
+      .summary p { font-size: 12pt; }
+      .highlight strong { font-size: 11.5pt; }
+      .skills-label { font-size: 10pt; }
+      .skills-list { font-size: 11.5pt; }
+      .job-title { font-size: 12pt; }
+      .job-dates { font-size: 10pt; }
+      .job-tech { font-size: 11pt; }
+      blockquote { font-size: 11.5pt; }
+      blockquote cite { font-size: 10pt; }
+
+      .site-back { font-size: 11pt; }
+      .site-back a { padding: 11px 2px; }
+    }
+
     @media print {
       body { padding: 24px 32px; font-size: 10pt; }
       header h1 { font-size: 22pt; }
+      .site-back { display: none; }
     }
   </style>
 </head>
 <body>
+
+<div class="site-back"><a href="/">&larr;&nbsp;johnmee.com</a></div>
 
 <header>
   <h1>John Mee</h1>

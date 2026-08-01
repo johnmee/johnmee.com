@@ -401,6 +401,11 @@ a:hover {
 /* Single post */
 .post-content {
   margin-top: 1.5rem;
+
+  /* Long URLs and file paths in prose otherwise force the whole page
+     to scroll sideways on narrow phones. Code blocks keep white-space:
+     pre, so they still scroll inside their own container instead. */
+  overflow-wrap: break-word;
 }
 
 .post-content p,
