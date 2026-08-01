@@ -4,6 +4,21 @@ title = 'John'
 [params]
   tagline = 'The daily frustrations of man'
 
+# Mirror static/ into assets/ as well as its normal home, so the image
+# render hook can read intrinsic width/height for files that live in
+# static/. Nothing moves and no URL changes — static/ is still copied
+# verbatim, this just makes the same files readable by resources.Get.
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'static'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'static'
+    target = 'static'
+
 [markup.goldmark.parser]
   wrapStandAloneImageWithinParagraph = false
 

@@ -403,26 +403,6 @@ a:hover {
   margin-bottom: 1.2rem;
 }
 
-.post-tags {
-  margin-top: 2rem;
-  font-size: 0.82rem;
-  color: var(--muted);
-}
-
-.post-tags a {
-  color: var(--muted);
-  text-decoration: none;
-  border: 1px solid var(--border);
-  padding: 0.1rem 0.4rem;
-  border-radius: 4px;
-  margin-right: 0.3rem;
-}
-
-.post-tags a:hover {
-  color: var(--accent);
-  border-color: var(--accent);
-}
-
 .site-brand {
   display: flex;
 }

@@ -1,5 +1,17 @@
+{{- $src := .Destination -}}
+{{- $dim := "" -}}
+{{- /* Emit intrinsic width/height so the browser reserves space before the
+       lazy-loaded image arrives. static/ is mounted into assets/ (see
+       hugo.toml) purely so resources.Get can read these dimensions. */ -}}
+{{- if not (strings.HasPrefix $src "http") -}}
+  {{- with resources.Get (strings.TrimPrefix "/" $src) -}}
+    {{- if eq .ResourceType "image" -}}
+      {{- $dim = printf ` width="%d" height="%d"` .Width .Height -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 {{- if .IsBlock -}}
-<figure><img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}" loading="lazy"></figure>
+<figure><img src="{{ $src | safeURL }}" alt="{{ .PlainText }}" loading="lazy"{{ $dim | safeHTMLAttr }}></figure>
 {{- else -}}
-<img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}" loading="lazy">
+<img src="{{ $src | safeURL }}" alt="{{ .PlainText }}" loading="lazy"{{ $dim | safeHTMLAttr }}>
 {{- end -}}

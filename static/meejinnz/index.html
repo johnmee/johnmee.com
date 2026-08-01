@@ -13,6 +13,24 @@ IMG:hover {color:red;}
 .date	{font-family: Verdana, Arial, sans-serif;color: black;font-size:medium;font-weight:bold;}
 .posts	{font-family: Verdana, Arial, sans-serif;color: black;font-size:medium;}
 .byline	{font-family: Verdana, Arial, sans-serif;color: #999999;font-size:medium;}
+/* Narrow screens only. 22 of the images carry no width attribute, so they
+   render at natural size (roadside.jpg is 640px) and pin the page to 670px
+   wide, clipping every line of text. Desktop rendering is unchanged. */
+@media (max-width: 700px) {
+  /* The 80% table gives desktop a white gutter either side; widening it to
+     100% here removed that, so put a small one back rather than letting the
+     grey header and text run into the screen edge. */
+  body { padding: 0 10px; }
+
+  table[width="80%"] { width: 100% !important; }
+  img {
+    /* border-box so border="5" counts inside the cap, and -20px leaves
+       room for the hspace="10" margins that sit outside it. */
+    box-sizing: border-box;
+    max-width: calc(100% - 20px);
+    height: auto;
+  }
+}
 </style>
 </head>
 
