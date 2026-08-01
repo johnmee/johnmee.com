@@ -32,8 +32,8 @@
         <header>
             <div class="site-brand">
               <a href="{{ .Site.BaseURL }}" class="site-title-link">
-                {{ $logo := (resources.Get "images/snoopy_logo.png").Resize "200x200" }}
-                <img src="{{ $logo.RelPermalink }}" width="100" height="100" alt="" class="site-logo">
+                {{ $logo := (resources.Get "images/snoopy_logo.png").Resize "160x160" }}
+                <img src="{{ $logo.RelPermalink }}" width="56" height="56" alt="" class="site-logo">
                 <div class="site-title-group">
                   <span class="site-title-text">{{ .Site.Title }}</span>
                   <span class="site-tagline">{{ .Site.Params.tagline }}</span>

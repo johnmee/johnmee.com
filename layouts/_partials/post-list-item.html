@@ -1,7 +1,9 @@
 <li>
-  <div class="post-header">
-    <div class="post-title"><a href="{{ .permalink }}">{{ .title }}</a></div>
-    {{ if .dateDisplay }}<div class="post-meta">{{ .dateDisplay }}</div>{{ end }}
-  </div>
-  {{ with .tagline }}<div class="post-excerpt">{{ . }}</div>{{ end }}
+  <a class="post-list-link" href="{{ .permalink }}">
+    <div class="post-header">
+      <div class="post-title">{{ .title }}</div>
+      {{ if .dateDisplay }}<div class="post-meta">{{ .dateDisplay }}</div>{{ end }}
+    </div>
+    {{ with .tagline }}<div class="post-excerpt">{{ . }}</div>{{ end }}
+  </a>
 </li>

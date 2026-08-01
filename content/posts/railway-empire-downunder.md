@@ -29,16 +29,16 @@ budget is tight. At length, it takes some time to complete all the goals.
 > Yours is the only Railway Company. There are no competitors throughout this
 > entire scenario.
 
-##General Advice
+## General Advice
 
-###This scenario is about Freight
+### This scenario is about Freight
 
 I felt no great loss in ignoring Mail and Passengers entirely. I set some
 "Mixed" city-to-city trains but was not inclined to set any Passenger/Mail
 exclusive express trains. The complications in keeping the lines clear for them
 just wasn't worth it; the "easy money" comes in other ways.
 
-###Reclaim periodically
+### Reclaim periodically
 
 You may find it valuable to selectively "reclaim" (destroy) trains, tracks, and
 stations when they are no longer productive, or just clutter your mind and/or
@@ -47,7 +47,7 @@ or mentally taxing, trains, rails, stations, even abandon towns from previous
 goals. You get the money back, clear your map, and mind, and thus can refocus
 toward the next goal.
 
-###Work the Industries
+### Work the Industries
 
 This scenario will feel like it is deliberately placing exactly the wrong
 industry you need into towns. Perhaps that is by design, perhaps not, but you
@@ -66,7 +66,7 @@ always build a station on resources.
 
 Specifically, after you complete the early goals around Melbourne, the next
 goals are a thousand miles away in Sydney. Yes, you could build a long
-single-track across the desert, or winding around coast. [b]Or[/b] you can get
+single-track across the desert, or winding around coast. *Or* you can get
 started right away by building warehouses to serve the cities; don't bother with
 stations until you have the money and track to connect the two colonies.
 
@@ -76,13 +76,13 @@ Once you get into the middle game, the permits to build new towns accumulate.
 You need to build 5 towns to complete one of the goals. The rest can, and
 perhaps should, be ignored so you can focus on the actual goals.
 
-###Borrow to the max
+### Borrow to the max
 
 Take as much early capital as is available to grow your empire. Spend most of it
 on track, trains, etc, but always keep some cash in hand (~$100,000) for
 auctions and staff opportunities.
 
-###Go for GOLD!
+### Go for GOLD!
 
 Once you get past the initial goals, there is bit of fanfare about "Gold". You
 might scratch your head at first, but my advice is to go and check the demand
@@ -93,7 +93,7 @@ especially if you buy and upgrade the mines to match the demand.
 In the late game, the demand for gold abates from Sydney (not Melbourne
 however), and is replaced by Cement and Steel.
 
-###Who to play as?
+### Who to play as?
 
 - "The General" might be your best bet, I am guessing with hindsight.
 - "The Industrialist" could be good; esp. for working the industries.
@@ -135,57 +135,75 @@ For goals along the way:
 
 ### No Man's Land
 
-| 1832 | Connect 2 cities to your rail network |\
-| 1834 | Connect 3 rural businesses to your rail network |\
+| Year | Goal |
+| --- | --- |
+| 1832 | Connect 2 cities to your rail network |
+| 1834 | Connect 3 rural businesses to your rail network |
 | 1835 | Connect 55,733 people to your rail network |
 
 - the destination (Swan Hill) will be the town you founded...
 
-| 1840 | Deliver 15 loads of Beer to Swan Hill |\
-| 1840 | Deliver 15 loads of Grain to Swan Hill |\
-| 1840 | Deliver 15 loads of Seafood to Swan Hill |\
+| Year | Goal |
+| --- | --- |
+| 1840 | Deliver 15 loads of Beer to Swan Hill |
+| 1840 | Deliver 15 loads of Grain to Swan Hill |
+| 1840 | Deliver 15 loads of Seafood to Swan Hill |
 | 1840 | Deliver 15 loads of Wood to Swan Hill |
 
 ### A Long Way
 
 - You never have to complete the latter goal: it is replaced by the Gold Rush...
 
-| 1841 | Gain access to the area of Victoria East |\
+| Year | Goal |
+| --- | --- |
+| 1841 | Gain access to the area of Victoria East |
 | 1900 | Connect 8 cities to your rail network |
 
 ### Gold Rush
 
-| 1844 | Establish the town of Walhalla |\
-| 1845 | Connect 1 business producing Gold to your rail network |\
-| 1850 | Deliver 40 loads of Gold to Melbourne |\
-| 1852 | Gain access to the area of New South Wales Coast |\
-| 1858 | Establish the town of Armidale |\
+| Year | Goal |
+| --- | --- |
+| 1844 | Establish the town of Walhalla |
+| 1845 | Connect 1 business producing Gold to your rail network |
+| 1850 | Deliver 40 loads of Gold to Melbourne |
+| 1852 | Gain access to the area of New South Wales Coast |
+| 1858 | Establish the town of Armidale |
 | 1860 | Deliver 40 loads of Gold to Sydney |
 
-| 1862 | Gain access to the area of New South Wales Central |\
-| 1868 | Establish the town of Orange |\
+| Year | Goal |
+| --- | --- |
+| 1862 | Gain access to the area of New South Wales Central |
+| 1868 | Establish the town of Orange |
 | 1870 | Achieve an annual profit of $650,000 from freight |
 
 ### Progress Is Unstoppable
 
-| 1915 | Have 2 cities with a population of at least 80,000 |\
-| 1915 | Produce 40 loads of Clothing |\
-| 1915 | Produce 30 loads of Rail-O-Mite |\
-| 1915 | Produce 10 loads of Newspapers |\
+| Year | Goal |
+| --- | --- |
+| 1915 | Have 2 cities with a population of at least 80,000 |
+| 1915 | Produce 40 loads of Clothing |
+| 1915 | Produce 30 loads of Rail-O-Mite |
+| 1915 | Produce 10 loads of Newspapers |
 | 1915 | Transport 20 loads of Cement to towns |
 
 ### Bridge Building
 
-| 1885 | Connect Brisbane and Melbourne |\
-| 1885 | Connect Adelaide and Melbourne |\
+| Year | Goal |
+| --- | --- |
+| 1885 | Connect Brisbane and Melbourne |
+| 1885 | Connect Adelaide and Melbourne |
 | 1885 | Establish 5 more towns |
 
-| 1892 | Deliver 200 loads of Sheeps Wool to Brisbane |\
-| 1894 | Deliver 200 loads of Lumber to Adelaide |\
+| Year | Goal |
+| --- | --- |
+| 1892 | Deliver 200 loads of Sheeps Wool to Brisbane |
+| 1894 | Deliver 200 loads of Lumber to Adelaide |
 | 1896 | Deliver 200 loads of Rum to Newcastle |
 
 - Somewhere around here the demand for gold in Sydney dries up...
 
-| 1930 | Deliver 120 loads of Cement to Sydney |\
-| 1930 | Deliver 120 loads of Steel to Sydney |\
+| Year | Goal |
+| --- | --- |
+| 1930 | Deliver 120 loads of Cement to Sydney |
+| 1930 | Deliver 120 loads of Steel to Sydney |
 | 1930 | Reach a population of 60,000 in Canberra |

@@ -6,3 +6,8 @@ title = 'John'
 
 [markup.goldmark.parser]
   wrapStandAloneImageWithinParagraph = false
+
+[markup.highlight]
+  style = 'dracula'
+  noClasses = true
+  lineNos = false
