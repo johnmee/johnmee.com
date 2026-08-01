@@ -97,14 +97,6 @@ body {
   box-shadow: 0 1px 3px rgb(0 0 0 / 6%);
 }
 
-@media (width <= 600px) {
-  .container {
-    margin: 0 auto;
-    border-radius: 0;
-    padding: 1.75rem 1.25rem;
-  }
-}
-
 /* Header */
 header {
   display: flex;
@@ -242,8 +234,6 @@ tbody tr:nth-child(even) {
   padding: 0;
   border-radius: 6px;
   font-size: 0.9rem;
-  width: 32px;
-  height: 32px;
   min-width: 44px;
   min-height: 44px;
   display: flex;
@@ -435,4 +425,68 @@ a:hover {
 
 .site-brand {
   display: flex;
+}
+
+/* ---------------------------------------------------------------
+   Mobile. Kept as a single breakpoint, placed last so these rules
+   win over the component rules above rather than relying on
+   source order earlier in the file.
+   --------------------------------------------------------------- */
+@media (width <= 600px) {
+  .container {
+    margin: 0 auto;
+    border-radius: 0;
+    padding: 1.75rem 1.25rem;
+  }
+
+  /* Let the nav drop to its own right-aligned row when it no longer
+     fits, so the tagline gets a full line instead of wrapping to three. */
+  header {
+    flex-wrap: wrap;
+    row-gap: 0.75rem;
+  }
+
+  nav {
+    margin-left: auto;
+  }
+
+  /* Stack title over date. The date is nowrap, so side-by-side it
+     squeezes long titles into a narrow column. */
+  .post-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.1rem;
+  }
+
+  .post-header .post-meta {
+    margin-bottom: 0.25rem;
+  }
+
+  /* Unfloat the share button so the title gets the full width.
+     column-reverse shows the h1 above the button despite DOM order. */
+  .post-heading {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+
+  .share-btn {
+    float: none;
+    margin-left: 0;
+    margin-top: 0.75rem;
+    margin-bottom: 0;
+  }
+}
+
+/* Touch devices get a 44px target on the small chrome links. Keyed on
+   pointer rather than width, so a phone in landscape is still covered
+   and desktop rendering is untouched. */
+@media (pointer: coarse) {
+  nav a.resume-link,
+  footer a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 0 0.35rem;
+  }
 }

@@ -16,12 +16,21 @@
     {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}">
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <meta name="theme-color" content="#f2f2ef">
     <script>
+      // Resolved values of --gutter (the page background behind the card).
+      // theme-color can't use an attribute selector, so the toggle has to
+      // keep this in sync rather than a prefers-color-scheme media query.
+      window.themeColors = { light: '#f2f2ef', dark: '#0a0907' };
+      window.applyTheme = function(theme) {
+        document.documentElement.setAttribute('data-theme', theme);
+        var meta = document.querySelector('meta[name="theme-color"]');
+        if (meta) meta.setAttribute('content', window.themeColors[theme]);
+      };
       (function() {
         var stored = localStorage.getItem('theme');
         var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-        var theme = stored || (prefersDark ? 'dark' : 'light');
-        document.documentElement.setAttribute('data-theme', theme);
+        window.applyTheme(stored || (prefersDark ? 'dark' : 'light'));
       })();
     </script>
     {{ block "head" . }}{{ end }}
@@ -67,7 +76,7 @@
       setGlyph(document.documentElement.getAttribute('data-theme'));
       btn.addEventListener('click', function() {
         var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-        document.documentElement.setAttribute('data-theme', next);
+        window.applyTheme(next);
         localStorage.setItem('theme', next);
         setGlyph(next);
       });
