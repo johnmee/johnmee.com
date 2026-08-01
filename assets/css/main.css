@@ -35,14 +35,14 @@
   --gutter: oklch(96% 0.003 90deg);
   --text: oklch(22% 0.006 90deg);
   --muted: oklch(52% 0.006 90deg);
-  --accent: oklch(55.% 0.12 255deg);
+  --accent: oklch(55% 0.12 255deg);
   --border: oklch(90% 0.003 90deg);
   --card-radius: 8px;
 }
 
 [data-theme="dark"] {
   --bg: oklch(20% 0.005 90deg);
-  --gutter: oklch(14.% 0.005 90deg);
+  --gutter: oklch(14% 0.005 90deg);
   --text: oklch(88% 0.004 90deg);
   --muted: oklch(60% 0.006 90deg);
   --accent: oklch(75% 0.12 255deg);
