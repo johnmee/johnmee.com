@@ -3,7 +3,7 @@
 (function() {
   var el = document.currentScript.previousElementSibling;
   var u = {{ .Get "user" | jsonify | safeJS }}, d = {{ .Get "domain" | jsonify | safeJS }};
-  el.href = 'mailto:' + u + '@' + d;
-  el.textContent = u + '@' + d;
+  el.href = 'mailto:' + u + ' [at] ' + d;
+  el.textContent = u + ' [at] ' + d;
 })();
 </script>
